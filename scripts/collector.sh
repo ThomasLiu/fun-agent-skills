@@ -42,10 +42,13 @@ Repo 信息：
 3. 小红书/朋友圈能发？能装逼？
 4. 有梗的、轻松的内容？
 
-返回 JSON：
+返回 JSON（只返回 JSON，不要其他内容）：
 {\"interesting\": true/false, \"fun_angle\": \"有趣的角度\", \"xhs_topic\": \"小红书话题标签\", \"desc_zh\": \"中文翻译（要接地气、有梗）\"}"
     
-    echo "$prompt" | claude -p --model minimax/MiniMax-M2.7 2>/dev/null | grep -A 10 '^{' | head -15
+    local tmpfile=$(mktemp)
+    echo "$prompt" > "$tmpfile"
+    claude -p --model minimax/MiniMax-M2.7 < "$tmpfile" 2>/dev/null | grep -A 10 '^{' | head -15
+    rm -f "$tmpfile"
 }
 
 generate_xhs_content() {
@@ -72,7 +75,10 @@ generate_xhs_content() {
 
 直接输出文案，不要其他内容。"
     
-    echo "$prompt" | claude -p --model minimax/MiniMax-M2.7 2>/dev/null
+    local tmpfile=$(mktemp)
+    echo "$prompt" > "$tmpfile"
+    claude -p --model minimax/MiniMax-M2.7 < "$tmpfile" 2>/dev/null
+    rm -f "$tmpfile"
 }
 
 collect_skills() {

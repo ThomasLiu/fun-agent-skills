@@ -32,6 +32,28 @@
       "filename": "ask-fake-ai-karen",
       "stars": 68,
       "collected_at": "2026-04-02"
+    },
+    {
+      "name": "Ruckus-Bot",
+      "url": "https://github.com/Alpha2935/Ruckus-Bot",
+      "description": "💥 A chaotic-fun Discord bot — pranks, moderation, GIF battles, donation tracking & more.",
+      "description_zh": "💥 把你 Discord 整成精神状态发言区的 chaos bot！恶作剧、GIF 互撕、管理全靠吼……正经人谁用啊笑死",
+      "fun_angle": "混乱恶搞风 Discord 机器人，支持 pranks 恶作剧、GIF 大战、 moderation 搞笑管理，能把 Discord 频道变成沙雕游乐场",
+      "xhs_topic": "#Discord机器人 #沙雕bot #恶搞工具 #GIF大战 #社死bot",
+      "filename": "ruckus-bot",
+      "stars": 2,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "Deep-fake",
+      "url": "https://github.com/chenmeilong/Deep-fake",
+      "description": "Deep-fake AI换脸 项目",
+      "description_zh": "一个让你轻松实现AI换脸的项目——把脸换到任意视频里，朋友、明星、电影角色随便玩。虽然只有13颗星，但作为朋友圈整蛊素材绝对够用。",
+      "fun_angle": "AI换脸——把自己P进电影片段、和明星换脸、恶搞朋友脸，绝对是朋友圈整活神器。这个deepfake项目就是干这个的，技术门槛降低了，普通玩家也能玩。",
+      "xhs_topic": "#AI换脸 #Deepfake #整活必备 #朋友丑照大赛 #黑科技",
+      "filename": "deep-fake",
+      "stars": 13,
+      "collected_at": "2026-04-02"
     }
   ],
   "collected_at": null
