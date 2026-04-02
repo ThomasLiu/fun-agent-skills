@@ -21,6 +21,17 @@
       "filename": "some-funny-ai-tool",
       "stars": 0,
       "collected_at": "2026-04-02"
+    },
+    {
+      "name": "ask-fake-ai-karen",
+      "url": "https://github.com/ChintanTrivedi/ask-fake-ai-karen",
+      "description": "AI-generated talking head video of fake people responding to your input question text.",
+      "description_zh": "一个能让假人视频回答你问题的 AI 项目——输入问题，AI 生成的假人开口说话。支持自定义人物造型，有点像「数字傀儡」。名字叫 Karen（懂的都懂），玩法骚气，适合发给朋友看他们什么反应。",
+      "fun_angle": "让 AI 生成的假人 'Karen' 回答你输入的任何问题——本质上是个可自定义的嘴替/傀儡，能让假人说你想说的话。名字自带 meme 气质（Karen 是欧美互联网 meme 形象），玩法类似「如果让这个假人回应 XX 问题」。可玩性高，适合整活。",
+      "xhs_topic": "#AI整活 #人工智能 #假人 Karen # TalkingHead #AI视频 #沙雕技能 #神转折",
+      "filename": "ask-fake-ai-karen",
+      "stars": 68,
+      "collected_at": "2026-04-02"
     }
   ],
   "collected_at": null
