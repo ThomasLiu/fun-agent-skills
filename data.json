@@ -54,6 +54,50 @@
       "filename": "deep-fake",
       "stars": 13,
       "collected_at": "2026-04-02"
+    },
+    {
+      "name": "VoodooFakeAirport",
+      "url": "https://github.com/mercurysquad/VoodooFakeAirport",
+      "description": "A \"fake\" OS X driver that pretends to be an Airport-compatible WiFi device",
+      "description_zh": "macOS 巫毒假机场：一个假装自己是无线网卡的驱动，骗 Mac 说「我有WiFi哦」，实际插了跟没插一样，主打一个玄学上网",
+      "fun_angle": "macOS 整蛊大法——装个「空气WiFi驱动」让系统以为自己有网卡，实际啥也没有，妥妥的巫毒黑科技",
+      "xhs_topic": "#macOS黑科技 #WiFi整蛊 #程序员梗 #技术梗",
+      "filename": "voodoofakeairport",
+      "stars": 6,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "MyTwitterBots.github.io",
+      "url": "https://github.com/MyTwitterBots/MyTwitterBots.github.io",
+      "description": "Project Website",
+      "description_zh": "救命！发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！打工人快乐源泉，周末整活必备 😂",
+      "fun_angle": "这个仓库本质是个「打工人快乐老家」——收集各种整活型 AI 工具，画饼老板模拟器、假人 Karen 开口说话、AI 换脸整蛊朋友，全是摸鱼神器 + 朋友圈整活素材。轻松有趣，话题性强。",
+      "xhs_topic": "#GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器",
+      "filename": "mytwitterbots-github-io",
+      "stars": 0,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "xn--fhrerschein-abc-zvb.de",
+      "url": "https://github.com/Svetjana666/xn--fhrerschein-abc-zvb.de",
+      "description": "Homoglyph Fun^^ [Research on a fake AI website made for phishing and as part of botnet infrastructure]",
+      "description_zh": "把「Führerschein驾照」故意写成「fhrerschein」，然后伪装成.de域名——这就是黑客界著名的同形异义攻击（Homoglyph），用看起来一模一样的字符偷天换日。这个repo研究的就是这种fake AI钓鱼站和僵尸网络基础设施，有技术含量的整蛊行为。",
+      "fun_angle": "把德语单词Führerschein（驾照）的ü换成普通u，变成无意义的fhrerschein，再用punycode伪装成.de域名——这是一种Homoglyph（同形异义）攻击。研究的是用长得一样的字符偷天换日钓鱼网站，属于炫技型梗。",
+      "xhs_topic": "#钓鱼网站 # Punycode #同形异义攻击 #网络安全 #德语梗",
+      "filename": "xn--fhrerschein-abc-zvb-de",
+      "stars": 6,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "DeepFakeAI-GUI-2026",
+      "url": "https://github.com/lasthero3819/DeepFakeAI-GUI-2026",
+      "description": "DeepFake Soft AI is a powerful and user-friendly desktop software designed to help creators produce highly realistic, AI-driven video and photo manipulations easily.",
+      "description_zh": "DeepFake换脸软件出了桌面版！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器。",
+      "fun_angle": "AI换脸软件终于出了GUI版本！以后给自己换个明星脸不是梦。属于那种「卧槽这居然真的能做」的技术，小红书发个换脸视频绝对有流量。",
+      "xhs_topic": "#AI换脸 #DeepFake #黑科技 #神技能 #整活神器 #人工智能",
+      "filename": "deepfakeai-gui-2026",
+      "stars": 43,
+      "collected_at": "2026-04-02"
     }
   ],
   "collected_at": null
