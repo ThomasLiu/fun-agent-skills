@@ -28,7 +28,7 @@ analyze_skill() {
     local desc="$3"
     local stars="$4"
     
-    local prompt="分析这个 GitHub Repo 是否有话题性、适合做小红书内容。
+    local prompt="分析这个 GitHub Repo 是否有梗、有趣、适合发小红书/朋友圈/微博。
 
 Repo 信息：
 - 名称: $name
@@ -36,39 +36,64 @@ Repo 信息：
 - 描述: $desc
 - 星数: $stars
 
-请分析并返回 JSON：
-{\"interesting\": true/false, \"reason\": \"原因\", \"clickbaitscore\": 数字, \"topic_angle\": \"内容角度\", \"desc_zh\": \"中文简介\"}"
+判断标准（全部满足才 interesting=true）：
+1. 有趣/有梗/能玩/恶搞？而不是正经技术工具
+2. 能引发讨论？有话题性？
+3. 小红书/朋友圈能发？能装逼？
+4. 有梗的、轻松的内容？
 
-    echo "$prompt" | claude -p --model minimax/MiniMax-M2.7 2>/dev/null | grep -A 20 '^{' | head -20
+返回 JSON：
+{\"interesting\": true/false, \"fun_angle\": \"有趣的角度\", \"xhs_topic\": \"小红书话题标签\", \"desc_zh\": \"中文翻译（要接地气、有梗）\"}"
+    
+    echo "$prompt" | claude -p --model minimax/MiniMax-M2.7 2>/dev/null | grep -A 10 '^{' | head -15
 }
 
 generate_xhs_content() {
     local name="$1"
     local desc_zh="$2"
-    local reason="$3"
-    local topic_angle="$4"
+    local fun_angle="$3"
+    local xhs_topic="$4"
     
-    local prompt="为这个 AI Agent Skill 写一篇小红书种草文案。
+    local prompt="为这个 GitHub 项目写一篇小红书种草文案。
 
-名称: $name
+项目: $name
 简介: $desc_zh
-有趣点: $reason
-内容角度: $topic_angle
+有趣角度: $fun_angle
+话题标签: $xhs_topic
 
 要求：
-- 标题党风格，吸引眼球
+- 标题党风格，要夸张、要震惊、要引发好奇
 - 300-500字
-- 多 emoji
-- 有话题性
-- 结尾引导关注/评论
+- 多 emoji，要活泼
+- 可以玩梗、恶搞
+- 结尾引导评论/关注
+- 语气轻松有趣，像朋友聊天
+- 可以加 #话题标签
 
 直接输出文案，不要其他内容。"
-
+    
     echo "$prompt" | claude -p --model minimax/MiniMax-M2.7 2>/dev/null
 }
 
 collect_skills() {
-    local keywords=("claude-code skill" "agent skill" "openclaws skill" "cursor rules")
+    # 有趣/接地气的关键词
+    local keywords=(
+        "funny ai tool"
+        "chatbot prompt viral"
+        "twitter bot github"
+        "reddit bot funny"
+        "discord bot prank"
+        "老板 模拟器"
+        "fake ai"
+        "troll bot"
+        "boss simulator"
+        "girlfriend bot"
+        "waifu chat"
+        "模拟 角色"
+        "viral twitter github"
+        "autoresponder bot"
+    )
+    
     local collected=0
     local analyzed=0
     
@@ -79,23 +104,21 @@ collect_skills() {
         
         log "搜索: $kw"
         
-        local search_result=$(gh search repos "$kw" --sort stars --limit 20 --json name,url,description,stargazersCount 2>/dev/null)
+        local search_result=$(gh search repos "$kw" --sort stars --limit 15 --json name,url,description,stargazersCount 2>/dev/null)
         
         if [ -z "$search_result" ]; then
-            log "搜索失败: $kw"
             continue
         fi
         
         local count=$(echo "$search_result" | jq 'length' 2>/dev/null || echo 0)
-        log "找到 $count 个结果"
         
         for i in $(seq 0 $((count - 1))); do
             if [ $collected -ge 3 ]; then
                 break
             fi
             
-            if [ $analyzed -ge 20 ]; then
-                log "已分析 $analyzed 个，停止搜索"
+            if [ $analyzed -ge 15 ]; then
+                log "已分析 $analyzed 个"
                 break 2
             fi
             
@@ -105,7 +128,7 @@ collect_skills() {
             local desc=$(echo "$repo" | jq -r '.description')
             local stars=$(echo "$repo" | jq -r '.stargazersCount')
             
-            # 去重检查
+            # 去重
             if echo "$existing_urls" | grep -q "^${url}$"; then
                 continue
             fi
@@ -120,20 +143,19 @@ collect_skills() {
             local interesting=$(echo "$analysis" | jq -r '.interesting // false' 2>/dev/null)
             
             if [ "$interesting" != "true" ]; then
-                log "话题性不足，跳过"
+                log "不够有趣，跳过"
                 continue
             fi
             
-            local reason=$(echo "$analysis" | jq -r '.reason // ""' 2>/dev/null)
-            local clickbaitscore=$(echo "$analysis" | jq -r '.clickbaitscore // 5' 2>/dev/null)
-            local topic_angle=$(echo "$analysis" | jq -r '.topic_angle // ""' 2>/dev/null)
+            local fun_angle=$(echo "$analysis" | jq -r '.fun_angle // ""' 2>/dev/null)
+            local xhs_topic=$(echo "$analysis" | jq -r '.xhs_topic // ""' 2>/dev/null)
             local desc_zh=$(echo "$analysis" | jq -r '.desc_zh // ""' 2>/dev/null)
             
             # 生成小红书内容
             log "生成小红书内容..."
-            local xhs_content=$(generate_xhs_content "$name" "$desc_zh" "$reason" "$topic_angle")
+            local xhs_content=$(generate_xhs_content "$name" "$desc_zh" "$fun_angle" "$xhs_topic")
             
-            # 写入 md 文件
+            # 写入 md
             local filename=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr '/' '-' | tr '.' '-')
             local md_file="$SKILLS_DIR/${filename}.md"
             
@@ -143,9 +165,8 @@ name: $name
 url: $url
 description: $desc
 description_zh: $desc_zh
-reason: $reason
-topic_angle: $topic_angle
-clickbaitscore: $clickbaitscore
+fun_angle: $fun_angle
+xhs_topic: $xhs_topic
 stars: $stars
 collected_at: $(date '+%Y-%m-%d')
 ---
@@ -156,43 +177,41 @@ collected_at: $(date '+%Y-%m-%d')
 
 $desc_zh
 
-## 为什么有趣
+## 有趣角度
 
-$reason
-
-## 内容角度
-
-$topic_angle
+$fun_angle
 
 ## 小红书内容
 
 $xhs_content
+
+## 话题标签
+
+$xhs_topic
 
 ## 仓库链接
 
 [GitHub]($url)
 MDEOF
             
-            # 更新数据文件
+            # 更新数据
             local new_skill=$(jq -n \
                 --arg name "$name" \
                 --arg url "$url" \
                 --arg desc "$desc" \
                 --arg desc_zh "$desc_zh" \
-                --arg reason "$reason" \
-                --arg topic_angle "$topic_angle" \
+                --arg fun_angle "$fun_angle" \
+                --arg xhs_topic "$xhs_topic" \
                 --arg filename "$filename" \
-                --argjson clickbaitscore "$clickbaitscore" \
                 --argjson stars "$stars" \
                 '{
                     name: $name,
                     url: $url,
                     description: $desc,
                     description_zh: $desc_zh,
-                    reason: $reason,
-                    topic_angle: $topic_angle,
+                    fun_angle: $fun_angle,
+                    xhs_topic: $xhs_topic,
                     filename: $filename,
-                    clickbaitscore: $clickbaitscore,
                     stars: $stars,
                     collected_at: (now | strftime("%Y-%m-%d"))
                 }')
@@ -221,7 +240,7 @@ update_readme() {
     {
         echo "# 🦄 Fun Agent Skills"
         echo ""
-        echo "> 有趣的 Agent Skills 收集，专注有话题性、能博眼球的内容素材"
+        echo "> 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材"
         echo ""
         echo "更新时间: $(date '+%Y-%m-%d') | 共 $count 个 Skills"
         echo ""
@@ -232,12 +251,12 @@ update_readme() {
     } > "$README_FILE"
     
     if [ "$count" -gt 0 ]; then
-        echo "$skills" | jq -r 'sort_by(.clickbaitscore // 0) | reverse | to_entries[] | "| \(.key + 1) | [\(.value.name)](\(.value.url)) | \(.value.description_zh // .value.description) | [GitHub](\(.value.url)) | [小红书](./skills/\(.value.filename).md) |"' >> "$README_FILE"
+        echo "$skills" | jq -r 'to_entries[] | "| \(.key + 1) | [\(.value.name)](\(.value.url)) | \(.value.description_zh // .value.description) | [GitHub](\(.value.url)) | [小红书](./skills/\(.value.filename).md) |"' >> "$README_FILE"
         
         echo "" >> "$README_FILE"
         echo "## 🎯 热门推荐" >> "$README_FILE"
         echo "" >> "$README_FILE"
-        echo "$skills" | jq -r 'sort_by(.clickbaitscore // 0) | reverse | .[0:3][] | "- **[\(.name)](\(.url))** - \(.description_zh // .description)"' >> "$README_FILE"
+        echo "$skills" | jq -r '.[] | "- **[\(.name)](\(.url))** \(.xhs_topic // "")"' >> "$README_FILE"
     else
         echo "" >> "$README_FILE"
         echo "暂无内容。" >> "$README_FILE"
@@ -250,12 +269,12 @@ main() {
     init_data
     existing_urls=$(get_existing_urls)
     
-    log "已有 $(echo "$existing_urls" | grep -c '^' || echo 0) 个 Skills"
+    log "已有 $(echo "$existing_urls" | grep -c '^' || echo 0) 个"
     
     local new_count=$(collect_skills)
     update_readme
     
-    log "完成！新增 $new_count 个 Skills，总计 $(cat "$DATA_FILE" | jq '.skills | length') 个"
+    log "完成！新增 $new_count 个，总计 $(cat "$DATA_FILE" | jq '.skills | length') 个"
 }
 
 main
