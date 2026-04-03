@@ -175,6 +175,17 @@
       "filename": "themonarch",
       "stars": 6,
       "collected_at": "2026-04-03"
+    },
+    {
+      "name": "nickyabbot",
+      "url": "https://github.com/karmab/nickyabbot",
+      "description": "Troll Bot",
+      "description_zh": "一个专门用来「抬杠」的 Bot，名字还故意拼得怪怪的 — GitHub 上的沙雕整活项目，星数少但够玩",
+      "fun_angle": "Troll Bot — 一个专门用来「抬杠」的机器人，名字还叫 nickyabbot（恶搞某人的名字？），属于典型的整活开源项目。Troll 文化本身就是互联网最经典的梗类目。",
+      "xhs_topic": "#程序员整活 #TrollBot #沙雕开源 #GitHub沙雕项目 #代码也有梗",
+      "filename": "nickyabbot",
+      "stars": 4,
+      "collected_at": "2026-04-03"
     }
   ],
   "collected_at": null
