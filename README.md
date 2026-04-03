@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-03 | 共 17 个 Skills
+更新时间: 2026-04-04 | 共 25 个 Skills
 
 ## 📂 分类汇总
 
@@ -25,6 +25,14 @@
 | 15 | [telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot) | 一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌 | [GitHub](https://github.com/the-qust0s/telegram-troll-bot) | [小红书](./skills/telegram-troll-bot.md) |
 | 16 | [TheMonarch](https://github.com/TheHamsterDog/TheMonarch) | 让你的 Discord 拥有专属「赛博嘴替」！别人敢骂它就敢回怼，脏话自动过滤+反手一个阴阳怪气。有时还会随机抽人开喷，主打一个情绪不稳定。整活群必备，群主都在用的快乐源泉。 | [GitHub](https://github.com/TheHamsterDog/TheMonarch) | [小红书](./skills/themonarch.md) |
 | 17 | [nickyabbot](https://github.com/karmab/nickyabbot) | 一个专门用来「抬杠」的 Bot，名字还故意拼得怪怪的 — GitHub 上的沙雕整活项目，星数少但够玩 | [GitHub](https://github.com/karmab/nickyabbot) | [小红书](./skills/nickyabbot.md) |
+| 18 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 19 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 20 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 21 | [null](null) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](null) | [小红书](./skills/null.md) |
+| 22 | [null](null) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](null) | [小红书](./skills/null.md) |
+| 23 | [null](null) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](null) | [小红书](./skills/null.md) |
+| 24 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人，星少但够整蛊！ | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
+| 25 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人！名字就叫「巨魔机器人哈哈哈」🤣 核心功能：发垃圾信息轰炸好友、刷屏、整蛊——正经人谁用啊（不是）！才3颗星，反而说明是还没被发现的宝藏整活项目 🐛 | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
 
 ## 🎯 热门推荐
 
@@ -45,3 +53,11 @@
 - **[telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot)** #TelegramBot #整活神器 #骂人机器人 #俄语学习 #电子斗嘴
 - **[TheMonarch](https://github.com/TheHamsterDog/TheMonarch)** #Discord机器人 #整活bot #赛博嘴替 #互联网嘴替 #杠精bot
 - **[nickyabbot](https://github.com/karmab/nickyabbot)** #程序员整活 #TrollBot #沙雕开源 #GitHub沙雕项目 #代码也有梗
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #搞笑代码
+- **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #程序员整活 #摸鱼必备 #宝藏项目挖掘
