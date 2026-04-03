@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-03 | 共 17 个 Skills
+更新时间: 2026-04-03 | 共 27 个 Skills
 
 ## 📂 分类汇总
 
@@ -25,6 +25,16 @@
 | 15 | [null](null) | 救命！发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
 | 16 | [reverse-slowloris](https://github.com/nickhuber/reverse-slowloris) | 反向 Slowloris 整蛊爬虫机器人！让那些天天扫你端口的爬虫慢慢等、等个寂寞，黑吃黑的技术整蛊小工具。 | [GitHub](https://github.com/nickhuber/reverse-slowloris) | [小红书](./skills/reverse-slowloris.md) |
 | 17 | [jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot) | Reddit上的印度考生钓鱼Bot，名字就是「JEE-Neetards」——印度高考没考上的就被这么叫。Bot专门在Reddit上钓鱼怼考生，用LLM越狱做'现实检验'，还附带考试倒计时和毒鸡汤meme图生成功能。考试地狱里找乐子，懂的都懂 🤡 | [GitHub](https://github.com/zendrix396/jeeneetards-bot) | [小红书](./skills/jeeneetards-bot.md) |
+| 18 | [null](null) | 救命！发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 19 | [null](null) | 救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 20 | [null](null) | 救命！发现一个专门收集「笑着摸鱼」AI工具的GitHub仓库——老板画饼？AI一键生成怼回去！假人开口说话？Karen在线嘴替！换脸恶搞朋友？安排！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 21 | [null](null) | 救命！发现一个专门收集「笑着摸鱼」AI工具的GitHub仓库——老板画饼？AI一键生成怼回去！假人开口说话？Karen在线嘴替！换脸恶搞朋友？安排！爬虫想薅数据？反手让它卡死！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 22 | [TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq) | 一个专门在 QQ 里搞事情的恶搞机器人，能自动复读、随机整蛊、自动回复，适合在摸鱼群或好友群里整活 | [GitHub](https://github.com/Atlas0079/TrollBot4qq) | [小红书](./skills/trollbot4qq.md) |
+| 23 | [telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot) | 一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌 | [GitHub](https://github.com/the-qust0s/telegram-troll-bot) | [小红书](./skills/telegram-troll-bot.md) |
+| 24 | [null](null) | 救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话？Karen 在线嘴替！换脸恶搞朋友？安排！还有 QQ 恶搞 Bot 和 Telegram 骂人 Bot，电子斗嘴神器！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 25 | [null](null) | 救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话？Karen 在线嘴替！换脸恶搞朋友？安排！还有 QQ 恶搞 Bot 和 Telegram 俄语骂人 Bot，电子斗嘴神器！每个 skill 都自带小红书文案模板，打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 26 | [null](null) | 救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话 Karen 上线！换脸恶搞朋友？安排！爬虫想薅数据？反手让它卡死！打工人快乐老家，周末整活必备 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 27 | [TheMonarch](https://github.com/TheHamsterDog/TheMonarch) | 让你的 Discord 拥有专属「赛博嘴替」！别人敢骂它就敢回怼，脏话自动过滤+反手一个阴阳怪气。有时还会随机抽人开喷，主打一个情绪不稳定。整活群必备，群主都在用的快乐源泉。 | [GitHub](https://github.com/TheHamsterDog/TheMonarch) | [小红书](./skills/themonarch.md) |
 
 ## 🎯 热门推荐
 
@@ -45,3 +55,13 @@
 - **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #摸鱼快乐源泉
 - **[reverse-slowloris](https://github.com/nickhuber/reverse-slowloris)** #程序员梗 #网络安全 #爬虫反爬 #技术冷幽默 #GitHub有趣项目 #反向Slowloris #以彼之道还施彼身
 - **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)** #印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #摸鱼快乐源泉
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #摸鱼快乐源泉 #整活达人 #Karen语音 #画饼老板 #摸鱼必备
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #职场吐槽 #画饼老板 #摸鱼神器 #沙雕工具 #整活必备
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #职场吐槽 #画饼老板 #摸鱼神器 #沙雕工具 #整活必备
+- **[TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq)** #QQ机器人 #恶搞神器 #摸鱼必备 #整蛊好友 #程序员整活
+- **[telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot)** #TelegramBot #整活神器 #骂人机器人 #俄语学习 #电子斗嘴
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #整蛊好友 #宝藏项目发现
+- **[null](null)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #宝藏项目发现 #整蛊好友 #摸鱼必备
+- **[null](null)** #GitHub整活 #打工人摸鱼 #AI整活 #职场吐槽神器 #恶搞工具 #摸鱼快乐源泉
+- **[TheMonarch](https://github.com/TheHamsterDog/TheMonarch)** #Discord机器人 #整活bot #赛博嘴替 #互联网嘴替 #杠精bot

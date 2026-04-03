@@ -230,6 +230,72 @@
       "filename": "null",
       "stars": null,
       "collected_at": "2026-04-02"
+    },
+    {
+      "name": "TrollBot4qq",
+      "url": "https://github.com/Atlas0079/TrollBot4qq",
+      "description": "",
+      "description_zh": "一个专门在 QQ 里搞事情的恶搞机器人，能自动复读、随机整蛊、自动回复，适合在摸鱼群或好友群里整活",
+      "fun_angle": "QQ 恶搞机器人！专门用来整蛊好友的 QQ 机器人，属于是摸鱼群友的快乐源泉。名字就透着股「我要搞事」的气息，想想在群里放个自动复读、随机回复、整蛊表情包的 bot，多欢乐",
+      "xhs_topic": "#QQ机器人 #恶搞神器 #摸鱼必备 #整蛊好友 #程序员整活",
+      "filename": "trollbot4qq",
+      "stars": 6,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "telegram-troll-bot",
+      "url": "https://github.com/the-qust0s/telegram-troll-bot",
+      "description": "Бот для оскорблений в телеграм",
+      "description_zh": "一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌",
+      "fun_angle": "俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，支持自定义骂人语句，妥妥的电子斗嘴神器",
+      "xhs_topic": "#TelegramBot #整活神器 #骂人机器人 #俄语学习 #电子斗嘴",
+      "filename": "telegram-troll-bot",
+      "stars": 6,
+      "collected_at": "2026-04-02"
+    },
+    {
+      "name": "null",
+      "url": "null",
+      "description": "null",
+      "description_zh": "救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话？Karen 在线嘴替！换脸恶搞朋友？安排！还有 QQ 恶搞 Bot 和 Telegram 骂人 Bot，电子斗嘴神器！打工人快乐老家，周末整活必备 😂",
+      "fun_angle": "这个 Repo 根本就是「互联网整活工具百科全书」！收录了各种有梗项目：老板画饼怼回去的 AI、假人开口说话的 Karen、换脸恶搞工具、QQ/Telegram 恶搞 Bot……全是打工人摸鱼必备、朋友圈装逼神器。读 README 就一个字：笑死",
+      "xhs_topic": "#GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #整蛊好友 #宝藏项目发现",
+      "filename": "null",
+      "stars": null,
+      "collected_at": "2026-04-03"
+    },
+    {
+      "name": "null",
+      "url": "null",
+      "description": "null",
+      "description_zh": "救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话？Karen 在线嘴替！换脸恶搞朋友？安排！还有 QQ 恶搞 Bot 和 Telegram 俄语骂人 Bot，电子斗嘴神器！每个 skill 都自带小红书文案模板，打工人快乐老家，周末整活必备 😂",
+      "fun_angle": "这个 Repo 就是「互联网整活工具百科全书」！专门收录各种有梗的 AI 工具和恶搞项目——老板画饼怼回去的 AI、假人开口说话的 Karen、换脸恶搞朋友、QQ/Telegram 恶搞 Bot、反向 Slowloris 整蛊爬虫……读 README 就一个字：笑死！每个 skill 都自带小红书文案模板，简直是打工人摸鱼必备、朋友圈装逼神器",
+      "xhs_topic": "#GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器 #宝藏项目发现 #整蛊好友 #摸鱼必备",
+      "filename": "null",
+      "stars": null,
+      "collected_at": "2026-04-03"
+    },
+    {
+      "name": "null",
+      "url": "null",
+      "description": "null",
+      "description_zh": "救命！这个 GitHub 仓库专门收集「笑着摸鱼」的 AI 整活工具——老板画饼？AI 一键怼回去！假人开口说话 Karen 上线！换脸恶搞朋友？安排！爬虫想薅数据？反手让它卡死！打工人快乐老家，周末整活必备 😂",
+      "fun_angle": "打工人快乐老家！专门收集整蛊老板、AI怼人、换脸恶搞、爬虫反杀、QQ/Telegram骂人机器人……全是上班摸鱼、下班整活的邪道工具，笑死人不偿命",
+      "xhs_topic": "#GitHub整活 #打工人摸鱼 #AI整活 #职场吐槽神器 #恶搞工具 #摸鱼快乐源泉",
+      "filename": "null",
+      "stars": null,
+      "collected_at": "2026-04-03"
+    },
+    {
+      "name": "TheMonarch",
+      "url": "https://github.com/TheHamsterDog/TheMonarch",
+      "description": "This is a discord bot that deletes people's swears and replies back with an insult. It sometimes even randomly replies to people with insults. Basically, it's a troll bot.",
+      "description_zh": "让你的 Discord 拥有专属「赛博嘴替」！别人敢骂它就敢回怼，脏话自动过滤+反手一个阴阳怪气。有时还会随机抽人开喷，主打一个情绪不稳定。整活群必备，群主都在用的快乐源泉。",
+      "fun_angle": "一个专门怼人、骂人并删除脏话的 Discord 机器人 —— 别人说脏话它骂回去，有时候还随机无差别攻击。堪称赛博嘴替，阴阳怪气天花板。",
+      "xhs_topic": "#Discord机器人 #整活bot #赛博嘴替 #互联网嘴替 #杠精bot",
+      "filename": "themonarch",
+      "stars": 6,
+      "collected_at": "2026-04-03"
     }
   ],
   "collected_at": null
