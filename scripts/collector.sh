@@ -47,7 +47,7 @@ Repo 信息：
     
     local tmpfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    claude -p --model minimax/MiniMax-M2.7 < "$tmpfile" 2>/dev/null | grep -A 10 '^{' | head -15
+    claude -p < "$tmpfile" 2>/dev/null | grep -A 10 '^{' | head -15
     rm -f "$tmpfile"
 }
 
@@ -77,7 +77,7 @@ generate_xhs_content() {
     
     local tmpfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    claude -p --model minimax/MiniMax-M2.7 < "$tmpfile" 2>/dev/null
+    claude -p < "$tmpfile" 2>/dev/null
     rm -f "$tmpfile"
 }
 

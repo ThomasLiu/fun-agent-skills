@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-04 | 共 17 个 Skills
+更新时间: 2026-04-04 | 共 19 个 Skills
 
 ## 📂 分类汇总
 
@@ -25,23 +25,27 @@
 | 15 | [telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot) | 一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌 | [GitHub](https://github.com/the-qust0s/telegram-troll-bot) | [小红书](./skills/telegram-troll-bot.md) |
 | 16 | [GitHub整活合集](https://github.com/topics/fun) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
 | 17 | [jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot) | 一个专门在 Reddit 上钓鱼怼印度考生的 Bot，名字就叫「JEE-Neetards」，用 LLM 越狱做「现实检验」，还带考试倒计时和毒鸡汤图片生成。考试地狱里找乐子，懂的都懂 🤡 | [GitHub](https://github.com/zendrix396/jeeneetards-bot) | [小红书](./skills/jeeneetards-bot.md) |
+| 18 | [phantom-mock](https://github.com/Xbodwf/phantom-mock) | Phantom Mock — 模拟 AI 服务器，专门 fake 你的 AI 调用。接的什么 GPT、Claude？全是假的！自己跑个本地 fake server 糊弄甲方和同事，4 星小众宝藏 | [GitHub](https://github.com/Xbodwf/phantom-mock) | [小红书](./skills/phantom-mock.md) |
+| 19 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
 
 ## 🎯 热门推荐
 
-- **[Ruckus-Bot](https://github.com/Alpha2935/Ruckus-Bot)**
-- **[TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq)**
-- **[ask-fake-ai-karen](https://github.com/ChintanTrivedi/ask-fake-ai-karen)**
-- **[MyTwitterBots.github.io](https://github.com/MyTwitterBots/MyTwitterBots.github.io)**
-- **[Some-funny-ai-tool](https://github.com/RonnieYuuu/Some-funny-ai-tool)**
-- **[xn--fhrerschein-abc-zvb.de](https://github.com/Svetjana666/xn--fhrerschein-abc-zvb.de)**
-- **[TheMonarch](https://github.com/TheHamsterDog/TheMonarch)**
-- **[Deep-fake](https://github.com/chenmeilong/Deep-fake)**
-- **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)**
-- **[boss-skill](https://github.com/esr2587758/boss-skill)**
-- **[nickyabbot](https://github.com/karmab/nickyabbot)**
-- **[DeepFakeAI-GUI-2026](https://github.com/lasthero3819/DeepFakeAI-GUI-2026)**
-- **[VoodooFakeAirport](https://github.com/mercurysquad/VoodooFakeAirport)**
-- **[reverse-slowloris](https://github.com/nickhuber/reverse-slowloris)**
-- **[telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot)**
-- **[GitHub整活合集](https://github.com/topics/fun)**
-- **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)**
+- **[Ruckus-Bot](https://github.com/Alpha2935/Ruckus-Bot)** #Discord机器人 #沙雕bot #恶搞工具 #GIF大战 #社死bot
+- **[TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq)** #QQ机器人 #恶搞神器 #摸鱼必备 #整蛊好友 #程序员整活
+- **[ask-fake-ai-karen](https://github.com/ChintanTrivedi/ask-fake-ai-karen)** #AI整活 #人工智能 #假人 Karen # TalkingHead #AI视频 #沙雕技能 #神转折
+- **[MyTwitterBots.github.io](https://github.com/MyTwitterBots/MyTwitterBots.github.io)** #GitHub整活 #AI整活 #打工人摸鱼 #沙雕工具 #职场吐槽神器
+- **[Some-funny-ai-tool](https://github.com/RonnieYuuu/Some-funny-ai-tool)** #打工人# #老板画饼# #打工人の快乐# #摸鱼神器# #职场吐槽# #GitHub神器# #AI吐槽#
+- **[xn--fhrerschein-abc-zvb.de](https://github.com/Svetjana666/xn--fhrerschein-abc-zvb.de)** #钓鱼网站 # Punycode #同形异义攻击 #网络安全 #德语梗
+- **[TheMonarch](https://github.com/TheHamsterDog/TheMonarch)** #Discord机器人 #整活bot #赛博嘴替 #互联网嘴替 #杠精bot
+- **[Deep-fake](https://github.com/chenmeilong/Deep-fake)** #AI换脸 #Deepfake #整活必备 #朋友丑照大赛 #黑科技
+- **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #搞笑代码
+- **[boss-skill](https://github.com/esr2587758/boss-skill)** #打工人# #老板画饼# #打工人的快乐# #摸鱼神器# #职场吐槽#
+- **[nickyabbot](https://github.com/karmab/nickyabbot)** #程序员整活 #TrollBot #沙雕开源 #GitHub沙雕项目 #代码也有梗
+- **[DeepFakeAI-GUI-2026](https://github.com/lasthero3819/DeepFakeAI-GUI-2026)** #AI换脸 #DeepFake #黑科技 #神技能 #整活神器 #人工智能
+- **[VoodooFakeAirport](https://github.com/mercurysquad/VoodooFakeAirport)** #macOS黑科技 #WiFi整蛊 #程序员梗 #技术梗
+- **[reverse-slowloris](https://github.com/nickhuber/reverse-slowloris)** #程序员梗 #网络安全 #爬虫反爬 #技术冷幽默 #GitHub有趣项目
+- **[telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot)** #TelegramBot #整活神器 #骂人机器人 #俄语学习 #电子斗嘴
+- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)** #印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器
+- **[phantom-mock](https://github.com/Xbodwf/phantom-mock)** #程序员装逼 #AI平替 #摸鱼神器 #技术人的快乐
+- **[null](null)** #GitHub整活 #摸鱼神器 #老板画饼 #AI恶搞 #打工人快乐源泉 #整蛊机器人 #周末摸鱼
