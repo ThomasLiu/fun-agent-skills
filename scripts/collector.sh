@@ -61,7 +61,20 @@ Repo 信息：
         kill $claude_pid 2>/dev/null
         echo "TIMEOUT"
     fi
-    grep -A 10 '^{' "$outfile" 2>/dev/null | head -15
+    python3 -c "
+import sys, json, re
+content = open('$outfile').read()
+# Find JSON object
+match = re.search(r'\{[^{}]*\}', content)
+if match:
+    try:
+        obj = json.loads(match.group())
+        print(json.dumps(obj, ensure_ascii=False))
+    except:
+        print('PARSE_ERROR')
+else:
+    print('NO_JSON')
+" 2>/dev/null
     rm -f "$tmpfile" "$outfile"
 }
 
