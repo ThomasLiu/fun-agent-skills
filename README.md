@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-04 | 共 19 个 Skills
+更新时间: 2026-04-04 | 共 28 个 Skills
 
 ## 📂 分类汇总
 
@@ -26,7 +26,16 @@
 | 16 | [GitHub整活合集](https://github.com/topics/fun) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
 | 17 | [jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot) | 一个专门在 Reddit 上钓鱼怼印度考生的 Bot，名字就叫「JEE-Neetards」，用 LLM 越狱做「现实检验」，还带考试倒计时和毒鸡汤图片生成。考试地狱里找乐子，懂的都懂 🤡 | [GitHub](https://github.com/zendrix396/jeeneetards-bot) | [小红书](./skills/jeeneetards-bot.md) |
 | 18 | [phantom-mock](https://github.com/Xbodwf/phantom-mock) | Phantom Mock — 模拟 AI 服务器，专门 fake 你的 AI 调用。接的什么 GPT、Claude？全是假的！自己跑个本地 fake server 糊弄甲方和同事，4 星小众宝藏 | [GitHub](https://github.com/Xbodwf/phantom-mock) | [小红书](./skills/phantom-mock.md) |
-| 19 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 19 | [null](null) | 救命！这个Repo专门收集GitHub上各种有梗整活项目——老板画饼？AI一键生成怼回去！假人开口说话？Karen上线开怼！换脸恶搞朋友？Deepfake安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 20 | [null](null) | 救命！这个Repo专门收集GitHub各种有梗整活项目——老板画饼？AI一键生成怼回去！假人开口说话？Karen上线开怼！换脸恶搞朋友？Deepfake安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 21 | [null](null) | 救命！这个 Repo 专门收集 GitHub 各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 22 | [null](null) | 救命！这个 fun-agent-skills 仓库专门收集 GitHub 上各种离谱整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞朋友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……甚至有人写反向 Slowloris 专门整蛊爬虫，让它们慢慢等个寂寞！19个整活项目，打工人周末摸鱼必备，朋友圈发完炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 23 | [null](null) | 救命！这个 fun-agent-skills 仓库专门收集 GitHub 上各种离谱整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞朋友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……甚至有人写反向 Slowloris 专门整蛊爬虫，让它们慢慢等个寂寞！19个整活项目，打工人周末摸鱼必备，朋友圈发完炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 24 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
+| 25 | [HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection) | 酒店好评还能造假？用AI揪出刷单狗！以后住酒店再也不怕被假点评骗了 | [GitHub](https://github.com/danielmachinelearning/HotelSpamDetection) | [小红书](./skills/hotelspamdetection.md) |
+| 26 | [troll-bot](https://github.com/brewffee/troll-bot) | 发现一个整活 Discord 机器人「troll-bot」，配置全是梗！随机名人讨钱系统（马斯克、特朗普、Rick Astley 都在）、sussy among us 触发器、magic 8ball 回答都是「ratio」「sorry im busy gaming ttyl」这种抽象话… 代码注释还写着「if anyone wants to rewrite these regexes PLEASE PR holy shit they're bad」笑死。纯纯的电子小丑，用来在服务器里疯狂整活 | [GitHub](https://github.com/brewffee/troll-bot) | [小红书](./skills/troll-bot.md) |
+| 27 | [trawler](https://github.com/Prinzhorn/trawler) | 一个 Express 中间件，专门 troll 爬虫黑客。扫描 phpMyAdmin、wp-login.php 的爬虫统统给你301重定向到 Rickroll 视频（你懂的），顺便清理日志。名字谐音梗：trawler = trolling + crawler，拖网渔船还能 catch 'em all。接上去之后你的服务器就变成爬虫陷阱了 🪤 | [GitHub](https://github.com/Prinzhorn/trawler) | [小红书](./skills/trawler.md) |
+| 28 | [null](null) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
 
 ## 🎯 热门推荐
 
@@ -48,4 +57,13 @@
 - **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
 - **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)** #印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器
 - **[phantom-mock](https://github.com/Xbodwf/phantom-mock)** #程序员装逼 #AI平替 #摸鱼神器 #技术人的快乐
-- **[null](null)** #GitHub整活 #摸鱼神器 #老板画饼 #AI恶搞 #打工人快乐源泉 #整蛊机器人 #周末摸鱼
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #沙雕开源项目# #整蛊朋友# #赛博快乐源泉# #职场吐槽# #周末快乐
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #沙雕开源项目# #整蛊朋友# #赛博快乐源泉# #职场吐槽# #周末快乐
+- **[null](null)** #GitHub整活 #打工人摸鱼神器 #AI整蛊 #沙雕开源项目 #整蛊朋友 #赛博快乐源泉 #职场吐槽 #周末快乐
+- **[null](null)** #GitHub整活 #打工人摸鱼神器 #AI整蛊 #沙雕开源项目 #整蛊朋友 #赛博快乐源泉 #职场吐槽 #周末快乐
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI恶搞# #老板画饼反击战# #沙雕开源项目# #整蛊机器人# #周末必看#
+- **[HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection)** #酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习
+- **[troll-bot](https://github.com/brewffee/troll-bot)** #Discord机器人 #整活bot #互联网梗 #sussy #rickroll # memes #电子小丑 #沙雕机器人
+- **[trawler](https://github.com/Prinzhorn/trawler)** #程序员整蛊 #爬虫反杀 #GitHub项目 #程序员段子 #服务器运维
+- **[null](null)** #GitHub整活# #打工人摸鱼神器# #AI恶搞# #老板画饼反击战# #沙雕开源项目# #整蛊机器人# #周末必看#

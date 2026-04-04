@@ -46,23 +46,9 @@ Repo 信息：
 {\"interesting\": true/false, \"fun_angle\": \"有趣的角度\", \"xhs_topic\": \"小红书话题标签\", \"desc_zh\": \"中文翻译（要接地气、有梗）\"}"
     
     local tmpfile=$(mktemp)
-    local outfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    (claude --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
-    local claude_pid=$!
-    # Wait up to 120 seconds
-    for i in $(seq 1 120); do
-        sleep 1
-        if ! kill -0 $claude_pid 2>/dev/null; then
-            break
-        fi
-    done
-    if kill -0 $claude_pid 2>/dev/null; then
-        kill $claude_pid 2>/dev/null
-        echo "TIMEOUT"
-    fi
-    grep -A 10 '^{' "$outfile" 2>/dev/null | head -15
-    rm -f "$tmpfile" "$outfile"
+    claude -p < "$tmpfile" 2>/dev/null | grep -A 10 '^{' | head -15
+    rm -f "$tmpfile"
 }
 
 generate_xhs_content() {
@@ -90,21 +76,9 @@ generate_xhs_content() {
 直接输出文案，不要其他内容。"
     
     local tmpfile=$(mktemp)
-    local outfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    (claude --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
-    local claude_pid=$!
-    for i in $(seq 1 120); do
-        sleep 1
-        if ! kill -0 $claude_pid 2>/dev/null; then
-            break
-        fi
-    done
-    if kill -0 $claude_pid 2>/dev/null; then
-        kill $claude_pid 2>/dev/null
-    fi
-    cat "$outfile" 2>/dev/null
-    rm -f "$tmpfile" "$outfile"
+    claude -p < "$tmpfile" 2>/dev/null
+    rm -f "$tmpfile"
 }
 
 collect_skills() {
