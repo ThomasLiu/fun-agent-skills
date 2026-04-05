@@ -1,4 +1,3 @@
-{"skills":
 [
   {
     "name": "Ruckus-Bot",
@@ -230,6 +229,16 @@
     "filename": "trawler",
     "stars": 3,
     "collected_at": "2026-04-04"
+  },
+  {
+    "name": "AI_Technology_Resources_Hub",
+    "url": "https://github.com/NadavIs56/AI_Technology_Resources_Hub",
+    "description": "Explore AI Tech Hub, a curated collection of open-source code and resources focused on AI innovations like deep fakes, AI art, and face swapping. A go-to library for developers, researchers, and AI enthusiasts seeking cutting-edge tools and insights.",
+    "description_zh": "一个AI技术资源合集，收录了Deep Fakes、 AI艺术生成、换脸技术等开源代码和工具。对普通小白来说，这不就是'AI一键换脸'、'AI画图'的神仙工具箱吗？发朋友圈绝对能炸！",
+    "fun_angle": "Deep Fakes、AI换脸、AI艺术——这几个关键词本身就是流量密码。虽然这个仓库只有9星偏小众，但话题本身极具话题性和病毒传播潜力，适合用来科普'AI还能这么玩'。",
+    "xhs_topic": "#AI换脸 #Deepfake #AI艺术 #人工智能 #黑科技 #ai绘画 #变装神器",
+    "filename": "ai_technology_resources_hub",
+    "stars": 9,
+    "collected_at": "2026-04-05"
   }
 ]
-}
