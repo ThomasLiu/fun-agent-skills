@@ -1,4 +1,5 @@
 {
+  "collected_at": "2026-04-06",
   "skills": [
     {
       "name": "boss-skill",
@@ -122,28 +123,6 @@
       "collected_at": "2026-04-02"
     },
     {
-      "name": "reverse-slowloris",
-      "url": "https://github.com/nickhuber/reverse-slowloris",
-      "description": "A reverse slowloris attack to hopefully troll bots polling for vulnerable web servers",
-      "description_zh": "反向 Slowloris 整蛊爬虫机器人！让那些天天扫你端口的爬虫慢慢等、等个寂寞，黑吃黑的技术整蛊小工具。",
-      "fun_angle": "把经典DoS攻击工具'Slowloris'反过来用来整蛊爬虫机器人，黑吃黑、以彼之道还施彼身的恶搞思路。让爬虫满怀期待来爬数据，结果被慢慢喂字节，蹲到天荒地老还以为是自己网速慢。",
-      "xhs_topic": "#程序员梗 #网络安全 #爬虫反爬 #技术冷幽默 #GitHub有趣项目 #反向Slowloris #以彼之道还施彼身",
-      "filename": "reverse-slowloris",
-      "stars": 19,
-      "collected_at": "2026-04-02"
-    },
-    {
-      "name": "jeeneetards-bot",
-      "url": "https://github.com/zendrix396/jeeneetards-bot",
-      "description": "Reddit Troll bot with LLM jailbreak for reality checks, dynamic exam countdown + motivational quote image generation.",
-      "description_zh": "Reddit上的印度考生钓鱼Bot，名字就是「JEE-Neetards」——印度高考没考上的就被这么叫。Bot专门在Reddit上钓鱼怼考生，用LLM越狱做'现实检验'，还附带考试倒计时和毒鸡汤meme图生成功能。考试地狱里找乐子，懂的都懂 🤡",
-      "fun_angle": "印度考生地狱级考试JEE的Reddit钓鱼Bot，名字「JEE-Neetards」本身就是梗，用LLM越狱做'现实检验'怼考生 + 考试倒计时 + 毒鸡汤 meme 图生成。苦中作乐、焦虑治愈焦虑的极致整活。",
-      "xhs_topic": "#印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器",
-      "filename": "jeeneetards-bot",
-      "stars": 8,
-      "collected_at": "2026-04-02"
-    },
-    {
       "name": "TrollBot4qq",
       "url": "https://github.com/Atlas0079/TrollBot4qq",
       "description": "",
@@ -188,72 +167,6 @@
       "collected_at": "2026-04-03"
     },
     {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂",
-      "fun_angle": "专门收集 GitHub 上各种有梗的整活项目——老板画饼AI怼回去、假人开口说话、QQ/Telegram/Discord 恶搞机器人、AI换脸整蛊、反向Slowloris整蛊爬虫……全是打工人摸鱼必备、朋友圈整活神器",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂",
-      "fun_angle": "专门收集 GitHub 上各种有梗整活项目的 Repo——老板画饼 AI 怼回去、假人开口 Karen 上线开怼、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……打工人摸鱼必备、朋友圈整活神器",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂",
-      "fun_angle": "专门收集 GitHub 上各种有梗整活项目——老板画饼 AI 怼回去、假人开口 Karen 上线开怼、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……打工人摸鱼必备、朋友圈整活神器",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀",
-      "fun_angle": "GitHub 整活项目大礼包——老板画饼 AI 怼回去、职场 Karen 开怼模式、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……打工人周末整活必备，朋友圈发完炸裂",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀",
-      "fun_angle": "GitHub 整活项目大礼包——老板画饼 AI 怼回去、职场 Karen 开怼模式、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……打工人周末整活必备，朋友圈发完炸裂",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
-      "name": "GitHub整活合集",
-      "url": "https://github.com/topics/fun",
-      "description": "null",
-      "description_zh": "救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀",
-      "fun_angle": "GitHub 整活项目大礼包——老板画饼 AI 怼回去、职场 Karen 开怼模式、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……打工人周末整活必备，朋友圈发完炸裂",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "github-整活合集",
-      "stars": null,
-      "collected_at": "2026-04-03"
-    },
-    {
       "name": "troll-bot-lol",
       "url": "https://github.com/edazpotato/troll-bot-lol",
       "description": "A bot that does stupid things",
@@ -265,67 +178,23 @@
       "collected_at": "2026-04-03"
     },
     {
-      "name": "troll-bot-lol",
-      "url": "https://github.com/edazpotato/troll-bot-lol",
-      "description": "A bot that does stupid things",
-      "description_zh": "一个专门干蠢事的沙雕机器人！名字就叫「巨魔机器人哈哈哈」🤣 核心功能：发垃圾信息轰炸好友、刷屏、整蛊——正经人谁用啊（不是）！才3颗星，反而说明是还没被发现的宝藏整活项目 🐛",
-      "fun_angle": "troll-bot-lol — 一个专门「干蠢事」的沙雕机器人，恶搞整蛊、刷屏轰炸好友这种，名字本身就是笑点（巨魔机器人哈哈哈），属于正经人不会用但用了就停不下来的整活神器",
-      "xhs_topic": "#沙雕机器人 #整蛊神器 #恶搞bot #程序员整活 #摸鱼必备 #宝藏项目挖掘",
-      "filename": "troll-bot-lol",
+      "name": "trawler",
+      "url": "https://github.com/Prinzhorn/trawler",
+      "description": "Express middleware to troll bots. A combination of \"trolling\" and \"crawler\", also a boat for catching a lot of fish. Gotta catch 'em all.",
+      "description_zh": "这货是专门用来整蛊爬虫的 Express 中间件！名字就很有才——trawler = trolling（钓鱼）+ crawler（爬虫），还蹭了一波钓鱼船的梗「Gotta catch 'em all」。装上它，所有爬虫 bots 都被你钓得死死der～",
+      "fun_angle": "名字本身就是梗——trawler = trolling + crawler（钓鱼执法 crawler），还有钓鱼船的梗（ Gotta catch 'em all）。专门用来恶搞爬虫 bot，往死里整它们。概念很有极客恶搞精神，把「钓鱼」玩出了花。",
+      "xhs_topic": "#程序员梗 #GitHub有意思的项目 #爬虫黑科技 #整蛊代码",
+      "filename": "trawler",
       "stars": 3,
-      "collected_at": "2026-04-03"
+      "collected_at": "2026-04-05"
     },
     {
       "name": "null",
       "url": "null",
       "description": "null",
-      "description_zh": "救命！这个仓库存了一堆 GitHub 整活项目——老板画饼？AI 怼回去！假人开口？Karen 模式开喷！换脸恶搞朋友？Deepfake 安排！还有各种恶搞爬虫的整蛊工具……打工人の快乐源泉，周末研究一整天，第二天朋友圈直接炸裂 💀",
-      "fun_angle": "这是一个 GitHub 整活项目合集——专门收集各种有梗的恶搞 AI、老板画饼怼人神器、换脸工具、QQ/Telegram/Discord 恶搞机器人。目标就是「打工人摸鱼必备，朋友圈整活神器」，预置了小红书内容模板，直接 copy 发朋友圈那种。话题覆盖职场吐槽、AI 整蛊、爬虫反整蛊，全是互联网嘴替级别的内容。",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "null",
-      "stars": null,
-      "collected_at": "2026-04-04"
-    },
-    {
-      "name": "null",
-      "url": "null",
-      "description": "null",
-      "description_zh": "救命！发现一个 GitHub 整活项目合集，打工人快乐源泉！老板画饼 AI 怼回去、Karen 模式喷假人、换脸恶搞朋友、反向治爬虫……周末研究一整天，第二天朋友圈直接炸裂 💀 打工人の赛博嘴替，白嫖开源，冲就完了！",
-      "fun_angle": "GitHub 整活项目合集！老板画饼？AI 怼回去！Karen 模式开喷！Deepfake 换脸整蛊朋友！反向 Slowloris 治爬虫！打工人摸鱼必备神器，朋友圈整活装逼指南 💀",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "null",
-      "stars": null,
-      "collected_at": "2026-04-04"
-    },
-    {
-      "name": "null",
-      "url": "null",
-      "description": "null",
-      "description_zh": "救命！这个仓库存了一堆 GitHub 整活项目——老板画饼？AI 怼回去！假人开口？Karen 模式开喷！换脸恶搞朋友？Deepfake 安排！还有各种恶搞爬虫的整蛊工具……打工人の快乐源泉，周末研究一整天，第二天朋友圈直接炸裂 💀",
-      "fun_angle": "这个 Repo 本身就是一个「GitHub 整活项目大礼包」——专门收集老板画饼怼人 AI、假人 Karen 开怼、Deepfake 换脸整蛊朋友、反向 Slowloris 整蛊爬虫、QQ/Telegram/Discord 恶搞机器人……全是有梗的沙雕开源项目，定位就是打工人摸鱼必备、朋友圈整活装逼指南",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "null",
-      "stars": null,
-      "collected_at": "2026-04-04"
-    },
-    {
-      "name": "null",
-      "url": "null",
-      "description": "null",
-      "description_zh": "救命！这个仓库存了一堆 GitHub 整活项目——老板画饼？AI 怼回去！假人开口？Karen 模式开喷！换脸恶搞朋友？Deepfake 安排！还有各种恶搞爬虫的整蛊工具……打工人の快乐源泉，周末研究一整天，第二天朋友圈直接炸裂 💀",
-      "fun_angle": "GitHub 整活项目大礼包 — 老板画饼 AI 怼回去、假人 Karen 开喷、Deepfake 整蛊朋友、反向 Slowloris 治爬虫，打工人摸鱼必备，朋友圈整活装逼指南",
-      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#",
-      "filename": "null",
-      "stars": null,
-      "collected_at": "2026-04-04"
-    },
-    {
-      "name": "null",
-      "url": "null",
-      "description": "null",
-      "description_zh": "救命！发现一个超离谱仓库，专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞好友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……打工人周末整活必备，朋友圈发完炸评论区 😂",
-      "fun_angle": "GitHub 整活项目大赏——老板画饼 AI 怼回去、假人视频 Karen 开麦、Deepfake 换脸恶搞、Discord/QQ/Telegram 恶搞机器人矩阵、反向 Slowloris 整蛊爬虫……一个仓库收录 31 个沙雕项目，专治各种正经场景",
-      "xhs_topic": "#GitHub整活 #打工人摸鱼神器 #AI整蛊 #老板画饼反击战 #赛博嘴替 #Deepfake换脸 #恶搞机器人 #周末快乐源泉",
+      "description_zh": "救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞朋友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……打工人周末整活必备，朋友圈发完炸评论区 💀",
+      "fun_angle": "这是一个专门收集 GitHub 沙雕整活项目的 repo！老板画饼？AI 一键生成怼回去！假人 Karen 在线开怼！Deepfake 换脸恶搞朋友！还有各种恶搞爬虫、复读机 bot、阴阳怪气 bot……全是打工人摸鱼必备的快乐源泉，程序员整活天花板 🚀",
+      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #沙雕开源项目# #程序员梗# #整蛊朋友# #职场吐槽#",
       "filename": "null",
       "stars": null,
       "collected_at": "2026-04-05"
@@ -334,13 +203,12 @@
       "name": "null",
       "url": "null",
       "description": "null",
-      "description_zh": "救命！发现一个超离谱仓库，专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞好友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……打工人周末整活必备，朋友圈发完炸评论区 😂",
-      "fun_angle": "GitHub 整活项目大赏——老板画饼 AI 怼回去、假人视频 Karen 开麦、Deepfake 换脸恶搞、Discord/QQ/Telegram 恶搞机器人矩阵、反向 Slowloris 整蛊爬虫……一个仓库收录 31 个沙雕项目，专治各种正经场景",
-      "xhs_topic": "#GitHub整活 #打工人摸鱼神器 #AI整蛊 #老板画饼反击战 #赛博嘴替 #Deepfake换脸 #恶搞机器人 #周末快乐源泉",
+      "description_zh": "救命！这个 Repo 专门收集 GitHub 各种离谱整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 姐姐直接上线开怼！换脸恶搞朋友？Deepfake 安排！还有 QQ/Telegram/Discord 恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……甚至有人写反向 Slowloris 专门整蛊爬虫，让它们慢慢等个寂寞！打工人周末整活必备，朋友圈发完炸评论区 😂",
+      "fun_angle": "这是一个专门收集 GitHub 沙雕整活项目的 repo！老板画饼？AI 一键生成怼回去！假人 Karen 在线开怼！Deepfake 换脸恶搞朋友！还有各种恶搞爬虫、复读机 bot、阴阳怪气 bot……全是打工人摸鱼必备的快乐源泉，程序员整活天花板 🚀",
+      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #沙雕开源项目# #程序员梗# #整蛊朋友# #职场吐槽#",
       "filename": "null",
       "stars": null,
       "collected_at": "2026-04-05"
     }
-  ],
-  "collected_at": null
+  ]
 }

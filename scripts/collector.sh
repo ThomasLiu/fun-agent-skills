@@ -19,7 +19,7 @@ init_data() {
 }
 
 get_existing_urls() {
-    cat "$DATA_FILE" | jq -r '.skills[].url' 2>/dev/null | grep -v "^null$" || echo ""
+    cat "$DATA_FILE" | jq -r '.skills[] | select(.name != null and .name != "null" and .url != null and .url != "null") | .url' 2>/dev/null || echo ""
 }
 
 analyze_skill() {
