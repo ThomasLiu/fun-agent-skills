@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-05 | 共 27 个 Skills
+更新时间: 2026-04-06 | 共 18 个 Skills
 
 ## 📂 分类汇总
 
@@ -19,22 +19,13 @@
 | 9 | [DeepFakeAI-GUI-2026](https://github.com/lasthero3819/DeepFakeAI-GUI-2026) | DeepFake换脸软件出了桌面版！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器。 | [GitHub](https://github.com/lasthero3819/DeepFakeAI-GUI-2026) | [小红书](./skills/deepfakeai-gui-2026.md) |
 | 10 | [reverse-slowloris](https://github.com/nickhuber/reverse-slowloris) | 用反向Slowloris专门整蛊那些扫端口的爬虫机器人，让它们慢慢等、等个寂寞 | [GitHub](https://github.com/nickhuber/reverse-slowloris) | [小红书](./skills/reverse-slowloris.md) |
 | 11 | [jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot) | 一个专门在 Reddit 上钓鱼怼印度考生的 Bot，名字就叫「JEE-Neetards」，用 LLM 越狱做「现实检验」，还带考试倒计时和毒鸡汤图片生成。考试地狱里找乐子，懂的都懂 🤡 | [GitHub](https://github.com/zendrix396/jeeneetards-bot) | [小红书](./skills/jeeneetards-bot.md) |
-| 12 | [reverse-slowloris](https://github.com/nickhuber/reverse-slowloris) | 反向 Slowloris 整蛊爬虫机器人！让那些天天扫你端口的爬虫慢慢等、等个寂寞，黑吃黑的技术整蛊小工具。 | [GitHub](https://github.com/nickhuber/reverse-slowloris) | [小红书](./skills/reverse-slowloris.md) |
-| 13 | [jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot) | Reddit上的印度考生钓鱼Bot，名字就是「JEE-Neetards」——印度高考没考上的就被这么叫。Bot专门在Reddit上钓鱼怼考生，用LLM越狱做'现实检验'，还附带考试倒计时和毒鸡汤meme图生成功能。考试地狱里找乐子，懂的都懂 🤡 | [GitHub](https://github.com/zendrix396/jeeneetards-bot) | [小红书](./skills/jeeneetards-bot.md) |
-| 14 | [TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq) | 一个专门在 QQ 里搞事情的恶搞机器人，能自动复读、随机整蛊、自动回复，适合在摸鱼群或好友群里整活 | [GitHub](https://github.com/Atlas0079/TrollBot4qq) | [小红书](./skills/trollbot4qq.md) |
-| 15 | [telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot) | 一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌 | [GitHub](https://github.com/the-qust0s/telegram-troll-bot) | [小红书](./skills/telegram-troll-bot.md) |
-| 16 | [TheMonarch](https://github.com/TheHamsterDog/TheMonarch) | 让你的 Discord 拥有专属「赛博嘴替」！别人敢骂它就敢回怼，脏话自动过滤+反手一个阴阳怪气。有时还会随机抽人开喷，主打一个情绪不稳定。整活群必备，群主都在用的快乐源泉。 | [GitHub](https://github.com/TheHamsterDog/TheMonarch) | [小红书](./skills/themonarch.md) |
-| 17 | [nickyabbot](https://github.com/karmab/nickyabbot) | 一个专门用来「抬杠」的 Bot，名字还故意拼得怪怪的 — GitHub 上的沙雕整活项目，星数少但够玩 | [GitHub](https://github.com/karmab/nickyabbot) | [小红书](./skills/nickyabbot.md) |
-| 18 | [GitHub整活合集](https://github.com/topics/fun) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人开口说话？Karen 上线开怼！换脸恶搞朋友？Deepfake 安排上！还有专门整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 19 | [GitHub整活合集](https://github.com/topics/fun) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 20 | [GitHub整活合集](https://github.com/topics/fun) | 救命！这个 Repo 专门收集 GitHub 上各种有梗整活项目——老板画饼？AI 一键生成怼回去！假人非要你开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！还有整蛊爬虫的、QQ/Telegram/Discord 恶搞机器人的……打工人周末整活必备，朋友圈发完保证炸评论区 😂 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 21 | [GitHub整活合集](https://github.com/topics/fun) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 22 | [GitHub整活合集](https://github.com/topics/fun) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 23 | [GitHub整活合集](https://github.com/topics/fun) | 救命！发现一个超离谱 GitHub 仓库，专治各种离谱职场人和整蛊朋友 😂 老板画饼？AI 一键生成怼回去！假人开口？Karen 模式直接开怼！换脸恶搞朋友？Deepfake 安排！打工人摸鱼必备，朋友圈整活神器 💀 | [GitHub](https://github.com/topics/fun) | [小红书](./skills/github-整活合集.md) |
-| 24 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人，星少但够整蛊！ | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
-| 25 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人！名字就叫「巨魔机器人哈哈哈」🤣 核心功能：发垃圾信息轰炸好友、刷屏、整蛊——正经人谁用啊（不是）！才3颗星，反而说明是还没被发现的宝藏整活项目 🐛 | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
-| 26 | [null](null) | 救命！这个Repo专门收集GitHub各种离谱整活项目——老板画饼？AI一键生成怼回去！假人开口说话？Karen姐姐直接上线开怼！换脸恶搞朋友？Deepfake安排！还有QQ/Telegram/Discord恶搞机器人矩阵，复读机、阴阳怪气、随机开喷全都有……甚至有人写反向Slowloris专门整蛊爬虫，让它们慢慢等个寂寞！打工人周末整活必备，朋友圈发完炸评论区 😂 | [GitHub](null) | [小红书](./skills/null.md) |
-| 27 | [trawler](https://github.com/Prinzhorn/trawler) | 这货是专门用来整蛊爬虫的 Express 中间件！名字就很有才——trawler = trolling（钓鱼）+ crawler（爬虫），还蹭了一波钓鱼船的梗「Gotta catch 'em all」。装上它，所有爬虫 bots 都被你钓得死死der～ | [GitHub](https://github.com/Prinzhorn/trawler) | [小红书](./skills/trawler.md) |
+| 12 | [TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq) | 一个专门在 QQ 里搞事情的恶搞机器人，能自动复读、随机整蛊、自动回复，适合在摸鱼群或好友群里整活 | [GitHub](https://github.com/Atlas0079/TrollBot4qq) | [小红书](./skills/trollbot4qq.md) |
+| 13 | [telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot) | 一个俄语 Telegram 骂人 Bot，专门用来怼人/阴阳怪气，简直是电子斗嘴神器！支持自定义问候语，友商见了都沉默，对线无敌 | [GitHub](https://github.com/the-qust0s/telegram-troll-bot) | [小红书](./skills/telegram-troll-bot.md) |
+| 14 | [TheMonarch](https://github.com/TheHamsterDog/TheMonarch) | 让你的 Discord 拥有专属「赛博嘴替」！别人敢骂它就敢回怼，脏话自动过滤+反手一个阴阳怪气。有时还会随机抽人开喷，主打一个情绪不稳定。整活群必备，群主都在用的快乐源泉。 | [GitHub](https://github.com/TheHamsterDog/TheMonarch) | [小红书](./skills/themonarch.md) |
+| 15 | [nickyabbot](https://github.com/karmab/nickyabbot) | 一个专门用来「抬杠」的 Bot，名字还故意拼得怪怪的 — GitHub 上的沙雕整活项目，星数少但够玩 | [GitHub](https://github.com/karmab/nickyabbot) | [小红书](./skills/nickyabbot.md) |
+| 16 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人，星少但够整蛊！ | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
+| 17 | [trawler](https://github.com/Prinzhorn/trawler) | 这货是专门用来整蛊爬虫的 Express 中间件！名字就很有才——trawler = trolling（钓鱼）+ crawler（爬虫），还蹭了一波钓鱼船的梗「Gotta catch 'em all」。装上它，所有爬虫 bots 都被你钓得死死der～ | [GitHub](https://github.com/Prinzhorn/trawler) | [小红书](./skills/trawler.md) |
+| 18 | [faker_airtravel](https://github.com/dkotschessa/faker_airtravel) | 一个Python假数据生成库的航空旅行模块，能生成机场、航班、航空公司、票价等信息。虽然是正经测试工具，但最大的玩法就是——生成假行程单发朋友圈假装在环游世界，懂的都懂。 | [GitHub](https://github.com/dkotschessa/faker_airtravel) | [小红书](./skills/faker_airtravel.md) |
 
 ## 🎯 热门推荐
 
@@ -49,19 +40,10 @@
 - **[DeepFakeAI-GUI-2026](https://github.com/lasthero3819/DeepFakeAI-GUI-2026)** #AI换脸 #DeepFake #黑科技 #神技能 #整活神器 #人工智能
 - **[reverse-slowloris](https://github.com/nickhuber/reverse-slowloris)** #程序员梗 #网络安全 #爬虫反爬 #技术冷幽默 #GitHub有趣项目
 - **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)** #印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器
-- **[reverse-slowloris](https://github.com/nickhuber/reverse-slowloris)** #程序员梗 #网络安全 #爬虫反爬 #技术冷幽默 #GitHub有趣项目 #反向Slowloris #以彼之道还施彼身
-- **[jeeneetards-bot](https://github.com/zendrix396/jeeneetards-bot)** #印度高考 #留学党 #Reddit段子 #LLM整活 #考试倒计时 #毒鸡汤生成器
 - **[TrollBot4qq](https://github.com/Atlas0079/TrollBot4qq)** #QQ机器人 #恶搞神器 #摸鱼必备 #整蛊好友 #程序员整活
 - **[telegram-troll-bot](https://github.com/the-qust0s/telegram-troll-bot)** #TelegramBot #整活神器 #骂人机器人 #俄语学习 #电子斗嘴
 - **[TheMonarch](https://github.com/TheHamsterDog/TheMonarch)** #Discord机器人 #整活bot #赛博嘴替 #互联网嘴替 #杠精bot
 - **[nickyabbot](https://github.com/karmab/nickyabbot)** #程序员整活 #TrollBot #沙雕开源 #GitHub沙雕项目 #代码也有梗
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
-- **[GitHub整活合集](https://github.com/topics/fun)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #老板画饼反击战# #赛博嘴替# #职场吐槽# #沙雕开源项目# #整蛊朋友#
 - **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #搞笑代码
-- **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #程序员整活 #摸鱼必备 #宝藏项目挖掘
-- **[null](null)** #GitHub整活 #打工人摸鱼神器 #AI整蛊 #老板画饼反击战 #沙雕开源项目 #整蛊朋友
 - **[trawler](https://github.com/Prinzhorn/trawler)** #程序员梗 #GitHub有意思的项目 #爬虫黑科技 #整蛊代码
+- **[faker_airtravel](https://github.com/dkotschessa/faker_airtravel)** #假装在旅行 #机票生成器 #程序员梗 #整蛊同事 #出差日记
