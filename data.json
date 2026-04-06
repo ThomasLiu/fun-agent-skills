@@ -198,6 +198,61 @@
       "filename": "faker_airtravel",
       "stars": 16,
       "collected_at": "2026-04-06"
+    },
+    {
+      "name": "troll-bot",
+      "url": "https://github.com/brewffee/troll-bot",
+      "description": "Bot for my personal discord server. Single server bot intended to be configurable for use in any server.",
+      "description_zh": "我给服务器整了个超沙雕的 Discord Bot！可以乞讨让 Shrek、Dr. Michael Morbius、2x4 红砖乐高 #3001 给你打钱，还能 8ball 问命解答惑（回复：ratio、naur、sorry im busy gaming ttyl），Among Us 触发自动发 SUSSY 回怼！笑死",
+      "fun_angle": "Discord 梗机器人，带经济系统+乞讨功能，可以向 Shrek/Elon Musk/Waluigi/Dr. Michael Morbius/2x4 Red Lego Brick #3001 等奇葩角色乞讨虚拟金币，还有自动 Among Us 检测触发 SUSSY 回怼 + 8ball 回答 \"ratio\" \"naur\" 等骚话",
+      "xhs_topic": "#Discord机器人 #梗文化 #沙雕机器人 #Discord娱乐 #乞讨系统",
+      "filename": "troll-bot",
+      "stars": 4,
+      "collected_at": "2026-04-06"
+    },
+    {
+      "name": "youtube-discourse",
+      "url": "https://github.com/thomashikaru/youtube-discourse",
+      "description": "Analyzing political discourse and finding troll bots on YouTube using the YT Data API",
+      "description_zh": "用代码揪出油管上的水军机器人！分析政治话语、识别喷子，一个让1450们瑟瑟发抖的学术项目",
+      "fun_angle": "用Python和YT Data API抓YouTube水军bot，检测政治话语里的1450/五毛/境外势力——一个正经的学术项目，但主题本身就是互联网嘴替们的照妖镜",
+      "xhs_topic": "#油管水军 #AI鉴渣 #网络舆论 #扒皮机器人",
+      "filename": "youtube-discourse",
+      "stars": 4,
+      "collected_at": "2026-04-06"
+    },
+    {
+      "name": "AI_Technology_Resources_Hub",
+      "url": "https://github.com/NadavIs56/AI_Technology_Resources_Hub",
+      "description": "Explore AI Tech Hub, a curated collection of open-source code and resources focused on AI innovations like deep fakes, AI art, and face swapping. A go-to library for developers, researchers, and AI enthusiasts seeking cutting-edge tools and insights.",
+      "description_zh": "一个收录 AI 搞事技术的 GitHub 合集——Deepfake 换脸、AI 作画、人脸替换，收藏起来发朋友圈绝对有牌面",
+      "fun_angle": "AI换脸+AI作画+Deepfake技术合集，这类技术本身就是朋友圈整活神器。虽然这个 repo 定位是'技术资源库'，但内容涵盖了 deep fakes、AI art、face swapping 这些天然有梗、能引发讨论的 AI 技术。适合分享'你知道 AI 还能做这个吗'类内容。",
+      "xhs_topic": "#AI换脸 #AI作画 #Deepfake #人工智能 #黑科技整活 #GitHub神资源",
+      "filename": "ai_technology_resources_hub",
+      "stars": 9,
+      "collected_at": "2026-04-06"
+    },
+    {
+      "name": "DeepFake_ai",
+      "url": "https://github.com/ravimishra007/DeepFake_ai",
+      "description": "",
+      "description_zh": "DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器",
+      "fun_angle": "AI换脸本身就是互联网整活天花板！给自己换个明星脸、和闺蜜合拍、恶搞朋友，主打一个「卧槽这居然真的能做」的震撼感。门槛低、有笑点、易传播，妥妥的流量密码。",
+      "xhs_topic": "#AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战",
+      "filename": "deepfake_ai",
+      "stars": 5,
+      "collected_at": "2026-04-06"
+    },
+    {
+      "name": "DeepFake-ai",
+      "url": "https://github.com/ravimishra007/DeepFake-ai",
+      "description": "",
+      "description_zh": "DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器",
+      "fun_angle": "AI换脸本身就是互联网整活天花板！给自己换个明星脸、和闺蜜合拍、恶搞朋友，主打一个「卧槽这居然真的能做」的震撼感。门槛低、有笑点、易传播，妥妥的流量密码。",
+      "xhs_topic": "#AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战",
+      "filename": "deepfake-ai",
+      "stars": 5,
+      "collected_at": "2026-04-06"
     }
   ]
 }

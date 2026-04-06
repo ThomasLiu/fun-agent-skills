@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-06 | 共 18 个 Skills
+更新时间: 2026-04-07 | 共 23 个 Skills
 
 ## 📂 分类汇总
 
@@ -26,6 +26,11 @@
 | 16 | [troll-bot-lol](https://github.com/edazpotato/troll-bot-lol) | 一个专门干蠢事的沙雕机器人，星少但够整蛊！ | [GitHub](https://github.com/edazpotato/troll-bot-lol) | [小红书](./skills/troll-bot-lol.md) |
 | 17 | [trawler](https://github.com/Prinzhorn/trawler) | 这货是专门用来整蛊爬虫的 Express 中间件！名字就很有才——trawler = trolling（钓鱼）+ crawler（爬虫），还蹭了一波钓鱼船的梗「Gotta catch 'em all」。装上它，所有爬虫 bots 都被你钓得死死der～ | [GitHub](https://github.com/Prinzhorn/trawler) | [小红书](./skills/trawler.md) |
 | 18 | [faker_airtravel](https://github.com/dkotschessa/faker_airtravel) | 一个Python假数据生成库的航空旅行模块，能生成机场、航班、航空公司、票价等信息。虽然是正经测试工具，但最大的玩法就是——生成假行程单发朋友圈假装在环游世界，懂的都懂。 | [GitHub](https://github.com/dkotschessa/faker_airtravel) | [小红书](./skills/faker_airtravel.md) |
+| 19 | [troll-bot](https://github.com/brewffee/troll-bot) | 我给服务器整了个超沙雕的 Discord Bot！可以乞讨让 Shrek、Dr. Michael Morbius、2x4 红砖乐高 #3001 给你打钱，还能 8ball 问命解答惑（回复：ratio、naur、sorry im busy gaming ttyl），Among Us 触发自动发 SUSSY 回怼！笑死 | [GitHub](https://github.com/brewffee/troll-bot) | [小红书](./skills/troll-bot.md) |
+| 20 | [youtube-discourse](https://github.com/thomashikaru/youtube-discourse) | 用代码揪出油管上的水军机器人！分析政治话语、识别喷子，一个让1450们瑟瑟发抖的学术项目 | [GitHub](https://github.com/thomashikaru/youtube-discourse) | [小红书](./skills/youtube-discourse.md) |
+| 21 | [AI_Technology_Resources_Hub](https://github.com/NadavIs56/AI_Technology_Resources_Hub) | 一个收录 AI 搞事技术的 GitHub 合集——Deepfake 换脸、AI 作画、人脸替换，收藏起来发朋友圈绝对有牌面 | [GitHub](https://github.com/NadavIs56/AI_Technology_Resources_Hub) | [小红书](./skills/ai_technology_resources_hub.md) |
+| 22 | [DeepFake_ai](https://github.com/ravimishra007/DeepFake_ai) | DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器 | [GitHub](https://github.com/ravimishra007/DeepFake_ai) | [小红书](./skills/deepfake_ai.md) |
+| 23 | [DeepFake-ai](https://github.com/ravimishra007/DeepFake-ai) | DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器 | [GitHub](https://github.com/ravimishra007/DeepFake-ai) | [小红书](./skills/deepfake-ai.md) |
 
 ## 🎯 热门推荐
 
@@ -47,3 +52,8 @@
 - **[troll-bot-lol](https://github.com/edazpotato/troll-bot-lol)** #沙雕机器人 #整蛊神器 #恶搞bot #搞笑代码
 - **[trawler](https://github.com/Prinzhorn/trawler)** #程序员梗 #GitHub有意思的项目 #爬虫黑科技 #整蛊代码
 - **[faker_airtravel](https://github.com/dkotschessa/faker_airtravel)** #假装在旅行 #机票生成器 #程序员梗 #整蛊同事 #出差日记
+- **[troll-bot](https://github.com/brewffee/troll-bot)** #Discord机器人 #梗文化 #沙雕机器人 #Discord娱乐 #乞讨系统
+- **[youtube-discourse](https://github.com/thomashikaru/youtube-discourse)** #油管水军 #AI鉴渣 #网络舆论 #扒皮机器人
+- **[AI_Technology_Resources_Hub](https://github.com/NadavIs56/AI_Technology_Resources_Hub)** #AI换脸 #AI作画 #Deepfake #人工智能 #黑科技整活 #GitHub神资源
+- **[DeepFake_ai](https://github.com/ravimishra007/DeepFake_ai)** #AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战
+- **[DeepFake-ai](https://github.com/ravimishra007/DeepFake-ai)** #AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战

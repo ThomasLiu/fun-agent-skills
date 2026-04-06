@@ -32,7 +32,6 @@ analyze_skill() {
 
 Repo 信息：
 - 名称: $name
-- URL: $url
 - 描述: $desc
 - 星数: $stars
 
@@ -51,7 +50,7 @@ Repo 信息：
     (claude --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
     local claude_pid=$!
     # Wait up to 120 seconds
-    for i in $(seq 1 120); do
+    for i in $(seq 1 300); do
         sleep 1
         if ! kill -0 $claude_pid 2>/dev/null; then
             break
@@ -107,7 +106,7 @@ generate_xhs_content() {
     echo "$prompt" > "$tmpfile"
     (claude --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
     local claude_pid=$!
-    for i in $(seq 1 120); do
+    for i in $(seq 1 300); do
         sleep 1
         if ! kill -0 $claude_pid 2>/dev/null; then
             break
@@ -175,6 +174,12 @@ collect_skills() {
             
             # 去重
             if echo "$existing_urls" | grep -q "^${url}$"; then
+                continue
+            fi
+            
+            # 跳过无效条目
+            if [ "$name" = "null" ] || [ -z "$name" ] || [ "$url" = "null" ] || [ -z "$url" ]; then
+                log "跳过无效条目: name=$name, url=$url"
                 continue
             fi
             

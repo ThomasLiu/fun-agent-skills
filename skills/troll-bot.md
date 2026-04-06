@@ -2,61 +2,52 @@
 name: troll-bot
 url: https://github.com/brewffee/troll-bot
 description: Bot for my personal discord server. Single server bot intended to be configurable for use in any server.
-description_zh: 发现一个整活 Discord 机器人「troll-bot」，配置全是梗！随机名人讨钱系统（马斯克、特朗普、Rick Astley 都在）、sussy among us 触发器、magic 8ball 回答都是「ratio」「sorry im busy gaming ttyl」这种抽象话… 代码注释还写着「if anyone wants to rewrite these regexes PLEASE PR holy shit they're bad」笑死。纯纯的电子小丑，用来在服务器里疯狂整活
-fun_angle: 一个纯纯的 meme 整活 Discord 机器人！代码里塞满了互联网梗：sussy among us、rickroll 彩蛋、随机名人讨钱/抢钱系统（特朗普、马斯克、Rick Astley、Shrek 都在列）、8ball 回答全是「ratio」「naur」这种抽象回复，还有自动触发恶搞回复功能。看到 config.ts 里的 beggars 名单笑死我了 — 这 bot 完全就是个电子小丑，专门用来在群里整活的。
-xhs_topic: #Discord机器人 #整活bot #互联网梗 #sussy #rickroll # memes #电子小丑 #沙雕机器人
+description_zh: 我给服务器整了个超沙雕的 Discord Bot！可以乞讨让 Shrek、Dr. Michael Morbius、2x4 红砖乐高 #3001 给你打钱，还能 8ball 问命解答惑（回复：ratio、naur、sorry im busy gaming ttyl），Among Us 触发自动发 SUSSY 回怼！笑死
+fun_angle: Discord 梗机器人，带经济系统+乞讨功能，可以向 Shrek/Elon Musk/Waluigi/Dr. Michael Morbius/2x4 Red Lego Brick #3001 等奇葩角色乞讨虚拟金币，还有自动 Among Us 检测触发 SUSSY 回怼 + 8ball 回答 "ratio" "naur" 等骚话
+xhs_topic: #Discord机器人 #梗文化 #沙雕机器人 #Discord娱乐 #乞讨系统
 stars: 4
-collected_at: 2026-04-04
+collected_at: 2026-04-07
 ---
 
 # troll-bot
 
 ## 中文简介
 
-发现一个整活 Discord 机器人「troll-bot」，配置全是梗！随机名人讨钱系统（马斯克、特朗普、Rick Astley 都在）、sussy among us 触发器、magic 8ball 回答都是「ratio」「sorry im busy gaming ttyl」这种抽象话… 代码注释还写着「if anyone wants to rewrite these regexes PLEASE PR holy shit they're bad」笑死。纯纯的电子小丑，用来在服务器里疯狂整活
+我给服务器整了个超沙雕的 Discord Bot！可以乞讨让 Shrek、Dr. Michael Morbius、2x4 红砖乐高 #3001 给你打钱，还能 8ball 问命解答惑（回复：ratio、naur、sorry im busy gaming ttyl），Among Us 触发自动发 SUSSY 回怼！笑死
 
 ## 有趣角度
 
-一个纯纯的 meme 整活 Discord 机器人！代码里塞满了互联网梗：sussy among us、rickroll 彩蛋、随机名人讨钱/抢钱系统（特朗普、马斯克、Rick Astley、Shrek 都在列）、8ball 回答全是「ratio」「naur」这种抽象回复，还有自动触发恶搞回复功能。看到 config.ts 里的 beggars 名单笑死我了 — 这 bot 完全就是个电子小丑，专门用来在群里整活的。
+Discord 梗机器人，带经济系统+乞讨功能，可以向 Shrek/Elon Musk/Waluigi/Dr. Michael Morbius/2x4 Red Lego Brick #3001 等奇葩角色乞讨虚拟金币，还有自动 Among Us 检测触发 SUSSY 回怼 + 8ball 回答 "ratio" "naur" 等骚话
 
 ## 小红书内容
 
-救命 😭 这个 Discord 机器人笑到我腹肌分裂！！
+救命！我的服务器来了个超离谱的 Discord Bot 🤖💀
 
-**【发现一个电子小丑 bot，我笑到室友报警】**
+这货能干嘛？？？你能向 Shrek乞讨钱 🧅、向 Elon Musk 化缘 💰、找 Dr. Michael Morbius 求续命 🧛‍♂️、甚至还能问 2x4 红砖乐高 #3001 讨金币 🧱？？？
 
-家人们谁懂啊！！刷到一个整活 Discord 机器人叫 **troll-bot**，我打开 GitHub 看了一圈代码，直接笑喷...
+最绝的是——
 
-这 bot 配置里塞满了互联网毒瘤：
-- 🎭 **随机名人讨钱系统** — 马斯克、特朗普、Rick Astley、Shrek 排队找你借钱！！
-- 🔮 **Magic 8ball** 回答全是「ratio」「sorry im busy gaming ttyl」「naur」这种抽象话...
-- � Among us **sussy 触发器** — 有人发 among us 直接自动恶搞回复
-- 🎵 **Rickroll 彩蛋** — 你永远不知道什么时候会被 rickroll
+💩 Among Us 自动检测！有人发 Among Us？直接 SUSSY 回怼！
+🔮 8ball 问事必答 ratio、naur、sorry im busy gaming ttyl
+💸 乞讨系统拉满，问 Shrek 要钱他真！的！会！给！
 
-最绝的是代码注释写着：
-> *"if anyone wants to rewrite these regexes PLEASE PR holy shit they're bad"*
+我已经笑到邻居报警 🚓
 
-笑死 作者自己都在求救 🤣
+别问为什么 Waluigi 也在里面，问就是梗文化博大精深 😂
 
-而且看 config.ts 里的 beggars 名单... 我震惊了，这 bot 完全就是个 **赛博乞丐聚集地** 专门在服务器里疯狂整活用的！
+最离谱的是 Dr. Michael Morbius 竟然还能续命乞讨——生科 miracles 爱好者狂喜 🙏
 
-功能包括但不限于：
-- 自动检测关键词触发 meme 回复
-- 随机名人"讨钱/抢钱"
-- 8ball 玄学问答（答案全是梗）
-- 各种恶作剧触发器
+GitHub 搜 troll-bot 就能部署到你的服务器，步骤超简单！服务器秒变沙雕聚集地
 
-这 bot 拿来整群友绝了哈哈哈哈 😂
+已经加了 300 人在玩，每天都在产出新的离谱对话 🤣
 
-**代码开源免费**，整活爱好者直接冲！！
+你们服务器还有啥奇葩 Bot？评论区扒拉我！👇
 
----
-
-🤖 #Discord机器人 #整活bot #互联网梗 #sussy #rickroll #memes #电子小丑 #沙雕机器人 #整活必备 #搞笑机器人 #meme #代码整活
+#Discord机器人 #梗文化 #沙雕机器人 #Discord娱乐 #乞讨系统 #trollbot #AmongUs #SUSSY #ratio #搞笑机器人
 
 ## 话题标签
 
-#Discord机器人 #整活bot #互联网梗 #sussy #rickroll # memes #电子小丑 #沙雕机器人
+#Discord机器人 #梗文化 #沙雕机器人 #Discord娱乐 #乞讨系统
 
 ## 仓库链接
 
