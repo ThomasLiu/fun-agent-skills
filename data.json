@@ -286,6 +286,17 @@
       "filename": "boss_simulator",
       "stars": 4,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "fake-airline-api",
+      "url": "https://github.com/TransactCharlie/fake-airline-api",
+      "description": "A simple flask application that fakes an airline's API",
+      "description_zh": "一个 Python Faker 的航空假数据插件，能生成假机票假行程单。正经用途是测试，但精髓在于——发朋友圈假装环游世界，或者告诉同事「你的航班被取消改下周三了」看他跳起来的样子 😂",
+      "fun_angle": "正经测试工具的邪典玩法——生成假机票行程单发朋友圈装X，或者用假航班取消通知整蛊同事，本质是数据生成器但玩法由你定义。",
+      "xhs_topic": "#假装在旅行 #机票生成器 #程序员梗 #整蛊同事 #出差日记",
+      "filename": "fake-airline-api",
+      "stars": 4,
+      "collected_at": "2026-04-07"
     }
   ]
 }
