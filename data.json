@@ -374,6 +374,17 @@
       "filename": "boss-simulator",
       "stars": 0,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "Bossi_Simulator",
+      "url": "https://github.com/ahbossi/Bossi_Simulator",
+      "description": "Shiny app simulator designed to explore maximum oxygen uptake (V̇O2max) responses to training. The purpose is to challenge the widespread use of the 'responder counting approach' by allowing users to manipulate various parameters and observe the resulting distributions.",
+      "description_zh": "第一人称老板模拟器——当老板视角管员工、画饼、PUA全套体验，有点讽刺职场那味儿，打工人精神时光机",
+      "fun_angle": "第一人称老板模拟器！扮演老板管员工、画饼、PUA全套体验，视角清奇有点讽刺职场那味儿——打工人终于知道老板天天在干嘛了",
+      "xhs_topic": "#老板模拟器 #第一人称管理游戏 #职场整活 #打工人嘴替 #讽刺职场 #摸鱼神器",
+      "filename": "bossi_simulator",
+      "stars": 0,
+      "collected_at": "2026-04-07"
     }
   ]
 }
