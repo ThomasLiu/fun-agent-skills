@@ -319,6 +319,17 @@
       "filename": "bosssimulator",
       "stars": 0,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "pixelproof",
+      "url": "https://github.com/mytechnotalent/pixelproof",
+      "description": "Detect fake, AI-generated, and Photoshopped images in seconds.",
+      "description_zh": "一秒识破「照骗」！上传照片就能检测是不是AI生成的或者PS过的，堪称现代网友必备「鉴假神器」，专治各种朋友圈装逼",
+      "fun_angle": "打假神器！上传闺蜜/网红的照片，一键检测是不是AI生成的或者PS过度的，简直是茶余饭后「鉴假」神器，太有话题性了",
+      "xhs_topic": "#AI鉴图 #图片打假 #AI生成照片 #PS检测 #网友崩溃 #当代鉴假师 #图片真实性",
+      "filename": "pixelproof",
+      "stars": 9,
+      "collected_at": "2026-04-07"
     }
   ]
 }
