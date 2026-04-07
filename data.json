@@ -341,6 +341,39 @@
       "filename": "stoopid-bot",
       "stars": 2,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "HotelSpamDetection",
+      "url": "https://github.com/danielmachinelearning/HotelSpamDetection",
+      "description": "Project is to determine whether not only a given hotel review on a website is positive or negative, but if the review was genuine or if it was done by spam or a troll/bot.  Purpose is to prevent hotels from artificially inflating their own value or to prevent hotels from being spammed by trolls.  Algorithm to implement it was a CNN-LSTM network using feature sets from Doc2Vec, POS tags, dependency tags, and TF-IDF.  Trained accuracy on validation set was 93.44%.",
+      "description_zh": "酒店好评还能造假？用AI揪出刷单狗！以后住酒店再也不怕被假点评骗了",
+      "fun_angle": "把CNN-LSTM包装成「假好评探测器」——酒店刷单好评终结者！用AI一眼看穿哪些好评是酒店自己刷的，哪些是竞争对手派来的黑粉。话题接地气，能引发「你遇到过假好评吗」类讨论",
+      "xhs_topic": "#酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习",
+      "filename": "hotelspamdetection",
+      "stars": 7,
+      "collected_at": "2026-04-07"
+    },
+    {
+      "name": "BossSimulator",
+      "url": "https://github.com/Rebecca9715/BossSimulator",
+      "description": "老板表达模拟器 Boss Expression Simulator",
+      "description_zh": "画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机",
+      "fun_angle": "画饼老板模拟器——输入职场问题，生成老板级标准打太极话术，模拟老板答非所问、疯狂画饼的搞笑场景，打工人嘴替，专治各种不服",
+      "xhs_topic": "#老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备",
+      "filename": "bosssimulator",
+      "stars": 0,
+      "collected_at": "2026-04-07"
+    },
+    {
+      "name": "Boss-Simulator",
+      "url": "https://github.com/jacquelynnehei1/Boss-Simulator",
+      "description": "",
+      "description_zh": "画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机",
+      "fun_angle": "画饼老板话术生成器——输入职场问题，秒生成老板级标准打太极话术，模拟答非所问、疯狂画饼的搞笑场景，打工人嘴替，专治各种不服",
+      "xhs_topic": "#老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备",
+      "filename": "boss-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-07"
     }
   ]
 }

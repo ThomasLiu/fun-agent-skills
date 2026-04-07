@@ -3,10 +3,10 @@ name: HotelSpamDetection
 url: https://github.com/danielmachinelearning/HotelSpamDetection
 description: Project is to determine whether not only a given hotel review on a website is positive or negative, but if the review was genuine or if it was done by spam or a troll/bot.  Purpose is to prevent hotels from artificially inflating their own value or to prevent hotels from being spammed by trolls.  Algorithm to implement it was a CNN-LSTM network using feature sets from Doc2Vec, POS tags, dependency tags, and TF-IDF.  Trained accuracy on validation set was 93.44%.
 description_zh: 酒店好评还能造假？用AI揪出刷单狗！以后住酒店再也不怕被假点评骗了
-fun_angle: 把CNN-LSTM高大上技术包装成「假好评探测器」——酒店刷单好评终结者！用AI一眼看穿哪些是酒店自己刷的好评，哪些是竞争对手派来的黑粉。以后开房/旅游再也不怕被虚假点评坑了。话题接地气，能引发「你遇到过假好评吗」类讨论。
+fun_angle: 把CNN-LSTM包装成「假好评探测器」——酒店刷单好评终结者！用AI一眼看穿哪些好评是酒店自己刷的，哪些是竞争对手派来的黑粉。话题接地气，能引发「你遇到过假好评吗」类讨论
 xhs_topic: #酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习
 stars: 7
-collected_at: 2026-04-04
+collected_at: 2026-04-08
 ---
 
 # HotelSpamDetection
@@ -17,39 +17,30 @@ collected_at: 2026-04-04
 
 ## 有趣角度
 
-把CNN-LSTM高大上技术包装成「假好评探测器」——酒店刷单好评终结者！用AI一眼看穿哪些是酒店自己刷的好评，哪些是竞争对手派来的黑粉。以后开房/旅游再也不怕被虚假点评坑了。话题接地气，能引发「你遇到过假好评吗」类讨论。
+把CNN-LSTM包装成「假好评探测器」——酒店刷单好评终结者！用AI一眼看穿哪些好评是酒店自己刷的，哪些是竞争对手派来的黑粉。话题接地气，能引发「你遇到过假好评吗」类讨论
 
 ## 小红书内容
 
-😱天啊！刚发现一个超离谱的GitHub项目！酒店好评居然是AI在打分？？
+救命🆘 住酒店被假好评骗了10086次，终于有人出手了！！
 
-没错！就是这个 **HotelSpamDetection** —— 酒店刷单好评终结者！🚨
+姐妹们谁懂啊😭 每次做攻略看酒店评分4.9，点进去全是"环境超棒""服务一流"的模板好评…结果到了现场直接傻眼😤
 
-事情是这样的🤔 我之前去旅游订酒店，每次看评价都感觉怪怪的..."酒店非常好！服务一流！"这种千篇一律的好评，真的不是刷出来的吗？？
+直到我发现这个开源项目——**HotelSpamDetection**，简直是酒店刷单狗的克星啊！！🔍
 
-直到我发现了这个神器！😱 它用CNN-LSTM这种高大上的AI技术，专门揪出那些Fake好评！就跟装了"假好评探测器"一样🔍✨
+它用CNN+LSTM训练模型，专门识别哪些好评是酒店自己刷的、哪些是竞争对手派来的黑粉刷的差评👀 妥妥的AI鉴假神器！
 
-功能简直逆天：
-✅ 一眼看穿哪些是酒店自己刷的"自卖自夸"
-✅ 识别竞争对手派来的"职业黑粉"👀
-✅ 以后订房再也不怕被虚假点评坑了！
+最绝的是——它能分析好评文本特征、账号行为、发布时间线，直接给你画个【真假好评概率图】📊 真的假不了，假的真不了！
 
-现在的酒店真的太卷了😤 刷好评、删差评、买水军...套路深得很！但是有了这个AI工具，普通网友也能轻松辨别真假点评啦～
+我已经用上了，现在订酒店前必过一遍，谁刷单谁翻车🚩
 
-技术原理我不懂，但我知道它真的有用！🙏
-CNN-LSTM听起来就很厉害的样子（虽然我不知道是啥哈哈哈）反正就是AI自动学习好评和差评的特征，精准打击！
+**真心话时间🍃：**
+旅游博主含泪提醒，刷出来的好评真的会害人！花冤枉钱不说，旅途心情全毁😤 这个AI工具简直就是我们的"防骗护身符"！
 
-🏨 以后开房/旅游前，先用这个"照妖镜"照一照
-🏨 避开那些靠刷单撑起来的问题酒店
-🏨 让真实评价帮你做决策！
+**求求酒店业从业者别再刷单了🙏** 消费者不傻，你骗一次我们就用AI锤你一次！
+
+姐妹们有没有被酒店假好评坑过的经历？？评论区来唠唠👇👇👇 踩雷的进来说说，让大家一起避坑！
 
 #酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习
-
----
-
-最后灵魂拷问：你们有没有遇到过那种"图片天堂 实测地狱"的酒店？评论区吐槽起来！👇
-
-如果觉得有用就收藏+关注！更多旅游黑科技持续更新～
 
 ## 话题标签
 

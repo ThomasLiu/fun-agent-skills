@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-07 | 共 29 个 Skills
+更新时间: 2026-04-08 | 共 34 个 Skills
 
 ## 📂 分类汇总
 
@@ -37,6 +37,11 @@
 | 27 | [fake-airline-api](https://github.com/TransactCharlie/fake-airline-api) | 一个 Python Faker 的航空假数据插件，能生成假机票假行程单。正经用途是测试，但精髓在于——发朋友圈假装环游世界，或者告诉同事「你的航班被取消改下周三了」看他跳起来的样子 😂 | [GitHub](https://github.com/TransactCharlie/fake-airline-api) | [小红书](./skills/fake-airline-api.md) |
 | 28 | [boss-simulator](https://github.com/Lorex/boss-simulator) | 老闆模擬器：打工人の精神时光机！模拟老板发疯、体验被甲方支配的恐惧，或者自己当老板疯狂PUA（不是）。Github 1 star 冷门宝藏，梗够硬！ | [GitHub](https://github.com/Lorex/boss-simulator) | [小红书](./skills/boss-simulator.md) |
 | 29 | [BossSimulator](https://github.com/joshleong/BossSimulator) | 画饼老板模拟器——老板话术一键生成，答非所问疯狂打太极，笑死人不偿命！打工人の终极精神时光机 | [GitHub](https://github.com/joshleong/BossSimulator) | [小红书](./skills/bosssimulator.md) |
+| 30 | [pixelproof](https://github.com/mytechnotalent/pixelproof) | 一秒识破「照骗」！上传照片就能检测是不是AI生成的或者PS过的，堪称现代网友必备「鉴假神器」，专治各种朋友圈装逼 | [GitHub](https://github.com/mytechnotalent/pixelproof) | [小红书](./skills/pixelproof.md) |
+| 31 | [stoopid-bot](https://github.com/reesericci/stoopid-bot) | Discord 整蛊 bot，专门帮你在群里搞事情、整蛊好友的沙雕机器人。虽然只有 2 星，但越简陋越有梗，越容易引发「我也想要一个！」的讨论。 | [GitHub](https://github.com/reesericci/stoopid-bot) | [小红书](./skills/stoopid-bot.md) |
+| 32 | [HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection) | 酒店好评还能造假？用AI揪出刷单狗！以后住酒店再也不怕被假点评骗了 | [GitHub](https://github.com/danielmachinelearning/HotelSpamDetection) | [小红书](./skills/hotelspamdetection.md) |
+| 33 | [BossSimulator](https://github.com/Rebecca9715/BossSimulator) | 画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机 | [GitHub](https://github.com/Rebecca9715/BossSimulator) | [小红书](./skills/bosssimulator.md) |
+| 34 | [Boss-Simulator](https://github.com/jacquelynnehei1/Boss-Simulator) | 画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机 | [GitHub](https://github.com/jacquelynnehei1/Boss-Simulator) | [小红书](./skills/boss-simulator.md) |
 
 ## 🎯 热门推荐
 
@@ -69,3 +74,8 @@
 - **[fake-airline-api](https://github.com/TransactCharlie/fake-airline-api)** #假装在旅行 #机票生成器 #程序员梗 #整蛊同事 #出差日记
 - **[boss-simulator](https://github.com/Lorex/boss-simulator)** #老闆模擬器 #打工人必备 #职场吐槽 #摸鱼神器 #整活GitHub
 - **[BossSimulator](https://github.com/joshleong/BossSimulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备
+- **[pixelproof](https://github.com/mytechnotalent/pixelproof)** #AI鉴图 #图片打假 #AI生成照片 #PS检测 #网友崩溃 #当代鉴假师 #图片真实性
+- **[stoopid-bot](https://github.com/reesericci/stoopid-bot)** #Discord整蛊机器人 #聊天群必备 #沙雕机器人 #整蛊好友 #社死现场
+- **[HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection)** #酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习
+- **[BossSimulator](https://github.com/Rebecca9715/BossSimulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备
+- **[Boss-Simulator](https://github.com/jacquelynnehei1/Boss-Simulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备
