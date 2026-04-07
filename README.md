@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-07 | 共 26 个 Skills
+更新时间: 2026-04-07 | 共 29 个 Skills
 
 ## 📂 分类汇总
 
@@ -34,6 +34,9 @@
 | 24 | [trollbots](https://github.com/alexmj212/trollbots) | 专门在Slack群里搞事情的机器人合集！有抓杠精的「频道警察Bot」、阴阳怪气检测Bot、冷笑话评分Bot...上班族的快乐源泉，社恐反怼神器！ | [GitHub](https://github.com/alexmj212/trollbots) | [小红书](./skills/trollbots.md) |
 | 25 | [discord-adminbot](https://github.com/heru0729/discord-adminbot) | Discord 挂机恶搞bot！自动踢人、疯狂刷屏、阴阳怪气怼人...服务器里的「熊孩子」管理员，2星是因为这bot太欠揍了哈哈哈哈 | [GitHub](https://github.com/heru0729/discord-adminbot) | [小红书](./skills/discord-adminbot.md) |
 | 26 | [Boss_Simulator](https://github.com/jacheima/Boss_Simulator) | 第一人称老板模拟器——当老板视角管员工，体验一下老板天天在干嘛 | [GitHub](https://github.com/jacheima/Boss_Simulator) | [小红书](./skills/boss_simulator.md) |
+| 27 | [fake-airline-api](https://github.com/TransactCharlie/fake-airline-api) | 一个 Python Faker 的航空假数据插件，能生成假机票假行程单。正经用途是测试，但精髓在于——发朋友圈假装环游世界，或者告诉同事「你的航班被取消改下周三了」看他跳起来的样子 😂 | [GitHub](https://github.com/TransactCharlie/fake-airline-api) | [小红书](./skills/fake-airline-api.md) |
+| 28 | [boss-simulator](https://github.com/Lorex/boss-simulator) | 老闆模擬器：打工人の精神时光机！模拟老板发疯、体验被甲方支配的恐惧，或者自己当老板疯狂PUA（不是）。Github 1 star 冷门宝藏，梗够硬！ | [GitHub](https://github.com/Lorex/boss-simulator) | [小红书](./skills/boss-simulator.md) |
+| 29 | [BossSimulator](https://github.com/joshleong/BossSimulator) | 画饼老板模拟器——老板话术一键生成，答非所问疯狂打太极，笑死人不偿命！打工人の终极精神时光机 | [GitHub](https://github.com/joshleong/BossSimulator) | [小红书](./skills/bosssimulator.md) |
 
 ## 🎯 热门推荐
 
@@ -63,3 +66,6 @@
 - **[trollbots](https://github.com/alexmj212/trollbots)** #摸鱼神器 #Slack机器人 #办公室整活 #职场阴阳怪气 #杠精识别器
 - **[discord-adminbot](https://github.com/heru0729/discord-adminbot)** #Discord机器人 #整活神器 #恶搞bot #赛博整蛊 #服务器管理员 #摸鱼必备
 - **[Boss_Simulator](https://github.com/jacheima/Boss_Simulator)** #老板模拟器 #第一人称管理游戏 #职场整活 #打工人嘴替 #管理游戏
+- **[fake-airline-api](https://github.com/TransactCharlie/fake-airline-api)** #假装在旅行 #机票生成器 #程序员梗 #整蛊同事 #出差日记
+- **[boss-simulator](https://github.com/Lorex/boss-simulator)** #老闆模擬器 #打工人必备 #职场吐槽 #摸鱼神器 #整活GitHub
+- **[BossSimulator](https://github.com/joshleong/BossSimulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备

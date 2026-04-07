@@ -297,6 +297,28 @@
       "filename": "fake-airline-api",
       "stars": 4,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "boss-simulator",
+      "url": "https://github.com/Lorex/boss-simulator",
+      "description": "老闆模擬器 (?",
+      "description_zh": "老闆模擬器：打工人の精神时光机！模拟老板发疯、体验被甲方支配的恐惧，或者自己当老板疯狂PUA（不是）。Github 1 star 冷门宝藏，梗够硬！",
+      "fun_angle": "老闆模擬器 — 打工人の终极复仇？模拟当老板整员工的快感，或者体验被老板折磨的日常，共鸣拉满！",
+      "xhs_topic": "#老闆模擬器 #打工人必备 #职场吐槽 #摸鱼神器 #整活GitHub",
+      "filename": "boss-simulator",
+      "stars": 1,
+      "collected_at": "2026-04-07"
+    },
+    {
+      "name": "BossSimulator",
+      "url": "https://github.com/joshleong/BossSimulator",
+      "description": "Simulate Bossing Around",
+      "description_zh": "画饼老板模拟器——老板话术一键生成，答非所问疯狂打太极，笑死人不偿命！打工人の终极精神时光机",
+      "fun_angle": "画饼老板模拟器！模拟老板答非所问、疯狂画饼的搞笑场景，打工人嘴替，专治各种不服",
+      "xhs_topic": "#老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备",
+      "filename": "bosssimulator",
+      "stars": 0,
+      "collected_at": "2026-04-07"
     }
   ]
 }
