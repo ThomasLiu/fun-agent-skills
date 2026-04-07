@@ -330,6 +330,17 @@
       "filename": "pixelproof",
       "stars": 9,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "stoopid-bot",
+      "url": "https://github.com/reesericci/stoopid-bot",
+      "description": "The best discord troll bot",
+      "description_zh": "Discord 整蛊 bot，专门帮你在群里搞事情、整蛊好友的沙雕机器人。虽然只有 2 星，但越简陋越有梗，越容易引发「我也想要一个！」的讨论。",
+      "fun_angle": "Discord 机器人专门用来整蛊好友，自动发垃圾信息、刷屏、踢人等骚操作，适合在群里搞事情。名字 stoopid-bot 自带笑点，简陋的 2 星也反而成了「民间高手独立开发」的梗。",
+      "xhs_topic": "#Discord整蛊机器人 #聊天群必备 #沙雕机器人 #整蛊好友 #社死现场",
+      "filename": "stoopid-bot",
+      "stars": 2,
+      "collected_at": "2026-04-07"
     }
   ]
 }
