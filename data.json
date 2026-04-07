@@ -253,6 +253,39 @@
       "filename": "deepfake-ai",
       "stars": 5,
       "collected_at": "2026-04-06"
+    },
+    {
+      "name": "trollbots",
+      "url": "https://github.com/alexmj212/trollbots",
+      "description": "Troll Bots",
+      "description_zh": "专门在Slack群里搞事情的机器人合集！有抓杠精的「频道警察Bot」、阴阳怪气检测Bot、冷笑话评分Bot...上班族的快乐源泉，社恐反怼神器！",
+      "fun_angle": "一群专门在Slack里搞事的机器人：Channel Police抓杠精、Trigger Bot抓玻璃心、Sarcasm讽刺Bot、Pun Bot评冷笑话...职场阴阳怪气大赛官方工具箱，2星是因为星都给了bot",
+      "xhs_topic": "#摸鱼神器 #Slack机器人 #办公室整活 #职场阴阳怪气 #杠精识别器",
+      "filename": "trollbots",
+      "stars": 2,
+      "collected_at": "2026-04-07"
+    },
+    {
+      "name": "discord-adminbot",
+      "url": "https://github.com/heru0729/discord-adminbot",
+      "description": "Discord Admin Troll BOT",
+      "description_zh": "Discord 挂机恶搞bot！自动踢人、疯狂刷屏、阴阳怪气怼人...服务器里的「熊孩子」管理员，2星是因为这bot太欠揍了哈哈哈哈",
+      "fun_angle": "Discord 管理员 Troll Bot — 专门在服务器里搞事的「恶搞管理员」！自动踢人、疯狂删消息、阴阳怪气回复...比正经Moderator工具带劲多了，属于是「赛博恶作剧神器」",
+      "xhs_topic": "#Discord机器人 #整活神器 #恶搞bot #赛博整蛊 #服务器管理员 #摸鱼必备",
+      "filename": "discord-adminbot",
+      "stars": 2,
+      "collected_at": "2026-04-07"
+    },
+    {
+      "name": "Boss_Simulator",
+      "url": "https://github.com/jacheima/Boss_Simulator",
+      "description": "A first person management game",
+      "description_zh": "第一人称老板模拟器——当老板视角管员工，体验一下老板天天在干嘛",
+      "fun_angle": "第一人称老板模拟器！扮演老板管员工、画饼、PUA……视角清奇，有点讽刺职场那味儿",
+      "xhs_topic": "#老板模拟器 #第一人称管理游戏 #职场整活 #打工人嘴替 #管理游戏",
+      "filename": "boss_simulator",
+      "stars": 4,
+      "collected_at": "2026-04-07"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-07 | 共 23 个 Skills
+更新时间: 2026-04-07 | 共 26 个 Skills
 
 ## 📂 分类汇总
 
@@ -31,6 +31,9 @@
 | 21 | [AI_Technology_Resources_Hub](https://github.com/NadavIs56/AI_Technology_Resources_Hub) | 一个收录 AI 搞事技术的 GitHub 合集——Deepfake 换脸、AI 作画、人脸替换，收藏起来发朋友圈绝对有牌面 | [GitHub](https://github.com/NadavIs56/AI_Technology_Resources_Hub) | [小红书](./skills/ai_technology_resources_hub.md) |
 | 22 | [DeepFake_ai](https://github.com/ravimishra007/DeepFake_ai) | DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器 | [GitHub](https://github.com/ravimishra007/DeepFake_ai) | [小红书](./skills/deepfake_ai.md) |
 | 23 | [DeepFake-ai](https://github.com/ravimishra007/DeepFake-ai) | DeepFake换脸桌面版来了！普通人也能玩AI换脸，改图换脸 so easy，堪称整活神器 | [GitHub](https://github.com/ravimishra007/DeepFake-ai) | [小红书](./skills/deepfake-ai.md) |
+| 24 | [trollbots](https://github.com/alexmj212/trollbots) | 专门在Slack群里搞事情的机器人合集！有抓杠精的「频道警察Bot」、阴阳怪气检测Bot、冷笑话评分Bot...上班族的快乐源泉，社恐反怼神器！ | [GitHub](https://github.com/alexmj212/trollbots) | [小红书](./skills/trollbots.md) |
+| 25 | [discord-adminbot](https://github.com/heru0729/discord-adminbot) | Discord 挂机恶搞bot！自动踢人、疯狂刷屏、阴阳怪气怼人...服务器里的「熊孩子」管理员，2星是因为这bot太欠揍了哈哈哈哈 | [GitHub](https://github.com/heru0729/discord-adminbot) | [小红书](./skills/discord-adminbot.md) |
+| 26 | [Boss_Simulator](https://github.com/jacheima/Boss_Simulator) | 第一人称老板模拟器——当老板视角管员工，体验一下老板天天在干嘛 | [GitHub](https://github.com/jacheima/Boss_Simulator) | [小红书](./skills/boss_simulator.md) |
 
 ## 🎯 热门推荐
 
@@ -57,3 +60,6 @@
 - **[AI_Technology_Resources_Hub](https://github.com/NadavIs56/AI_Technology_Resources_Hub)** #AI换脸 #AI作画 #Deepfake #人工智能 #黑科技整活 #GitHub神资源
 - **[DeepFake_ai](https://github.com/ravimishra007/DeepFake_ai)** #AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战
 - **[DeepFake-ai](https://github.com/ravimishra007/DeepFake-ai)** #AI换脸 #DeepFake #整活神器 #黑科技 #变装挑战
+- **[trollbots](https://github.com/alexmj212/trollbots)** #摸鱼神器 #Slack机器人 #办公室整活 #职场阴阳怪气 #杠精识别器
+- **[discord-adminbot](https://github.com/heru0729/discord-adminbot)** #Discord机器人 #整活神器 #恶搞bot #赛博整蛊 #服务器管理员 #摸鱼必备
+- **[Boss_Simulator](https://github.com/jacheima/Boss_Simulator)** #老板模拟器 #第一人称管理游戏 #职场整活 #打工人嘴替 #管理游戏
