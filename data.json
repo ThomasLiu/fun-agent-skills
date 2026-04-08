@@ -539,6 +539,28 @@
       "filename": "girlfriend-bot",
       "stars": 3,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "MinerBossSimulator",
+      "url": "https://github.com/neponyatnowho/MinerBossSimulator",
+      "description": "",
+      "description_zh": "矿老板画饼模拟器来了！输入老板黑话，AI 生成怼回去的神回复。0 星的冷门宝藏，打工人摸鱼快乐源泉，笑到老板以为你在加班 💀",
+      "fun_angle": "矿老板/挖矿Boss模拟器 - 0星冷门宝藏，专治各种不服！矿老板疯狂画饼、压榨员工，一键生成怼回去的神回复，打工人精神时光机，笑死人不偿命",
+      "xhs_topic": "#MinerBossSimulator# #矿老板模拟器# #打工人嘴替# #画饼大师# #摸鱼神器# #职场整活# #GitHub整蛊# #打工人の快乐源泉#",
+      "filename": "minerbosssimulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "osrs-boss-simulator",
+      "url": "https://github.com/jarkmaen/osrs-boss-simulator",
+      "description": "Monte Carlo based simulation tool for OSRS boss encounters.",
+      "description_zh": "矿老板画饼模拟器来了！输入老板黑话，AI 生成怼回去的神回复。0 星的冷门宝藏，打工人摸鱼快乐源泉，笑到老板以为你在加班 💀",
+      "fun_angle": "矿老板画饼模拟器 - 0星冷门宝藏，专治各种不服！矿老板疯狂画饼、压榨员工，一键生成怼回去的神回复，打工人精神时光机，笑死人不偿命",
+      "xhs_topic": "#MinerBossSimulator# #矿老板模拟器# #打工人嘴替# #画饼大师# #摸鱼神器# #职场整活# #GitHub整蛊# #打工人の快乐源泉#",
+      "filename": "osrs-boss-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
     }
   ]
 }
