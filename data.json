@@ -385,6 +385,39 @@
       "filename": "bossi_simulator",
       "stars": 0,
       "collected_at": "2026-04-07"
+    },
+    {
+      "name": "Fake_AI_Photos_Detection",
+      "url": "https://github.com/Harri200191/Fake_AI_Photos_Detection",
+      "description": "Detect Fake AI photos",
+      "description_zh": "一键扒皮「照骗」！上传照片3秒钟告诉你是不是AI生成或PS过的，堪称现代网友必备鉴假神器，专治朋友圈装逼",
+      "fun_angle": "鉴假神器！上传网红/闺蜜/相亲对象的照片，一键检测是不是AI生成的或者PS过度，专治各种朋友圈装逼，社死现场神器，太有话题性了",
+      "xhs_topic": "#AI鉴图 #图片打假 #AI生成照片 #PS检测 #照骗现原形 #当代鉴假师 #图片真实性",
+      "filename": "fake_ai_photos_detection",
+      "stars": 4,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "bossfight-simulator",
+      "url": "https://github.com/awsdgame/bossfight-simulator",
+      "description": "So the roles switched and you're in control of the boss fighting against a swarm of heroes. neat!",
+      "description_zh": "爽游预警！这次你不再是救公主的勇者，而是守关底虐小兵的Boss！角色互换，爽感拉满",
+      "fun_angle": "角色互换！这次轮到你当Boss虐菜了，爽感翻倍",
+      "xhs_topic": "#bossfight模拟器 #角色互换 #当Boss的感觉 #游戏玩梗 #反转剧情",
+      "filename": "bossfight-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "Bossmans-Simulator",
+      "url": "https://github.com/beans011/Bossmans-Simulator",
+      "description": "Shop simulator style game. Lots of the basic systems are there but does need more work",
+      "description_zh": "爽游预警！这次你不再是救公主的勇者，而是守关底虐小兵的Boss！角色互换，爽感翻倍",
+      "fun_angle": "角色互换当Boss虐菜！不再是救公主的勇者，而是坐在王座上虐小兵的Boss，爽感拉满",
+      "xhs_topic": "#bossfight模拟器 #角色互换 #当Boss的感觉 #游戏玩梗 #反转剧情 #宝藏游戏 #沙雕游戏",
+      "filename": "bossmans-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
     }
   ]
 }
