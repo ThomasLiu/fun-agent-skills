@@ -495,6 +495,28 @@
       "filename": "girlfriend-bot-javascript",
       "stars": 7,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "boss-simulator-game",
+      "url": "https://github.com/green1116/boss-simulator-game",
+      "description": "",
+      "description_zh": "老板模拟器：体验一天到晚只会说'这个需求很急'的快感。结局：你发现还是打工香。",
+      "fun_angle": "扮演老板的打工人复仇爽文模拟器——你可以体验当老板有多爽（然后发现还是打工好）",
+      "xhs_topic": "#打工人复仇计划# #职场吐槽# #摸鱼游戏# #老板模拟器# #打工人精神状态",
+      "filename": "boss-simulator-game",
+      "stars": 0,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "girlfriend-bot",
+      "url": "https://github.com/tuhuynh27/girlfriend-bot",
+      "description": "A bot created to chat with my girlfriend when I'm busy.",
+      "description_zh": "忙的时候让 Bot 替我跟女朋友聊天——这不是渣男，这是用代码武装爱情的硬核浪漫",
+      "fun_angle": "忙的时候用 Bot 陪女朋友聊天，这个程序员求生欲拉满的项目，6 颗星都是前女友们点的赞",
+      "xhs_topic": "#程序员撩妹 #AI女友 #代码改变生活 #程序员副业 #异地恋神器",
+      "filename": "girlfriend-bot",
+      "stars": 6,
+      "collected_at": "2026-04-08"
     }
   ]
 }
