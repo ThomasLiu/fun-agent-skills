@@ -418,6 +418,17 @@
       "filename": "bossmans-simulator",
       "stars": 0,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "toxic-boss-simulator",
+      "url": "https://github.com/hanif-azhar/toxic-boss-simulator",
+      "description": "A stress-relief chat app where you face off with a simulated toxic boss — and choose to reply politely, sassily, or go fully unhinged ",
+      "description_zh": "毒舌老板模拟器——老板疯狂输出，你选择礼貌、阴阳、还是直接发疯？专治职场委屈，打工人嘴替，笑到老板以为你在加班 💀",
+      "fun_angle": "毒舌老板模拟器！上班受气下班来这儿骂回去，选择礼貌回复、阴阳怪气、或者彻底发疯——打工人嘴替，情绪发泄神器",
+      "xhs_topic": "#打工人# #toxic老板# #打工人的快乐# #职场吐槽# #发疯文学#",
+      "filename": "toxic-boss-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
     }
   ]
 }
