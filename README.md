@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-08 | 共 42 个 Skills
+更新时间: 2026-04-08 | 共 45 个 Skills
 
 ## 📂 分类汇总
 
@@ -50,6 +50,9 @@
 | 40 | [runescape_boss_simulator](https://github.com/nolan-develops/runescape_boss_simulator) | RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器 | [GitHub](https://github.com/nolan-develops/runescape_boss_simulator) | [小红书](./skills/runescape_boss_simulator.md) |
 | 41 | [Raid-Boss-Simulator](https://github.com/LightPat/Raid-Boss-Simulator) | RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器 | [GitHub](https://github.com/LightPat/Raid-Boss-Simulator) | [小红书](./skills/raid-boss-simulator.md) |
 | 42 | [DungeonBossSimulator](https://github.com/jeffrejc/DungeonBossSimulator) | 地牢Boss模拟器——输入Boss数据，模拟你要刷多少次才能击杀！专治「这掉率是不是在骗我」的灵魂拷问，非酋玩家的算命神器 | [GitHub](https://github.com/jeffrejc/DungeonBossSimulator) | [小红书](./skills/dungeonbosssimulator.md) |
+| 43 | [MySimpleGirlfriend_2017](https://github.com/SunnerLi/MySimpleGirlfriend_2017) | 2017年的赛博女友bot！用RNN和Seq2seq训练的复古AI女友，程序员自己造的女友也太硬核了吧😂 放在今天看简直是小众宝藏，极客的浪漫你懂吗～ | [GitHub](https://github.com/SunnerLi/MySimpleGirlfriend_2017) | [小红书](./skills/mysimplegirlfriend_2017.md) |
+| 44 | [girlfriend_bot](https://github.com/kairess/girlfriend_bot) | 2017年的赛博女友bot！程序员自己用RNN和Seq2seq造的AI女友，这硬核浪漫谁懂啊😂 10 stars的小众宝藏，对比现在的大模型满屏刷屏，2017年的这个项目简直是复古极客风限定款！ | [GitHub](https://github.com/kairess/girlfriend_bot) | [小红书](./skills/girlfriend_bot.md) |
+| 45 | [GirlFriend-Bot-JavaScript](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript) | 用discord.js、JavaScript、Nodejs开发的赛博女友机器人——程序员在Discord上给自己造了个AI女友，这整活开源项目简直是极客快乐星球😂 | [GitHub](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript) | [小红书](./skills/girlfriend-bot-javascript.md) |
 
 ## 🎯 热门推荐
 
@@ -95,3 +98,6 @@
 - **[runescape_boss_simulator](https://github.com/nolan-develops/runescape_boss_simulator)** #RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04
 - **[Raid-Boss-Simulator](https://github.com/LightPat/Raid-Boss-Simulator)** #RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04
 - **[DungeonBossSimulator](https://github.com/jeffrejc/DungeonBossSimulator)** #地牢模拟器 #Boss挑战 #掉率玄学 #MMO玩家的痛 #刷装备玄学 #游戏整活
+- **[MySimpleGirlfriend_2017](https://github.com/SunnerLi/MySimpleGirlfriend_2017)** #AI女友 #聊天机器人 #Seq2seq #极客浪漫 #复古AI #程序员浪漫 #2017年的AI
+- **[girlfriend_bot](https://github.com/kairess/girlfriend_bot)** #AI女友 #赛博女友 #Seq2seq #复古AI #程序员浪漫 #极客宝藏 #2017年的AI #聊天机器人
+- **[GirlFriend-Bot-JavaScript](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript)** #赛博女友 #Discord机器人 #程序员整活 #极客脑洞 #开源有趣项目 #AI女友 #Nodejs项目

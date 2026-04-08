@@ -462,6 +462,39 @@
       "filename": "dungeonbosssimulator",
       "stars": 0,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "MySimpleGirlfriend_2017",
+      "url": "https://github.com/SunnerLi/MySimpleGirlfriend_2017",
+      "description": "A simple girlfriend bot based on RNN and Seq2seq",
+      "description_zh": "2017年的赛博女友bot！用RNN和Seq2seq训练的复古AI女友，程序员自己造的女友也太硬核了吧😂 放在今天看简直是小众宝藏，极客的浪漫你懂吗～",
+      "fun_angle": "2017年的AI女友机器人，用RNN和Seq2seq模型训练，看起来像个极客给自己造的赛博女友。名字就很有年代感，10 stars虽然不多但说明是小众宝藏。想象一下2017年那时候训练一个能聊天的bot有多青涩——放在今天看完全是复古极客浪漫。",
+      "xhs_topic": "#AI女友 #聊天机器人 #Seq2seq #极客浪漫 #复古AI #程序员浪漫 #2017年的AI",
+      "filename": "mysimplegirlfriend_2017",
+      "stars": 10,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "girlfriend_bot",
+      "url": "https://github.com/kairess/girlfriend_bot",
+      "description": "Create Virtual Girlfriend using Telegram Bot API",
+      "description_zh": "2017年的赛博女友bot！程序员自己用RNN和Seq2seq造的AI女友，这硬核浪漫谁懂啊😂 10 stars的小众宝藏，对比现在的大模型满屏刷屏，2017年的这个项目简直是复古极客风限定款！",
+      "fun_angle": "2017年的赛博AI女友，用RNN+Seq2seq模型训练，放在今天看完全是复古极客浪漫。对比现在的大模型，2017年能跑通Seq2seq聊天的程序员简直是硬核先驱。名字就很有梗——'我的简易女友2017'，这个年代感绝了。",
+      "xhs_topic": "#AI女友 #赛博女友 #Seq2seq #复古AI #程序员浪漫 #极客宝藏 #2017年的AI #聊天机器人",
+      "filename": "girlfriend_bot",
+      "stars": 9,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "GirlFriend-Bot-JavaScript",
+      "url": "https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript",
+      "description": "i made a  girlfriend bot using discord.js javascript nodejs",
+      "description_zh": "用discord.js、JavaScript、Nodejs开发的赛博女友机器人——程序员在Discord上给自己造了个AI女友，这整活开源项目简直是极客快乐星球😂",
+      "fun_angle": "用Discord.js写的赛博女友机器人，程序员在Discord上给自己造了个AI女友，这梗和脑洞直接拉满！比起正经技术项目，这种整活级别的开源代码才是真正的极客快乐星球",
+      "xhs_topic": "#赛博女友 #Discord机器人 #程序员整活 #极客脑洞 #开源有趣项目 #AI女友 #Nodejs项目",
+      "filename": "girlfriend-bot-javascript",
+      "stars": 7,
+      "collected_at": "2026-04-08"
     }
   ]
 }
