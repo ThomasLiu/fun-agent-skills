@@ -517,6 +517,28 @@
       "filename": "girlfriend-bot",
       "stars": 6,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "Girlfriend-Bot",
+      "url": "https://github.com/KarimX32/Girlfriend-Bot",
+      "description": "Source code for a girlfriend bot that you can talk to in VC, video can be found on youtube",
+      "description_zh": "18颗星的小众整活项目！做了个能语音陪聊的「AI女友Bot」，挂在服务器上就能调戏，技术宅的浪漫你懂吗？",
+      "fun_angle": "一个能在语音频道陪聊的AI女友机器人，调戏Bot还是很有梗的，而且语音对话的形式本身就很有话题性",
+      "xhs_topic": "#AI女友 #Bot机器人 #语音聊天 #整活项目 #技术也浪漫",
+      "filename": "girlfriend-bot",
+      "stars": 18,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "girlfriend-bot",
+      "url": "https://github.com/Swxer/girlfriend-bot",
+      "description": "A discord bot that will comfort me when dark time comes.  Will be implemented sometimes in 2021.",
+      "description_zh": "给自己造的AI女友bot，黑暗时期来临时它会安慰我——2021年就计划的项目，星数只有3颗，大概是程序员都懂的「等我忙完就做」式烂尾😂",
+      "fun_angle": "自嘲式浪漫bot——给自己造了个「黑暗时期安慰剂」，还flag倒在了2021年，这种「等我忙完就做」的程序员拖延症梗太真实了😂",
+      "xhs_topic": "#AI女友bot #程序员自嘲 #赛博安慰剂 #黑暗时期bot #2021年flag #极客整活",
+      "filename": "girlfriend-bot",
+      "stars": 3,
+      "collected_at": "2026-04-08"
     }
   ]
 }
