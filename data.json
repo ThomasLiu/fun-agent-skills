@@ -429,6 +429,39 @@
       "filename": "toxic-boss-simulator",
       "stars": 0,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "runescape_boss_simulator",
+      "url": "https://github.com/nolan-develops/runescape_boss_simulator",
+      "description": "This will allow you to enter boss data and simulate how many kills it will take to complete the collection log.",
+      "description_zh": "RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器",
+      "fun_angle": "RS玩家专属黑话工具！输入Boss数据模拟你要刷多少次才能完成收藏日志——核心玩法是「赌掉率」心理模拟。比如「我算了下，集齐日志要肝4000次」，妥妥的引发共鸣+被嘲笑素材。0星宝藏项目，发出去一堆RS老玩家来认亲",
+      "xhs_topic": "#RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04",
+      "filename": "runescape_boss_simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "Raid-Boss-Simulator",
+      "url": "https://github.com/LightPat/Raid-Boss-Simulator",
+      "description": "",
+      "description_zh": "RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器",
+      "fun_angle": "RS玩家专属黑话工具！输入Boss数据模拟你要刷多少次才能完成收藏日志——核心玩法是「赌掉率」心理模拟。比如「我算了下，集齐日志要肝4000次」，妥妥的引发共鸣+被嘲笑素材。0星宝藏项目，发出去一堆RS老玩家来认亲",
+      "xhs_topic": "#RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04",
+      "filename": "raid-boss-simulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "DungeonBossSimulator",
+      "url": "https://github.com/jeffrejc/DungeonBossSimulator",
+      "description": "",
+      "description_zh": "地牢Boss模拟器——输入Boss数据，模拟你要刷多少次才能击杀！专治「这掉率是不是在骗我」的灵魂拷问，非酋玩家的算命神器",
+      "fun_angle": "地牢Boss模拟器！可以模拟挑战各种地牢Boss、计算击杀次数、掉率玄学——MMO玩家算命神器",
+      "xhs_topic": "#地牢模拟器 #Boss挑战 #掉率玄学 #MMO玩家的痛 #刷装备玄学 #游戏整活",
+      "filename": "dungeonbosssimulator",
+      "stars": 0,
+      "collected_at": "2026-04-08"
     }
   ]
 }

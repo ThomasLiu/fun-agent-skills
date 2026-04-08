@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-08 | 共 34 个 Skills
+更新时间: 2026-04-08 | 共 42 个 Skills
 
 ## 📂 分类汇总
 
@@ -42,6 +42,14 @@
 | 32 | [HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection) | 酒店好评还能造假？用AI揪出刷单狗！以后住酒店再也不怕被假点评骗了 | [GitHub](https://github.com/danielmachinelearning/HotelSpamDetection) | [小红书](./skills/hotelspamdetection.md) |
 | 33 | [BossSimulator](https://github.com/Rebecca9715/BossSimulator) | 画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机 | [GitHub](https://github.com/Rebecca9715/BossSimulator) | [小红书](./skills/bosssimulator.md) |
 | 34 | [Boss-Simulator](https://github.com/jacquelynnehei1/Boss-Simulator) | 画饼老板话术生成器——老板经典回复：'你问这个问题很有格局，我们正处于关键机遇期，要把眼光放长远...'笑死人不偿命！打工人の精神时光机 | [GitHub](https://github.com/jacquelynnehei1/Boss-Simulator) | [小红书](./skills/boss-simulator.md) |
+| 35 | [Bossi_Simulator](https://github.com/ahbossi/Bossi_Simulator) | 第一人称老板模拟器——当老板视角管员工、画饼、PUA全套体验，有点讽刺职场那味儿，打工人精神时光机 | [GitHub](https://github.com/ahbossi/Bossi_Simulator) | [小红书](./skills/bossi_simulator.md) |
+| 36 | [Fake_AI_Photos_Detection](https://github.com/Harri200191/Fake_AI_Photos_Detection) | 一键扒皮「照骗」！上传照片3秒钟告诉你是不是AI生成或PS过的，堪称现代网友必备鉴假神器，专治朋友圈装逼 | [GitHub](https://github.com/Harri200191/Fake_AI_Photos_Detection) | [小红书](./skills/fake_ai_photos_detection.md) |
+| 37 | [bossfight-simulator](https://github.com/awsdgame/bossfight-simulator) | 爽游预警！这次你不再是救公主的勇者，而是守关底虐小兵的Boss！角色互换，爽感拉满 | [GitHub](https://github.com/awsdgame/bossfight-simulator) | [小红书](./skills/bossfight-simulator.md) |
+| 38 | [Bossmans-Simulator](https://github.com/beans011/Bossmans-Simulator) | 爽游预警！这次你不再是救公主的勇者，而是守关底虐小兵的Boss！角色互换，爽感翻倍 | [GitHub](https://github.com/beans011/Bossmans-Simulator) | [小红书](./skills/bossmans-simulator.md) |
+| 39 | [toxic-boss-simulator](https://github.com/hanif-azhar/toxic-boss-simulator) | 毒舌老板模拟器——老板疯狂输出，你选择礼貌、阴阳、还是直接发疯？专治职场委屈，打工人嘴替，笑到老板以为你在加班 💀 | [GitHub](https://github.com/hanif-azhar/toxic-boss-simulator) | [小红书](./skills/toxic-boss-simulator.md) |
+| 40 | [runescape_boss_simulator](https://github.com/nolan-develops/runescape_boss_simulator) | RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器 | [GitHub](https://github.com/nolan-develops/runescape_boss_simulator) | [小红书](./skills/runescape_boss_simulator.md) |
+| 41 | [Raid-Boss-Simulator](https://github.com/LightPat/Raid-Boss-Simulator) | RuneScape收藏日志模拟器——输入Boss数据，自动算出你要刷多少次才能全收集！专治「这个掉率是不是在骗我」的灵魂拷问，RS玩家的算命神器 | [GitHub](https://github.com/LightPat/Raid-Boss-Simulator) | [小红书](./skills/raid-boss-simulator.md) |
+| 42 | [DungeonBossSimulator](https://github.com/jeffrejc/DungeonBossSimulator) | 地牢Boss模拟器——输入Boss数据，模拟你要刷多少次才能击杀！专治「这掉率是不是在骗我」的灵魂拷问，非酋玩家的算命神器 | [GitHub](https://github.com/jeffrejc/DungeonBossSimulator) | [小红书](./skills/dungeonbosssimulator.md) |
 
 ## 🎯 热门推荐
 
@@ -79,3 +87,11 @@
 - **[HotelSpamDetection](https://github.com/danielmachinelearning/HotelSpamDetection)** #酒店避坑 #虚假好评 #AI黑科技 #旅游防骗 #机器学习
 - **[BossSimulator](https://github.com/Rebecca9715/BossSimulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备
 - **[Boss-Simulator](https://github.com/jacquelynnehei1/Boss-Simulator)** #老板模拟器 #打工人嘴替 #画饼老板 #职场整活 #摸鱼神器 #讽刺职场 #打工人必备
+- **[Bossi_Simulator](https://github.com/ahbossi/Bossi_Simulator)** #老板模拟器 #第一人称管理游戏 #职场整活 #打工人嘴替 #讽刺职场 #摸鱼神器
+- **[Fake_AI_Photos_Detection](https://github.com/Harri200191/Fake_AI_Photos_Detection)** #AI鉴图 #图片打假 #AI生成照片 #PS检测 #照骗现原形 #当代鉴假师 #图片真实性
+- **[bossfight-simulator](https://github.com/awsdgame/bossfight-simulator)** #bossfight模拟器 #角色互换 #当Boss的感觉 #游戏玩梗 #反转剧情
+- **[Bossmans-Simulator](https://github.com/beans011/Bossmans-Simulator)** #bossfight模拟器 #角色互换 #当Boss的感觉 #游戏玩梗 #反转剧情 #宝藏游戏 #沙雕游戏
+- **[toxic-boss-simulator](https://github.com/hanif-azhar/toxic-boss-simulator)** #打工人# #toxic老板# #打工人的快乐# #职场吐槽# #发疯文学#
+- **[runescape_boss_simulator](https://github.com/nolan-develops/runescape_boss_simulator)** #RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04
+- **[Raid-Boss-Simulator](https://github.com/LightPat/Raid-Boss-Simulator)** #RuneScape #RS收藏日志 #刷装备玄学 #MMO玩家的痛 #肝帝养成 #游戏玄学 #rs04
+- **[DungeonBossSimulator](https://github.com/jeffrejc/DungeonBossSimulator)** #地牢模拟器 #Boss挑战 #掉率玄学 #MMO玩家的痛 #刷装备玄学 #游戏整活
