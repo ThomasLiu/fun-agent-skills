@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-09 | 共 62 个 Skills
+更新时间: 2026-04-09 | 共 68 个 Skills
 
 ## 📂 分类汇总
 
@@ -70,6 +70,12 @@
 | 60 | [CammyBot](https://github.com/stonze12/CammyBot) | Cammy女友机器人 - 你的专属AI虚拟女友，能陪你聊天的那种！ | [GitHub](https://github.com/stonze12/CammyBot) | [小红书](./skills/cammybot.md) |
 | 61 | [WaifuChatBot](https://github.com/CameronFlyn/WaifuChatBot) | 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/CameronFlyn/WaifuChatBot) | [小红书](./skills/waifuchatbot.md) |
 | 62 | [IONIC-GTP-WaifuChat](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat) | [小红书](./skills/ionic-gtp-waifuchat.md) |
+| 63 | [tg-bot](https://github.com/Thewalteradarsh/tg-bot) | 救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的有梗 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？安排上！换脸恶搞朋友？so easy！打工人の快乐源泉，周末整活必备 😂 | [GitHub](https://github.com/Thewalteradarsh/tg-bot) | [小红书](./skills/tg-bot.md) |
+| 64 | [WaifuChat](https://github.com/Ferivonus/WaifuChat) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 | [GitHub](https://github.com/Ferivonus/WaifuChat) | [小红书](./skills/waifuchat.md) |
+| 65 | [WaifuChat](https://github.com/kellyjovan/WaifuChat) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/kellyjovan/WaifuChat) | [小红书](./skills/waifuchat.md) |
+| 66 | [waifu-chat-api](https://github.com/waifuai/waifu-chat-api) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/waifuai/waifu-chat-api) | [小红书](./skills/waifu-chat-api.md) |
+| 67 | [WaifuChatting](https://github.com/IssaneRen/WaifuChatting) | 0星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/IssaneRen/WaifuChatting) | [小红书](./skills/waifuchatting.md) |
+| 68 | [Chara_bot-NLP-ChatBot-](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-) | 0星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-) | [小红书](./skills/chara_bot-nlp-chatbot-.md) |
 
 ## 🎯 热门推荐
 
@@ -135,3 +141,9 @@
 - **[CammyBot](https://github.com/stonze12/CammyBot)** #AI女友 #聊天机器人 #赛博恋爱 #程序员创意 #整活项目
 - **[WaifuChatBot](https://github.com/CameronFlyn/WaifuChatBot)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目
 - **[IONIC-GTP-WaifuChat](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat)** #AI女友 #二次元老婆 #ChatGPT玩法 #Waifu文化 #赛博恋爱 #动漫女友 #整活项目 #程序员浪漫 #AnimeBot #开源精神
+- **[tg-bot](https://github.com/Thewalteradarsh/tg-bot)** #程序员整活 #AI工具 #GitHub宝藏 #打工人快乐源泉 #赛博女友 #整蛊神器 #朋友圈装逼
+- **[WaifuChat](https://github.com/Ferivonus/WaifuChat)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生项目
+- **[WaifuChat](https://github.com/kellyjovan/WaifuChat)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
+- **[waifu-chat-api](https://github.com/waifuai/waifu-chat-api)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
+- **[WaifuChatting](https://github.com/IssaneRen/WaifuChatting)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
+- **[Chara_bot-NLP-ChatBot-](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
