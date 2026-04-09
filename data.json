@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-04-06",
+  "collected_at": "2026-04-09",
   "skills": [
     {
       "name": "boss-skill",
@@ -561,6 +561,138 @@
       "filename": "osrs-boss-simulator",
       "stars": 0,
       "collected_at": "2026-04-08"
+    },
+    {
+      "name": "feishu-girlfriend-bot",
+      "url": "https://github.com/Zhiyunyang274/feishu-girlfriend-bot",
+      "description": "An AI girlfriend chatbot built with Feishu Bot and FastAPI.",
+      "description_zh": "飞书AI女友机器人——用FastAPI实现的赛博恋爱，1星选手的精神追求",
+      "fun_angle": "用飞书机器人调戏AI女友，主打一个'程序员也有女朋友'的终极幻想。FastAPI加持，正经人谁这么玩？",
+      "xhs_topic": "#程序员浪漫 #AI女友 #飞书机器人 #代码改变生活 #单身狗自救",
+      "filename": "feishu-girlfriend-bot",
+      "stars": 1,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "virtual_girlfriend_bot",
+      "url": "https://github.com/mergashev/virtual_girlfriend_bot",
+      "description": " Telegram bot using ChatGPT API to chat with user as girlfriend",
+      "description_zh": "巴西留子用 Perl 写的 Trollgrad Bot，专门爬大学教务处 PDF 动态发到 Telegram 群，专门拿来整蛊朋友。名字是 Troll + Prograd 的谐音，代码里还写着 'just to mess up with Cardu'，笑死。虽然描述写的 virtual girlfriend 是假的，但这个整蛊精神很到位。",
+      "fun_angle": "这个 repo 名字叫 'Trollgrad Bot'，是 Troll（恶搞）+ Prograd（巴西大学教务处）的谐音梗。代码注释里写着 'Perl just to mess up with Cardu'，明摆着就是拿来整蛊朋友的。实际功能是爬大学 PDF 通知发送到 Telegram 频道，虽然描述里写的 'virtual girlfriend' 是骗人的，但 'Trollgrad' 这个谐音梗确实有内味。",
+      "xhs_topic": "#程序员整活 #Telegram机器人 #谐音梗 #巴西留子",
+      "filename": "virtual_girlfriend_bot",
+      "stars": 1,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "romantic-girlfriend-ai",
+      "url": "https://github.com/hsjariane/romantic-girlfriend-ai",
+      "description": "A romantic and bold Character AI girlfriend bot",
+      "description_zh": "野生AI女友bot，1星选手的精神支柱，主打一个'我有女朋友了（代码写的）'的程序员终极浪漫",
+      "fun_angle": "AI女友bot本身就自带'程序员也有女朋友'的终极幻想buff，1星说明是野生项目，反而更有整活空间——正经人谁会给1星项目冲Star啊？",
+      "xhs_topic": "#AI女友 #CharacterAI #程序员浪漫 #赛博恋爱 #整活项目",
+      "filename": "romantic-girlfriend-ai",
+      "stars": 1,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "VoiceGirlfriendBot",
+      "url": "https://github.com/swapnilpopatgaikwad/VoiceGirlfriendBot",
+      "description": "A Python Voice Assistant using Speech Recognition, Gemini AI for smart emotional replies, and offline Text-to-Speech playback",
+      "description_zh": "语音女友机器人！用语音识别+Gemini AI+离线TTS，实时对话、情感回复",
+      "fun_angle": "语音+AI组合的女友机器人，支持离线TTS播放，能听能说能回复情感",
+      "xhs_topic": "#AI女友 #语音助手 #GeminiAI #情感机器 #黑科技",
+      "filename": "voice-girlfriend-bot",
+      "stars": 1,
+      "collected_at": "2026-04-08"
+    },
+    {
+      "name": "survival-mineflayer-Bot",
+      "url": "https://github.com/bereck-work/survival-mineflayer-Bot",
+      "description": "A mineflayer girlfriend bot for the minecraft virgins, WIP",
+      "description_zh": "Minecraft版的女友机器人！用mineflayer框架在MC里陪你聊天",
+      "fun_angle": "Minecraft专属的女友bot，minecraft virgins这个词太骚了",
+      "xhs_topic": "#Minecraft #女友机器人 #游戏AI #沙雕开发 #mcmod",
+      "filename": "survival-mineflayer-bot",
+      "stars": 1,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "riya-bot",
+      "url": "https://github.com/kapilhumai/riya-bot",
+      "description": "Riya-hinglish NSFW/SFW girlfriend bot for turmux",
+      "description_zh": "印地语+英语混搭的女友bot，支持NSFW/SFW模式，Turmux上跑",
+      "fun_angle": "跨语言女友bot，Hinglish印英混合风格，支持NSFW/SFW两模式",
+      "xhs_topic": "#AI女友 #Hinglish #跨语言bot #NSFW #Turmux",
+      "filename": "riya-bot",
+      "stars": 1,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "trollgrad-bot",
+      "url": "https://github.com/EduRenesto/trollgrad-bot",
+      "description": "Bot para checar o site da PROGRAD da UFABC e automaticamente enviá-los num canal do Telegram.",
+      "description_zh": "「教务处更新了？它比我先知道」——巴西大学生用 Perl 写了个 bot，专门盯着教务处网站刷，有新通知就自动发 Telegram，主打一个「我不想刷，但它别想逃」，属于是留子摸鱼天花板了",
+      "fun_angle": "用 bot 自动爬大学教务处网站，一有更新就往 Telegram 频道发，主打一个「我不想手动刷，但你别想逃」——名字就叫 trollgrad（troll + prograd），注释里还写「Perl just to mess up with Cardu」，纯纯学生整活项目",
+      "xhs_topic": "#留学#留学那些事#留学生活#摸鱼神器#程序员#整活",
+      "filename": "trollgrad-bot",
+      "stars": 2,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "Ai-girlfriend-bot-",
+      "url": "https://github.com/mariambibi747-cmd/Ai-girlfriend-bot-",
+      "description": "",
+      "description_zh": "救命！发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！还有赛博女友bot陪你聊天，打工人周末整活必备 😂",
+      "fun_angle": "GitHub 整活技能大赏——收录了 54 个骚气开源项目，老板画饼生成器、赛博AI女友、换脸神器、Discord整蛊bot... 全是程序员花式摸鱼的结晶，星少但够好玩，专治各种正经",
+      "xhs_topic": "#GitHub整活 #开源整蛊 #程序员摸鱼 #AI整活 #沙雕开源项目 #打工人快乐源泉",
+      "filename": "ai-girlfriend-bot-",
+      "stars": 1,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "CammyBot",
+      "url": "https://github.com/stonze12/CammyBot",
+      "description": "Cammy Girlfriend Bot",
+      "description_zh": "Cammy女友机器人 - 你的专属AI虚拟女友，能陪你聊天的那种！",
+      "fun_angle": "AI 虚拟女友机器人，支持聊天对话的赛博女朋友，程序员整活之作",
+      "xhs_topic": "#AI女友 #聊天机器人 #赛博恋爱 #程序员创意 #整活项目",
+      "filename": "cammybot",
+      "stars": 0,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "WaifuChatBot",
+      "url": "https://github.com/CameronFlyn/WaifuChatBot",
+      "description": "A chat bot suited to those who enjoy Anime and wish to have an electronic, interactive waifu",
+      "description_zh": "2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂",
+      "fun_angle": "Waifu = 动漫老婆！这个项目就是给死宅们造的赛博二次元女友bot，2星说明是野生冷门项目，但恰恰是这种'正经人谁会给2星项目冲Star'的整活精神最有梗。二次元 + AI女友双重debuff，程序员终极浪漫Plus版！",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目",
+      "filename": "waifuchatbot",
+      "stars": 2,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "IONIC-GTP-WaifuChat",
+      "url": "https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat",
+      "description": "Responsive App for comunicate with Chat GPT Interpreted as Android Anime Girl",
+      "description_zh": "2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂",
+      "fun_angle": "把 ChatGPT 包装成安卓动漫少女形象来聊天——想象一下，你和 AI 聊天，但它假装自己是你的二次元老婆，回复都是'主人回来啦～'这种画风。这梗在于：程序员不仅单身还自己造女友，2星说明确实是纯野生整活项目，越冷门越有乐子。Anime + AI Girlfriend 双重 Buff，Waifu 文化与赛博恋爱的终极结合体，笑点拉满。",
+      "xhs_topic": "#AI女友 #二次元老婆 #ChatGPT玩法 #Waifu文化 #赛博恋爱 #动漫女友 #整活项目 #程序员浪漫 #AnimeBot #开源精神",
+      "filename": "ionic-gtp-waifuchat",
+      "stars": 2,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "tg-bot",
+      "url": "https://github.com/Thewalteradarsh/tg-bot",
+      "description": "Ai girlfriend bot",
+      "description_zh": "救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的有梗 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？安排上！换脸恶搞朋友？so easy！打工人の快乐源泉，周末整活必备 😂",
+      "fun_angle": "这是一个 GitHub repo 界的「整活百科全书」！专门收集各种有梗、奇葩、脑洞大开的 AI 工具和 Bot——老板画饼生成器、AI 女友、换脸神器、赛博嘴替机器人... 62 个趣味项目，全是能让你发朋友圈装逼或微信群里整活的那种。越 star 少越有乐子，冷门宝藏才是真正的快乐源泉。",
+      "xhs_topic": "#程序员整活 #AI工具 #GitHub宝藏 #打工人快乐源泉 #赛博女友 #整蛊神器 #朋友圈装逼",
+      "filename": "tg-bot",
+      "stars": 0,
+      "collected_at": "2026-04-09"
     }
   ]
 }

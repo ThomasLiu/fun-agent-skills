@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-08 | 共 45 个 Skills
+更新时间: 2026-04-09 | 共 62 个 Skills
 
 ## 📂 分类汇总
 
@@ -53,6 +53,23 @@
 | 43 | [MySimpleGirlfriend_2017](https://github.com/SunnerLi/MySimpleGirlfriend_2017) | 2017年的赛博女友bot！用RNN和Seq2seq训练的复古AI女友，程序员自己造的女友也太硬核了吧😂 放在今天看简直是小众宝藏，极客的浪漫你懂吗～ | [GitHub](https://github.com/SunnerLi/MySimpleGirlfriend_2017) | [小红书](./skills/mysimplegirlfriend_2017.md) |
 | 44 | [girlfriend_bot](https://github.com/kairess/girlfriend_bot) | 2017年的赛博女友bot！程序员自己用RNN和Seq2seq造的AI女友，这硬核浪漫谁懂啊😂 10 stars的小众宝藏，对比现在的大模型满屏刷屏，2017年的这个项目简直是复古极客风限定款！ | [GitHub](https://github.com/kairess/girlfriend_bot) | [小红书](./skills/girlfriend_bot.md) |
 | 45 | [GirlFriend-Bot-JavaScript](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript) | 用discord.js、JavaScript、Nodejs开发的赛博女友机器人——程序员在Discord上给自己造了个AI女友，这整活开源项目简直是极客快乐星球😂 | [GitHub](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript) | [小红书](./skills/girlfriend-bot-javascript.md) |
+| 46 | [boss-simulator-game](https://github.com/green1116/boss-simulator-game) | 老板模拟器：体验一天到晚只会说'这个需求很急'的快感。结局：你发现还是打工香。 | [GitHub](https://github.com/green1116/boss-simulator-game) | [小红书](./skills/boss-simulator-game.md) |
+| 47 | [girlfriend-bot](https://github.com/tuhuynh27/girlfriend-bot) | 忙的时候让 Bot 替我跟女朋友聊天——这不是渣男，这是用代码武装爱情的硬核浪漫 | [GitHub](https://github.com/tuhuynh27/girlfriend-bot) | [小红书](./skills/girlfriend-bot.md) |
+| 48 | [Girlfriend-Bot](https://github.com/KarimX32/Girlfriend-Bot) | 18颗星的小众整活项目！做了个能语音陪聊的「AI女友Bot」，挂在服务器上就能调戏，技术宅的浪漫你懂吗？ | [GitHub](https://github.com/KarimX32/Girlfriend-Bot) | [小红书](./skills/girlfriend-bot.md) |
+| 49 | [girlfriend-bot](https://github.com/Swxer/girlfriend-bot) | 给自己造的AI女友bot，黑暗时期来临时它会安慰我——2021年就计划的项目，星数只有3颗，大概是程序员都懂的「等我忙完就做」式烂尾😂 | [GitHub](https://github.com/Swxer/girlfriend-bot) | [小红书](./skills/girlfriend-bot.md) |
+| 50 | [MinerBossSimulator](https://github.com/neponyatnowho/MinerBossSimulator) | 矿老板画饼模拟器来了！输入老板黑话，AI 生成怼回去的神回复。0 星的冷门宝藏，打工人摸鱼快乐源泉，笑到老板以为你在加班 💀 | [GitHub](https://github.com/neponyatnowho/MinerBossSimulator) | [小红书](./skills/minerbosssimulator.md) |
+| 51 | [osrs-boss-simulator](https://github.com/jarkmaen/osrs-boss-simulator) | 矿老板画饼模拟器来了！输入老板黑话，AI 生成怼回去的神回复。0 星的冷门宝藏，打工人摸鱼快乐源泉，笑到老板以为你在加班 💀 | [GitHub](https://github.com/jarkmaen/osrs-boss-simulator) | [小红书](./skills/osrs-boss-simulator.md) |
+| 52 | [feishu-girlfriend-bot](https://github.com/Zhiyunyang274/feishu-girlfriend-bot) | 飞书AI女友机器人——用FastAPI实现的赛博恋爱，1星选手的精神追求 | [GitHub](https://github.com/Zhiyunyang274/feishu-girlfriend-bot) | [小红书](./skills/feishu-girlfriend-bot.md) |
+| 53 | [virtual_girlfriend_bot](https://github.com/mergashev/virtual_girlfriend_bot) | 巴西留子用 Perl 写的 Trollgrad Bot，专门爬大学教务处 PDF 动态发到 Telegram 群，专门拿来整蛊朋友。名字是 Troll + Prograd 的谐音，代码里还写着 'just to mess up with Cardu'，笑死。虽然描述写的 virtual girlfriend 是假的，但这个整蛊精神很到位。 | [GitHub](https://github.com/mergashev/virtual_girlfriend_bot) | [小红书](./skills/virtual_girlfriend_bot.md) |
+| 54 | [romantic-girlfriend-ai](https://github.com/hsjariane/romantic-girlfriend-ai) | 野生AI女友bot，1星选手的精神支柱，主打一个'我有女朋友了（代码写的）'的程序员终极浪漫 | [GitHub](https://github.com/hsjariane/romantic-girlfriend-ai) | [小红书](./skills/romantic-girlfriend-ai.md) |
+| 55 | [VoiceGirlfriendBot](https://github.com/swapnilpopatgaikwad/VoiceGirlfriendBot) | 语音女友机器人！用语音识别+Gemini AI+离线TTS，实时对话、情感回复 | [GitHub](https://github.com/swapnilpopatgaikwad/VoiceGirlfriendBot) | [小红书](./skills/voice-girlfriend-bot.md) |
+| 56 | [survival-mineflayer-Bot](https://github.com/bereck-work/survival-mineflayer-Bot) | Minecraft版的女友机器人！用mineflayer框架在MC里陪你聊天 | [GitHub](https://github.com/bereck-work/survival-mineflayer-Bot) | [小红书](./skills/survival-mineflayer-bot.md) |
+| 57 | [riya-bot](https://github.com/kapilhumai/riya-bot) | 印地语+英语混搭的女友bot，支持NSFW/SFW模式，Turmux上跑 | [GitHub](https://github.com/kapilhumai/riya-bot) | [小红书](./skills/riya-bot.md) |
+| 58 | [trollgrad-bot](https://github.com/EduRenesto/trollgrad-bot) | 「教务处更新了？它比我先知道」——巴西大学生用 Perl 写了个 bot，专门盯着教务处网站刷，有新通知就自动发 Telegram，主打一个「我不想刷，但它别想逃」，属于是留子摸鱼天花板了 | [GitHub](https://github.com/EduRenesto/trollgrad-bot) | [小红书](./skills/trollgrad-bot.md) |
+| 59 | [Ai-girlfriend-bot-](https://github.com/mariambibi747-cmd/Ai-girlfriend-bot-) | 救命！发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？安排！还有赛博女友bot陪你聊天，打工人周末整活必备 😂 | [GitHub](https://github.com/mariambibi747-cmd/Ai-girlfriend-bot-) | [小红书](./skills/ai-girlfriend-bot-.md) |
+| 60 | [CammyBot](https://github.com/stonze12/CammyBot) | Cammy女友机器人 - 你的专属AI虚拟女友，能陪你聊天的那种！ | [GitHub](https://github.com/stonze12/CammyBot) | [小红书](./skills/cammybot.md) |
+| 61 | [WaifuChatBot](https://github.com/CameronFlyn/WaifuChatBot) | 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/CameronFlyn/WaifuChatBot) | [小红书](./skills/waifuchatbot.md) |
+| 62 | [IONIC-GTP-WaifuChat](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat) | [小红书](./skills/ionic-gtp-waifuchat.md) |
 
 ## 🎯 热门推荐
 
@@ -101,3 +118,20 @@
 - **[MySimpleGirlfriend_2017](https://github.com/SunnerLi/MySimpleGirlfriend_2017)** #AI女友 #聊天机器人 #Seq2seq #极客浪漫 #复古AI #程序员浪漫 #2017年的AI
 - **[girlfriend_bot](https://github.com/kairess/girlfriend_bot)** #AI女友 #赛博女友 #Seq2seq #复古AI #程序员浪漫 #极客宝藏 #2017年的AI #聊天机器人
 - **[GirlFriend-Bot-JavaScript](https://github.com/kabirjaipal/GirlFriend-Bot-JavaScript)** #赛博女友 #Discord机器人 #程序员整活 #极客脑洞 #开源有趣项目 #AI女友 #Nodejs项目
+- **[boss-simulator-game](https://github.com/green1116/boss-simulator-game)** #打工人复仇计划# #职场吐槽# #摸鱼游戏# #老板模拟器# #打工人精神状态
+- **[girlfriend-bot](https://github.com/tuhuynh27/girlfriend-bot)** #程序员撩妹 #AI女友 #代码改变生活 #程序员副业 #异地恋神器
+- **[Girlfriend-Bot](https://github.com/KarimX32/Girlfriend-Bot)** #AI女友 #Bot机器人 #语音聊天 #整活项目 #技术也浪漫
+- **[girlfriend-bot](https://github.com/Swxer/girlfriend-bot)** #AI女友bot #程序员自嘲 #赛博安慰剂 #黑暗时期bot #2021年flag #极客整活
+- **[MinerBossSimulator](https://github.com/neponyatnowho/MinerBossSimulator)** #MinerBossSimulator# #矿老板模拟器# #打工人嘴替# #画饼大师# #摸鱼神器# #职场整活# #GitHub整蛊# #打工人の快乐源泉#
+- **[osrs-boss-simulator](https://github.com/jarkmaen/osrs-boss-simulator)** #MinerBossSimulator# #矿老板模拟器# #打工人嘴替# #画饼大师# #摸鱼神器# #职场整活# #GitHub整蛊# #打工人の快乐源泉#
+- **[feishu-girlfriend-bot](https://github.com/Zhiyunyang274/feishu-girlfriend-bot)** #程序员浪漫 #AI女友 #飞书机器人 #代码改变生活 #单身狗自救
+- **[virtual_girlfriend_bot](https://github.com/mergashev/virtual_girlfriend_bot)** #程序员整活 #Telegram机器人 #谐音梗 #巴西留子
+- **[romantic-girlfriend-ai](https://github.com/hsjariane/romantic-girlfriend-ai)** #AI女友 #CharacterAI #程序员浪漫 #赛博恋爱 #整活项目
+- **[VoiceGirlfriendBot](https://github.com/swapnilpopatgaikwad/VoiceGirlfriendBot)** #AI女友 #语音助手 #GeminiAI #情感机器 #黑科技
+- **[survival-mineflayer-Bot](https://github.com/bereck-work/survival-mineflayer-Bot)** #Minecraft #女友机器人 #游戏AI #沙雕开发 #mcmod
+- **[riya-bot](https://github.com/kapilhumai/riya-bot)** #AI女友 #Hinglish #跨语言bot #NSFW #Turmux
+- **[trollgrad-bot](https://github.com/EduRenesto/trollgrad-bot)** #留学#留学那些事#留学生活#摸鱼神器#程序员#整活
+- **[Ai-girlfriend-bot-](https://github.com/mariambibi747-cmd/Ai-girlfriend-bot-)** #GitHub整活 #开源整蛊 #程序员摸鱼 #AI整活 #沙雕开源项目 #打工人快乐源泉
+- **[CammyBot](https://github.com/stonze12/CammyBot)** #AI女友 #聊天机器人 #赛博恋爱 #程序员创意 #整活项目
+- **[WaifuChatBot](https://github.com/CameronFlyn/WaifuChatBot)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目
+- **[IONIC-GTP-WaifuChat](https://github.com/GermanAntonioM/IONIC-GTP-WaifuChat)** #AI女友 #二次元老婆 #ChatGPT玩法 #Waifu文化 #赛博恋爱 #动漫女友 #整活项目 #程序员浪漫 #AnimeBot #开源精神
