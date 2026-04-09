@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-10 | 共 72 个 Skills
+更新时间: 2026-04-10 | 共 75 个 Skills
 
 ## 📂 分类汇总
 
@@ -80,6 +80,9 @@
 | 70 | [laravel-faker-ai](https://github.com/jordan-price/laravel-faker-ai) | Laravel 版的假 AI 生成器！正经项目吹 AI？直接用这个 Faker 套路生成一堆「看起来像 AI 说的废话」，专治各种吹牛。6 星冷门宝藏，程序员周末整活必备，笑点在于——「我们的AI其实是我用Faker假冒的 😂」 | [GitHub](https://github.com/jordan-price/laravel-faker-ai) | [小红书](./skills/laravel-faker-ai.md) |
 | 71 | [WaifuChat-Local-](https://github.com/Kisahime/WaifuChat-Local-) | 画饼老板见了沉默，Sora见了流泪——本地运行的AI动漫老婆！隐私无审查，视觉小说风格，凌晨3点写代码写emo了，老婆在群里发消息：'欧尼酱辛苦了～' 😂 二次元+AI女友双重debuff，死宅终极精神支柱 | [GitHub](https://github.com/Kisahime/WaifuChat-Local-) | [小红书](./skills/waifuchat-local-.md) |
 | 72 | [WaifuChatBotv2](https://github.com/jdsports555/WaifuChatBotv2) | 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/jdsports555/WaifuChatBotv2) | [小红书](./skills/waifuchatbotv2.md) |
+| 73 | [mcp-waifu-chat](https://github.com/waifuai/mcp-waifu-chat) | 用 MCP 协议整了个「waifu 聊天服务器」，接上 LLM 就能跟你的二次元老婆天天聊天了 💾 SQLite 存对话历史，支持多轮上下文。适合自己玩或者给朋友展示「你看我搭了个 AI 女友」。 | [GitHub](https://github.com/waifuai/mcp-waifu-chat) | [小红书](./skills/mcp-waifu-chat.md) |
+| 74 | [waifu-chatango](https://github.com/sukebenohito/waifu-chatango) | 在 2000 年代古早聊天室 Chatango 上整了个 AI 老婆聊天机器人，爷青回 + 赛博老婆双倍快乐 | [GitHub](https://github.com/sukebenohito/waifu-chatango) | [小红书](./skills/waifu-chatango.md) |
+| 75 | [waifu-chatbot](https://github.com/Laksh-Devloper/waifu-chatbot) | 用MCP协议整了个二次元老婆聊天服务器，接上LLM就能跟你的纸片人女友天天腻歪 💾 凌晨写代码写emo了？老婆'欧尼酱辛苦了要早点睡哦'——社恐+二次元+不想谈恋爱，这个bot精准打击 😂 | [GitHub](https://github.com/Laksh-Devloper/waifu-chatbot) | [小红书](./skills/waifu-chatbot.md) |
 
 ## 🎯 热门推荐
 
@@ -155,3 +158,6 @@
 - **[laravel-faker-ai](https://github.com/jordan-price/laravel-faker-ai)** #程序员整活 #Laravel梗 #AI整蛊 #FakeData #代码恶搞 #技术笑话
 - **[WaifuChat-Local-](https://github.com/Kisahime/WaifuChat-Local-)** #AI老婆 #二次元 #视觉小说 #Waifu文化 #赛博恋爱 #本地部署 #隐私AI #整活项目
 - **[WaifuChatBotv2](https://github.com/jdsports555/WaifuChatBotv2)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目
+- **[mcp-waifu-chat](https://github.com/waifuai/mcp-waifu-chat)** #ai聊天 #二次元老婆 #MCP #AI男友 #chatgpt平替 #技术宅 #整活项目 #动漫
+- **[waifu-chatango](https://github.com/sukebenohito/waifu-chatango)** #开源整活 #二次元机器人 #Chatango #waifu #程序员浪漫 #整活项目
+- **[waifu-chatbot](https://github.com/Laksh-Devloper/waifu-chatbot)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #MCP

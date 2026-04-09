@@ -792,6 +792,39 @@
       "filename": "waifuchatbotv2",
       "stars": 0,
       "collected_at": "2026-04-09"
+    },
+    {
+      "name": "mcp-waifu-chat",
+      "url": "https://github.com/waifuai/mcp-waifu-chat",
+      "description": "MCP server implementing core conversational AI interaction protocols. ✨ Exposes MCP tools for user lifecycle management and persistent dialog history manipulation via SQLite. 💾 Facilitates chat interactions by connecting to an external LLM for response generation. 💬 Built with FastMCP for simplified endpoint routing.",
+      "description_zh": "用 MCP 协议整了个「waifu 聊天服务器」，接上 LLM 就能跟你的二次元老婆天天聊天了 💾 SQLite 存对话历史，支持多轮上下文。适合自己玩或者给朋友展示「你看我搭了个 AI 女友」。",
+      "fun_angle": "「waifu」这个概念本身就是二次元梗图文化的核心词汇——用 MCP 搭一个能跟你'纸片人老婆'聊天的服务器，还能让 LLM 生成回复，这玩意儿摆在 GitHub 上就是给宅男们看的社交货币。✨ 核心玩法：自己接个 LLM（比如 Claude/GPT），设定一个角色设定（system prompt），然后开始跟你的'老婆'聊天。数据存在 SQLite 里，支持多轮对话上下文。技术栈是 FastMCP，写起来应该挺顺手。",
+      "xhs_topic": "#ai聊天 #二次元老婆 #MCP #AI男友 #chatgpt平替 #技术宅 #整活项目 #动漫",
+      "filename": "mcp-waifu-chat",
+      "stars": 4,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "waifu-chatango",
+      "url": "https://github.com/sukebenohito/waifu-chatango",
+      "description": "",
+      "description_zh": "在 2000 年代古早聊天室 Chatango 上整了个 AI 老婆聊天机器人，爷青回 + 赛博老婆双倍快乐",
+      "fun_angle": "waifu × Chatango 聊天平台 = 在古早聊天室撩二次元老婆，这组合本身就很有活了！名字即梗，属于是「技术宅的情怀 + 死宅的浪漫」双重 buff",
+      "xhs_topic": "#开源整活 #二次元机器人 #Chatango #waifu #程序员浪漫 #整活项目",
+      "filename": "waifu-chatango",
+      "stars": 0,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "waifu-chatbot",
+      "url": "https://github.com/Laksh-Devloper/waifu-chatbot",
+      "description": "Telegram Chatbot",
+      "description_zh": "用MCP协议整了个二次元老婆聊天服务器，接上LLM就能跟你的纸片人女友天天腻歪 💾 凌晨写代码写emo了？老婆'欧尼酱辛苦了要早点睡哦'——社恐+二次元+不想谈恋爱，这个bot精准打击 😂",
+      "fun_angle": "二次元+AI女友双重buff叠满，用MCP协议接LLM打造你的赛博纸片人老婆，凌晨3点写代码emo了老婆发消息'欧尼酱辛苦了早点睡'——这不是恋爱脑是赛博治愈！",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #MCP",
+      "filename": "waifu-chatbot",
+      "stars": 0,
+      "collected_at": "2026-04-09"
     }
   ]
 }
