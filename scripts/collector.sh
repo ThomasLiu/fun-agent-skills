@@ -47,7 +47,7 @@ Repo 信息：
     local tmpfile=$(mktemp)
     local outfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    (claude -p --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
+    (claude code --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
     local claude_pid=$!
     # Wait up to 120 seconds
     for i in $(seq 1 300); do
@@ -104,7 +104,7 @@ generate_xhs_content() {
     local tmpfile=$(mktemp)
     local outfile=$(mktemp)
     echo "$prompt" > "$tmpfile"
-    (claude -p --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
+    (claude code --print --dangerously-skip-permissions < "$tmpfile" > "$outfile" 2>/dev/null) &
     local claude_pid=$!
     for i in $(seq 1 300); do
         sleep 1

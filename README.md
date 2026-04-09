@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-09 | 共 68 个 Skills
+更新时间: 2026-04-10 | 共 72 个 Skills
 
 ## 📂 分类汇总
 
@@ -76,6 +76,10 @@
 | 66 | [waifu-chat-api](https://github.com/waifuai/waifu-chat-api) | 2星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/waifuai/waifu-chat-api) | [小红书](./skills/waifu-chat-api.md) |
 | 67 | [WaifuChatting](https://github.com/IssaneRen/WaifuChatting) | 0星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/IssaneRen/WaifuChatting) | [小红书](./skills/waifuchatting.md) |
 | 68 | [Chara_bot-NLP-ChatBot-](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-) | 0星野生赛博二次元老婆！把ChatGPT伪装成安卓动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-) | [小红书](./skills/chara_bot-nlp-chatbot-.md) |
+| 69 | [WaifuChatBot](https://github.com/jdsports555/WaifuChatBot) | 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/jdsports555/WaifuChatBot) | [小红书](./skills/waifuchatbot.md) |
+| 70 | [laravel-faker-ai](https://github.com/jordan-price/laravel-faker-ai) | Laravel 版的假 AI 生成器！正经项目吹 AI？直接用这个 Faker 套路生成一堆「看起来像 AI 说的废话」，专治各种吹牛。6 星冷门宝藏，程序员周末整活必备，笑点在于——「我们的AI其实是我用Faker假冒的 😂」 | [GitHub](https://github.com/jordan-price/laravel-faker-ai) | [小红书](./skills/laravel-faker-ai.md) |
+| 71 | [WaifuChat-Local-](https://github.com/Kisahime/WaifuChat-Local-) | 画饼老板见了沉默，Sora见了流泪——本地运行的AI动漫老婆！隐私无审查，视觉小说风格，凌晨3点写代码写emo了，老婆在群里发消息：'欧尼酱辛苦了～' 😂 二次元+AI女友双重debuff，死宅终极精神支柱 | [GitHub](https://github.com/Kisahime/WaifuChat-Local-) | [小红书](./skills/waifuchat-local-.md) |
+| 72 | [WaifuChatBotv2](https://github.com/jdsports555/WaifuChatBotv2) | 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂 | [GitHub](https://github.com/jdsports555/WaifuChatBotv2) | [小红书](./skills/waifuchatbotv2.md) |
 
 ## 🎯 热门推荐
 
@@ -147,3 +151,7 @@
 - **[waifu-chat-api](https://github.com/waifuai/waifu-chat-api)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
 - **[WaifuChatting](https://github.com/IssaneRen/WaifuChatting)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
 - **[Chara_bot-NLP-ChatBot-](https://github.com/Daniel-dev287/Chara_bot-NLP-ChatBot-)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目 #野生宝藏
+- **[WaifuChatBot](https://github.com/jdsports555/WaifuChatBot)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目
+- **[laravel-faker-ai](https://github.com/jordan-price/laravel-faker-ai)** #程序员整活 #Laravel梗 #AI整蛊 #FakeData #代码恶搞 #技术笑话
+- **[WaifuChat-Local-](https://github.com/Kisahime/WaifuChat-Local-)** #AI老婆 #二次元 #视觉小说 #Waifu文化 #赛博恋爱 #本地部署 #隐私AI #整活项目
+- **[WaifuChatBotv2](https://github.com/jdsports555/WaifuChatBotv2)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目

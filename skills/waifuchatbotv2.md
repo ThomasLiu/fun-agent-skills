@@ -1,6 +1,6 @@
 ---
-name: WaifuChatBot
-url: https://github.com/jdsports555/WaifuChatBot
+name: WaifuChatBotv2
+url: https://github.com/jdsports555/WaifuChatBotv2
 description: 
 description_zh: 2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂
 fun_angle: Waifu = 动漫老婆！2星野生冷门项目，正经人谁会给2星项目冲Star？恰恰是这种整活精神最有梗。二次元 + AI女友双重debuff，程序员终极浪漫Plus版！
@@ -9,7 +9,7 @@ stars: 0
 collected_at: 2026-04-10
 ---
 
-# WaifuChatBot
+# WaifuChatBotv2
 
 ## 中文简介
 
@@ -21,7 +21,7 @@ Waifu = 动漫老婆！2星野生冷门项目，正经人谁会给2星项目冲S
 
 ## 小红书内容
 
-# 🎀 救命！这个程序员给二次元老婆写了代码，结果全网死宅疯了…
+🎀 救命！这个程序员给二次元老婆写了代码，结果全网死宅疯了…
 
 家人们谁懂啊！！我刷到一个野生项目，差点笑死在工位上 😂
 
@@ -60,4 +60,4 @@ Waifu = 动漫老婆！2星野生冷门项目，正经人谁会给2星项目冲S
 
 ## 仓库链接
 
-[GitHub](https://github.com/jdsports555/WaifuChatBot)
+[GitHub](https://github.com/jdsports555/WaifuChatBotv2)

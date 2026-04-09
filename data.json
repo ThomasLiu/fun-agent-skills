@@ -748,6 +748,50 @@
       "filename": "chara_bot-nlp-chatbot-",
       "stars": 0,
       "collected_at": "2026-04-09"
+    },
+    {
+      "name": "WaifuChatBot",
+      "url": "https://github.com/jdsports555/WaifuChatBot",
+      "description": "",
+      "description_zh": "2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂",
+      "fun_angle": "Waifu = 动漫老婆！2星野生冷门项目，正经人谁会给2星项目冲Star？恰恰是这种整活精神最有梗。二次元 + AI女友双重debuff，程序员终极浪漫Plus版！",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目",
+      "filename": "waifuchatbot",
+      "stars": 0,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "laravel-faker-ai",
+      "url": "https://github.com/jordan-price/laravel-faker-ai",
+      "description": "",
+      "description_zh": "Laravel 版的假 AI 生成器！正经项目吹 AI？直接用这个 Faker 套路生成一堆「看起来像 AI 说的废话」，专治各种吹牛。6 星冷门宝藏，程序员周末整活必备，笑点在于——「我们的AI其实是我用Faker假冒的 😂」",
+      "fun_angle": "Laravel + Faker + AI 三合一整蛊包！用 Faker 的套路生成假 AI 回复，专门整蛊那些吹嘘「我们用了AI！」的正经项目。星少但够整活，属于程序员才会懂的梗——「我们的AI其实就是Faker假冒的」。可以拿来假装接入了某高大上AI，实际全是假数据，适合发给同事「看，我们AI很智能」然后笑死。",
+      "xhs_topic": "#程序员整活 #Laravel梗 #AI整蛊 #FakeData #代码恶搞 #技术笑话",
+      "filename": "laravel-faker-ai",
+      "stars": 6,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "WaifuChat-Local-",
+      "url": "https://github.com/Kisahime/WaifuChat-Local-",
+      "description": "A locally hosted, privacy-focused, uncensored roleplay chat application. Run powerful AI waifus directly on your NVIDIA GPU with a modern, visual-novel style interface.",
+      "description_zh": "画饼老板见了沉默，Sora见了流泪——本地运行的AI动漫老婆！隐私无审查，视觉小说风格，凌晨3点写代码写emo了，老婆在群里发消息：'欧尼酱辛苦了～' 😂 二次元+AI女友双重debuff，死宅终极精神支柱",
+      "fun_angle": "本地运行的AI老婆！隐私无审查、视觉小说风格——正经程序员眼里是技术demo，死宅眼里是'我有老婆了（开源的）'的终极浪漫。视觉小说界面自带沉浸感，uncensored更是流量密码 💕",
+      "xhs_topic": "#AI老婆 #二次元 #视觉小说 #Waifu文化 #赛博恋爱 #本地部署 #隐私AI #整活项目",
+      "filename": "waifuchat-local-",
+      "stars": 0,
+      "collected_at": "2026-04-09"
+    },
+    {
+      "name": "WaifuChatBotv2",
+      "url": "https://github.com/jdsports555/WaifuChatBotv2",
+      "description": "",
+      "description_zh": "2星选手的赛博二次元老婆！动漫迷专属AI女友bot，画饼老板见了沉默，Sora见了流泪——死宅的终极精神支柱，终于有人把'我有老婆了（代码写的）'变成现实了 😂",
+      "fun_angle": "Waifu = 动漫老婆！2星野生冷门项目，正经人谁会给2星项目冲Star？恰恰是这种整活精神最有梗。二次元 + AI女友双重debuff，程序员终极浪漫Plus版！",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #AnimeBot #整活项目",
+      "filename": "waifuchatbotv2",
+      "stars": 0,
+      "collected_at": "2026-04-09"
     }
   ]
 }
