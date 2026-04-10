@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-10 | 共 85 个 Skills
+更新时间: 2026-04-11 | 共 88 个 Skills
 
 ## 📂 分类汇总
 
@@ -93,6 +93,9 @@
 | 83 | [WAAutoResponder-NoRoot](https://github.com/kp7742/WAAutoResponder-NoRoot) | 全网最全整活 AI 工具箱！老板画饼？AI 怼回去！朋友恶搞？换脸安排！群里整蛊？Bot 替你喷！81 个沙雕项目，收藏起来周末慢慢玩 😂 | [GitHub](https://github.com/kp7742/WAAutoResponder-NoRoot) | [小红书](./skills/waautoresponder-noroot.md) |
 | 84 | [WAAutoResponder](https://github.com/kp7742/WAAutoResponder) | 微信有自动回复？WhatsApp表示我也要！装个Bot秒变社交达人，朋友发消息秒回、前任阴阳怪气、群聊假装有多个马甲——打工人の赛博嘴替，摸鱼群整蛊必备 😏 | [GitHub](https://github.com/kp7742/WAAutoResponder) | [小红书](./skills/waautoresponder.md) |
 | 85 | [autoresponder_bot](https://github.com/skrini4/autoresponder_bot) | 一个专门收集 GitHub 有梗 AI 工具的宝库！老板画饼？ AI 生成怼回去；想恶搞朋友？AI 换脸安排上；寂寞了？赛博女友 bot 陪你聊——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/skrini4/autoresponder_bot) | [小红书](./skills/autoresponder_bot.md) |
+| 86 | [telegram-autoresponder-bot](https://github.com/dimchanske/telegram-autoresponder-bot) | 救命！我在 GitHub 挖到个整活工具箱 💀 老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 😂 | [GitHub](https://github.com/dimchanske/telegram-autoresponder-bot) | [小红书](./skills/telegram-autoresponder-bot.md) |
+| 87 | [Autoresponder-bot](https://github.com/zaqwsx2003/Autoresponder-bot) | GitHub 整活工具箱！老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/zaqwsx2003/Autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
+| 88 | [Autorespon](https://github.com/Bintangp02/Autorespon) | GitHub 整活工具箱！老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/Bintangp02/Autorespon) | [小红书](./skills/autorespon.md) |
 
 ## 🎯 热门推荐
 
@@ -181,3 +184,6 @@
 - **[WAAutoResponder-NoRoot](https://github.com/kp7742/WAAutoResponder-NoRoot)** # GitHub 整活 # 沙雕工具 # 打工人必备 # AI 整蛊 # 摸鱼神器
 - **[WAAutoResponder](https://github.com/kp7742/WAAutoResponder)** # WhatsApp整蛊 # 自动回复Bot # 赛博嘴替 # 聊天机器人 # 朋友圈装逼 # 整活神器
 - **[autoresponder_bot](https://github.com/skrini4/autoresponder_bot)** #GitHub整活 #打工人必备 #AI恶搞神器 #摸鱼技能 #整蛊工具箱 #赛博女友 #老板画饼怼回去
+- **[telegram-autoresponder-bot](https://github.com/dimchanske/telegram-autoresponder-bot)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
+- **[Autoresponder-bot](https://github.com/zaqwsx2003/Autoresponder-bot)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
+- **[Autorespon](https://github.com/Bintangp02/Autorespon)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
