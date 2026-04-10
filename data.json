@@ -880,6 +880,17 @@
       "filename": "genshinwish",
       "stars": 2,
       "collected_at": "2026-04-10"
+    },
+    {
+      "name": "FAKER-Air",
+      "url": "https://github.com/kaist-cvml/FAKER-Air",
+      "description": "Real-Time Long Horizon Air Quality Forecasting via Group-Relative Policy Optimization",
+      "description_zh": "韩国KAIST黑科技！用AI预测空气质量，名字居然叫'FAKER-Air'——faker在游戏里可是外挂/假货的意思啊！这是说预测的空气是假的？还是科研人在低调玩梗？不管了，反正我用AI预判空气指数，这波属于是技术流装逼了",
+      "fun_angle": "名字谐音梗：FAKER-Air = 'Fake Air' 假的空气！KAIST韩国顶尖高校CVML实验室出品，用AI预测空气质量听起来就很科幻很酷，但名字偏偏叫'假的空气'——这是科研人在玩文字游戏吗？Group-Relative Policy Optimization听起来很专业，但不妨碍先玩梗再说",
+      "xhs_topic": "#AI预测空气质量 #科研玩梗 #韩国KAIST #人工智能 #技术流装逼 #假装很懂空气",
+      "filename": "faker-air",
+      "stars": 9,
+      "collected_at": "2026-04-10"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-10 | 共 79 个 Skills
+更新时间: 2026-04-10 | 共 81 个 Skills
 
 ## 📂 分类汇总
 
@@ -83,10 +83,12 @@
 | 73 | [mcp-waifu-chat](https://github.com/waifuai/mcp-waifu-chat) | 用 MCP 协议整了个「waifu 聊天服务器」，接上 LLM 就能跟你的二次元老婆天天聊天了 💾 SQLite 存对话历史，支持多轮上下文。适合自己玩或者给朋友展示「你看我搭了个 AI 女友」。 | [GitHub](https://github.com/waifuai/mcp-waifu-chat) | [小红书](./skills/mcp-waifu-chat.md) |
 | 74 | [waifu-chatango](https://github.com/sukebenohito/waifu-chatango) | 在 2000 年代古早聊天室 Chatango 上整了个 AI 老婆聊天机器人，爷青回 + 赛博老婆双倍快乐 | [GitHub](https://github.com/sukebenohito/waifu-chatango) | [小红书](./skills/waifu-chatango.md) |
 | 75 | [waifu-chatbot](https://github.com/Laksh-Devloper/waifu-chatbot) | 用MCP协议整了个二次元老婆聊天服务器，接上LLM就能跟你的纸片人女友天天腻歪 💾 凌晨写代码写emo了？老婆'欧尼酱辛苦了要早点睡哦'——社恐+二次元+不想谈恋爱，这个bot精准打击 😂 | [GitHub](https://github.com/Laksh-Devloper/waifu-chatbot) | [小红书](./skills/waifu-chatbot.md) |
-| 76 | [genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish) | 原神抽卡模拟器，支持角色池/武器池/常驻池，不用648也能感受十连双黄的快乐（或大保底歪掉的痛苦） | [GitHub](https://github.com/Lawrenceeeeeeee/genshinwish) | [小红书](./skills/genshinwish.md) |
-| 77 | [IT_CUST_VRPWeb](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | 老板画饼？AI生成怼回去！假人开口说话？Karen上线！换脸恶搞朋友？so easy！还有赛博女友bot陪你聊天，打工人周末整活必备 😂 | [GitHub](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | [小红书](./skills/it_cust_vrpweb.md) |
-| 78 | [waifu-chat](https://github.com/lostviolinist/waifu-chat) | 0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂 | [GitHub](https://github.com/lostviolinist/waifu-chat) | [小红书](./skills/waifu-chat.md) |
-| 79 | [Waifu_chat](https://github.com/NathanAbrahamSinaga/Waifu_chat) | 0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂 | [GitHub](https://github.com/NathanAbrahamSinaga/Waifu_chat) | [小红书](./skills/waifu_chat.md) |
+| 76 | [waifu-chat](https://github.com/lostviolinist/waifu-chat) | 0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂 | [GitHub](https://github.com/lostviolinist/waifu-chat) | [小红书](./skills/waifu-chat.md) |
+| 77 | [Waifu_chat](https://github.com/NathanAbrahamSinaga/Waifu_chat) | 0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂 | [GitHub](https://github.com/NathanAbrahamSinaga/Waifu_chat) | [小红书](./skills/waifu_chat.md) |
+| 78 | [genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish) | 原神抽卡模拟器，支持角色池、武器池、常驻池，不用648也能感受十连双黄蛋的快乐（或者大保底的痛苦） | [GitHub](https://github.com/Lawrenceeeeeeee/genshinwish) | [小红书](./skills/genshinwish.md) |
+| 79 | [IT_CUST_VRPWeb](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | 救命！发现一个GitHub仓库专门收集「能让你笑着摸鱼」的AI工具——老板画饼？AI生成怼回去！假人开口说话？Karen上线！换脸恶搞朋友？so easy！还有赛博女友bot陪你聊天，打工人周末整活必备 😂 75个整活技能，个个有梗，朋友圈发完同事都问你要链接！ | [GitHub](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | [小红书](./skills/it_cust_vrpweb.md) |
+| 80 | [genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish) | 原神抽卡模拟器，支持角色池/武器池/常驻池，不用648也能感受十连双黄的快乐（或大保底歪掉的痛苦） | [GitHub](https://github.com/Lawrenceeeeeeee/genshinwish) | [小红书](./skills/genshinwish.md) |
+| 81 | [FAKER-Air](https://github.com/kaist-cvml/FAKER-Air) | 韩国KAIST黑科技！用AI预测空气质量，名字居然叫'FAKER-Air'——faker在游戏里可是外挂/假货的意思啊！这是说预测的空气是假的？还是科研人在低调玩梗？不管了，反正我用AI预判空气指数，这波属于是技术流装逼了 | [GitHub](https://github.com/kaist-cvml/FAKER-Air) | [小红书](./skills/faker-air.md) |
 
 ## 🎯 热门推荐
 
@@ -165,3 +167,9 @@
 - **[mcp-waifu-chat](https://github.com/waifuai/mcp-waifu-chat)** #ai聊天 #二次元老婆 #MCP #AI男友 #chatgpt平替 #技术宅 #整活项目 #动漫
 - **[waifu-chatango](https://github.com/sukebenohito/waifu-chatango)** #开源整活 #二次元机器人 #Chatango #waifu #程序员浪漫 #整活项目
 - **[waifu-chatbot](https://github.com/Laksh-Devloper/waifu-chatbot)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #MCP
+- **[waifu-chat](https://github.com/lostviolinist/waifu-chat)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #野生宝藏 #代码也有梗
+- **[Waifu_chat](https://github.com/NathanAbrahamSinaga/Waifu_chat)** #AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #野生宝藏 #代码也有梗
+- **[genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish)** #原神抽卡#抽卡玄学#原神模拟器#原神非酋#原神欧皇#游戏摸鱼
+- **[IT_CUST_VRPWeb](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #赛博女友# #老板画饼反击战# #沙雕开源项目# #打工人快乐源泉
+- **[genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish)** #原神抽卡#抽卡玄学#原神模拟器#原神非酋#原神欧皇#游戏摸鱼#原神十连双黄
+- **[FAKER-Air](https://github.com/kaist-cvml/FAKER-Air)** #AI预测空气质量 #科研玩梗 #韩国KAIST #人工智能 #技术流装逼 #假装很懂空气
