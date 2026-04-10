@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-10 | 共 81 个 Skills
+更新时间: 2026-04-10 | 共 85 个 Skills
 
 ## 📂 分类汇总
 
@@ -89,6 +89,10 @@
 | 79 | [IT_CUST_VRPWeb](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | 救命！发现一个GitHub仓库专门收集「能让你笑着摸鱼」的AI工具——老板画饼？AI生成怼回去！假人开口说话？Karen上线！换脸恶搞朋友？so easy！还有赛博女友bot陪你聊天，打工人周末整活必备 😂 75个整活技能，个个有梗，朋友圈发完同事都问你要链接！ | [GitHub](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb) | [小红书](./skills/it_cust_vrpweb.md) |
 | 80 | [genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish) | 原神抽卡模拟器，支持角色池/武器池/常驻池，不用648也能感受十连双黄的快乐（或大保底歪掉的痛苦） | [GitHub](https://github.com/Lawrenceeeeeeee/genshinwish) | [小红书](./skills/genshinwish.md) |
 | 81 | [FAKER-Air](https://github.com/kaist-cvml/FAKER-Air) | 韩国KAIST黑科技！用AI预测空气质量，名字居然叫'FAKER-Air'——faker在游戏里可是外挂/假货的意思啊！这是说预测的空气是假的？还是科研人在低调玩梗？不管了，反正我用AI预判空气指数，这波属于是技术流装逼了 | [GitHub](https://github.com/kaist-cvml/FAKER-Air) | [小红书](./skills/faker-air.md) |
+| 82 | [Seikaku-Labo](https://github.com/zifox666/Seikaku-Labo) | 一个专门收录GitHub上能让人笑出腹肌的项目的合集，有老板模拟器怼你、有虚拟女友陪你聊天、有整蛊机器人专门搞破坏——正经人谁玩这个啊（褒义） | [GitHub](https://github.com/zifox666/Seikaku-Labo) | [小红书](./skills/seikaku-labo.md) |
+| 83 | [WAAutoResponder-NoRoot](https://github.com/kp7742/WAAutoResponder-NoRoot) | 全网最全整活 AI 工具箱！老板画饼？AI 怼回去！朋友恶搞？换脸安排！群里整蛊？Bot 替你喷！81 个沙雕项目，收藏起来周末慢慢玩 😂 | [GitHub](https://github.com/kp7742/WAAutoResponder-NoRoot) | [小红书](./skills/waautoresponder-noroot.md) |
+| 84 | [WAAutoResponder](https://github.com/kp7742/WAAutoResponder) | 微信有自动回复？WhatsApp表示我也要！装个Bot秒变社交达人，朋友发消息秒回、前任阴阳怪气、群聊假装有多个马甲——打工人の赛博嘴替，摸鱼群整蛊必备 😏 | [GitHub](https://github.com/kp7742/WAAutoResponder) | [小红书](./skills/waautoresponder.md) |
+| 85 | [autoresponder_bot](https://github.com/skrini4/autoresponder_bot) | 一个专门收集 GitHub 有梗 AI 工具的宝库！老板画饼？ AI 生成怼回去；想恶搞朋友？AI 换脸安排上；寂寞了？赛博女友 bot 陪你聊——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/skrini4/autoresponder_bot) | [小红书](./skills/autoresponder_bot.md) |
 
 ## 🎯 热门推荐
 
@@ -173,3 +177,7 @@
 - **[IT_CUST_VRPWeb](https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb)** #GitHub整活# #打工人摸鱼神器# #AI整蛊# #赛博女友# #老板画饼反击战# #沙雕开源项目# #打工人快乐源泉
 - **[genshinwish](https://github.com/Lawrenceeeeeeee/genshinwish)** #原神抽卡#抽卡玄学#原神模拟器#原神非酋#原神欧皇#游戏摸鱼#原神十连双黄
 - **[FAKER-Air](https://github.com/kaist-cvml/FAKER-Air)** #AI预测空气质量 #科研玩梗 #韩国KAIST #人工智能 #技术流装逼 #假装很懂空气
+- **[Seikaku-Labo](https://github.com/zifox666/Seikaku-Labo)** #GitHub有趣项目 #摸鱼神器 #打工人快乐 #赛博女友 #沙雕代码
+- **[WAAutoResponder-NoRoot](https://github.com/kp7742/WAAutoResponder-NoRoot)** # GitHub 整活 # 沙雕工具 # 打工人必备 # AI 整蛊 # 摸鱼神器
+- **[WAAutoResponder](https://github.com/kp7742/WAAutoResponder)** # WhatsApp整蛊 # 自动回复Bot # 赛博嘴替 # 聊天机器人 # 朋友圈装逼 # 整活神器
+- **[autoresponder_bot](https://github.com/skrini4/autoresponder_bot)** #GitHub整活 #打工人必备 #AI恶搞神器 #摸鱼技能 #整蛊工具箱 #赛博女友 #老板画饼怼回去
