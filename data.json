@@ -825,6 +825,61 @@
       "filename": "waifu-chatbot",
       "stars": 0,
       "collected_at": "2026-04-09"
+    },
+    {
+      "name": "waifu-chat",
+      "url": "https://github.com/lostviolinist/waifu-chat",
+      "description": "",
+      "description_zh": "0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂",
+      "fun_angle": "waifu文化本身就是ACG圈经典梗，「我有老婆了（代码写的）」这句话对死宅和程序员来说简直是共鸣神器。0星反而是加分项——越冷门越有「宝藏被发现」的装逼感，野生项目自带「我挖到的」优越感。二次元+AI女友双重debuff，天然适合引发「我也想要一个！」的讨论",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #野生宝藏 #代码也有梗",
+      "filename": "waifu-chat",
+      "stars": 0,
+      "collected_at": "2026-04-10"
+    },
+    {
+      "name": "Waifu_chat",
+      "url": "https://github.com/NathanAbrahamSinaga/Waifu_chat",
+      "description": "",
+      "description_zh": "0星野生赛博二次元老婆！把AI伪装成动漫少女来聊天，画饼老板见了沉默，Sora见了流泪——死宅终极精神支柱，终于把「我有老婆了（代码写的）」变成现实了 😂",
+      "fun_angle": "waifu文化本身就是ACG圈经典梗，「我有老婆了（代码写的）」这句话对死宅和程序员来说简直是共鸣神器。0星反而是加分项——越冷门越有「宝藏被发现」的装逼感，野生项目自带「我挖到的」优越感。二次元+AI女友双重debuff，天然适合引发「我也想要一个！」的讨论",
+      "xhs_topic": "#AI女友 #二次元老婆 #Waifu文化 #赛博恋爱 #程序员浪漫 #整活项目 #野生宝藏 #代码也有梗",
+      "filename": "waifu_chat",
+      "stars": 0,
+      "collected_at": "2026-04-10"
+    },
+    {
+      "name": "genshinwish",
+      "url": "https://github.com/Lawrenceeeeeeee/genshinwish",
+      "description": "模拟原神抽卡，具体可以模拟角色活动祈愿、武器祈愿和常驻祈愿（暂不支持新手祈愿）",
+      "description_zh": "原神抽卡模拟器，支持角色池、武器池、常驻池，不用648也能感受十连双黄蛋的快乐（或者大保底的痛苦）",
+      "fun_angle": "原神抽卡模拟器，不用充值就能体验十连金光闪闪的快乐，欧皇非酋都能找到共鸣",
+      "xhs_topic": "#原神抽卡#抽卡玄学#原神模拟器#原神非酋#原神欧皇#游戏摸鱼",
+      "filename": "genshinwish",
+      "stars": 2,
+      "collected_at": "2026-04-10"
+    },
+    {
+      "name": "IT_CUST_VRPWeb",
+      "url": "https://github.com/Zhoulixiang-cell/IT_CUST_VRPWeb",
+      "description": "这是利用AI模拟角色cosplay进行与用户对话，为用户提供专业知识回答，情绪价值回复",
+      "description_zh": "救命！发现一个GitHub仓库专门收集「能让你笑着摸鱼」的AI工具——老板画饼？AI生成怼回去！假人开口说话？Karen上线！换脸恶搞朋友？so easy！还有赛博女友bot陪你聊天，打工人周末整活必备 😂 75个整活技能，个个有梗，朋友圈发完同事都问你要链接！",
+      "fun_angle": "GitHub整活大合集！收集了75个沙雕AI工具——老板画饼怼回去、赛博二次元老婆、换脸整蛊、恶搞Bot...打工人の精神时光机，摸鱼必备，笑到老板以为你在加班",
+      "xhs_topic": "#GitHub整活# #打工人摸鱼神器# #AI整蛊# #赛博女友# #老板画饼反击战# #沙雕开源项目# #打工人快乐源泉",
+      "filename": "it_cust_vrpweb",
+      "stars": 0,
+      "collected_at": "2026-04-10"
+    },
+    {
+      "name": "genshinwish",
+      "url": "https://github.com/Lawrenceeeeeeee/genshinwish",
+      "description": "模拟原神抽卡，具体可以模拟角色活动祈愿、武器祈愿和常驻祈愿（暂不支持新手祈愿）",
+      "description_zh": "原神抽卡模拟器，支持角色池/武器池/常驻池，不用648也能感受十连双黄的快乐（或大保底歪掉的痛苦）",
+      "fun_angle": "原神抽卡模拟器，不用充值就能体验十连金光闪闪的快乐，欧皇非酋都能找到共鸣。大保底、歪50/50、10连双黄蛋——这些抽卡梗在玩家群体中永远有热度。",
+      "xhs_topic": "#原神抽卡#抽卡玄学#原神模拟器#原神非酋#原神欧皇#游戏摸鱼#原神十连双黄",
+      "filename": "genshinwish",
+      "stars": 2,
+      "collected_at": "2026-04-10"
     }
   ]
 }
