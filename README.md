@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-11 | 共 88 个 Skills
+更新时间: 2026-04-11 | 共 91 个 Skills
 
 ## 📂 分类汇总
 
@@ -96,6 +96,9 @@
 | 86 | [telegram-autoresponder-bot](https://github.com/dimchanske/telegram-autoresponder-bot) | 救命！我在 GitHub 挖到个整活工具箱 💀 老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 😂 | [GitHub](https://github.com/dimchanske/telegram-autoresponder-bot) | [小红书](./skills/telegram-autoresponder-bot.md) |
 | 87 | [Autoresponder-bot](https://github.com/zaqwsx2003/Autoresponder-bot) | GitHub 整活工具箱！老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/zaqwsx2003/Autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
 | 88 | [Autorespon](https://github.com/Bintangp02/Autorespon) | GitHub 整活工具箱！老板画饼？AI 自动生成怼回去！恶搞朋友？AI 换脸安排！寂寞了还有赛博女友 bot 陪你唠——全是程序员整活开源项目，朋友圈发完同事都问你要链接 💀 | [GitHub](https://github.com/Bintangp02/Autorespon) | [小红书](./skills/autorespon.md) |
+| 89 | [Bot_publishing_house](https://github.com/NikolaySavchenko/Bot_publishing_house) | 救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的有梗 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？so easy！88 个整活技能库，打工人的快乐源泉，周末发朋友圈绝对炸裂 😂 | [GitHub](https://github.com/NikolaySavchenko/Bot_publishing_house) | [小红书](./skills/bot_publishing_house.md) |
+| 90 | [autoresponder-bot](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot) | 自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂 | [GitHub](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
+| 91 | [autoresponder-bot](https://github.com/progyan/autoresponder-bot) | 自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂 | [GitHub](https://github.com/progyan/autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
 
 ## 🎯 热门推荐
 
@@ -187,3 +190,6 @@
 - **[telegram-autoresponder-bot](https://github.com/dimchanske/telegram-autoresponder-bot)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
 - **[Autoresponder-bot](https://github.com/zaqwsx2003/Autoresponder-bot)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
 - **[Autorespon](https://github.com/Bintangp02/Autorespon)** #GitHub整活 #打工人摸鱼神器 #老板画饼怼回去 #赛博女友 #AI恶搞 #整蛊工具箱 #开源项目推荐
+- **[Bot_publishing_house](https://github.com/NikolaySavchenko/Bot_publishing_house)** #GitHub整活 #打工人摸鱼神器 #赛博女友 #老板画饼生成器 #AI恶搞
+- **[autoresponder-bot](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot)** #自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊
+- **[autoresponder-bot](https://github.com/progyan/autoresponder-bot)** #自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊

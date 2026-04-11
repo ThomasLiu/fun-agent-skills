@@ -968,6 +968,39 @@
       "filename": "autorespon",
       "stars": 1,
       "collected_at": "2026-04-10"
+    },
+    {
+      "name": "Bot_publishing_house",
+      "url": "https://github.com/NikolaySavchenko/Bot_publishing_house",
+      "description": "Publishing autoresponder bot",
+      "description_zh": "救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的有梗 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？so easy！88 个整活技能库，打工人的快乐源泉，周末发朋友圈绝对炸裂 😂",
+      "fun_angle": "这是专门收集「整活 GitHub 项目」的合集——老板画饼生成器、赛博女友 Bot、换脸恶搞、Discord 恶作剧 Bot、整蛊爬虫的反向钓鱼……全是打工人摸鱼快乐源泉、朋友圈装逼素材。名字就叫 Fun Agent Skills，定位就是「有趣有梗的 AI 工具集合」。88 个 Skills，分类清晰，每条都有小红书内容页。",
+      "xhs_topic": "#GitHub整活 #打工人摸鱼神器 #赛博女友 #老板画饼生成器 #AI恶搞",
+      "filename": "bot_publishing_house",
+      "stars": 0,
+      "collected_at": "2026-04-11"
+    },
+    {
+      "name": "autoresponder-bot",
+      "url": "https://github.com/GPT-Engineer-App-Dev/autoresponder-bot",
+      "description": "",
+      "description_zh": "自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂",
+      "fun_angle": "自动回复整蛊神器！朋友发消息秒回、群里假装有多个马甲同时在线、收到前任消息让 Bot 替你阴阳怪气——妥妥的赛博嘴替 + 摸鱼群整蛊必备。核心玩法：自动回复 + 整蛊结合，属于「正经人不会这么玩但玩起来真香」的类型。0 颗星反而是加分项——冷门宝藏显得你在「挖宝」💀",
+      "xhs_topic": "#自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊",
+      "filename": "autoresponder-bot",
+      "stars": 0,
+      "collected_at": "2026-04-11"
+    },
+    {
+      "name": "autoresponder-bot",
+      "url": "https://github.com/progyan/autoresponder-bot",
+      "description": "My test autoresponder telegram bot server, based on GPT-3.",
+      "description_zh": "自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂",
+      "fun_angle": "自动回复整蛊神器！朋友发消息秒回、群里假装有多个马甲同时在线、收到前任消息让 Bot 替你阴阳怪气——妥妥的赛博嘴替 + 摸鱼群整蛊必备。核心玩法：自动回复 + 整蛊结合，属于「正经人不会这么玩但玩起来真香」的类型。0 颗星反而是加分项——冷门宝藏显得你在「挖宝」💀",
+      "xhs_topic": "#自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊",
+      "filename": "autoresponder-bot",
+      "stars": 0,
+      "collected_at": "2026-04-11"
     }
   ]
 }
