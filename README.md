@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-11 | 共 91 个 Skills
+更新时间: 2026-04-11 | 共 92 个 Skills
 
 ## 📂 分类汇总
 
@@ -99,6 +99,7 @@
 | 89 | [Bot_publishing_house](https://github.com/NikolaySavchenko/Bot_publishing_house) | 救命！这个 GitHub 仓库专门收集「能让你笑着摸鱼」的有梗 AI 工具——老板画饼？AI 生成怼回去！假人开口说话？Karen 上线！换脸恶搞朋友？so easy！88 个整活技能库，打工人的快乐源泉，周末发朋友圈绝对炸裂 😂 | [GitHub](https://github.com/NikolaySavchenko/Bot_publishing_house) | [小红书](./skills/bot_publishing_house.md) |
 | 90 | [autoresponder-bot](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot) | 自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂 | [GitHub](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
 | 91 | [autoresponder-bot](https://github.com/progyan/autoresponder-bot) | 自动回复 Bot —— 让你的消息永远秒回，群里有多个马甲，对前任阴阳怪气全自动，社交天花板就靠它了 😂 | [GitHub](https://github.com/progyan/autoresponder-bot) | [小红书](./skills/autoresponder-bot.md) |
+| 92 | [Vix-AI](https://github.com/svila-ylym/Vix-AI) | 发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！换脸恶搞朋友？安排！打工人精神时光机，周末整活必备 😂 | [GitHub](https://github.com/svila-ylym/Vix-AI) | [小红书](./skills/vix-ai.md) |
 
 ## 🎯 热门推荐
 
@@ -193,3 +194,4 @@
 - **[Bot_publishing_house](https://github.com/NikolaySavchenko/Bot_publishing_house)** #GitHub整活 #打工人摸鱼神器 #赛博女友 #老板画饼生成器 #AI恶搞
 - **[autoresponder-bot](https://github.com/GPT-Engineer-App-Dev/autoresponder-bot)** #自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊
 - **[autoresponder-bot](https://github.com/progyan/autoresponder-bot)** #自动回复整蛊 #WhatsApp整蛊 #赛博嘴替 #聊天机器人 #整活神器 #假装秒回 #群聊马甲 #Bot整蛊
+- **[Vix-AI](https://github.com/svila-ylym/Vix-AI)** #ai整活 #打工人快乐源泉 #github整蛊 #ai工具推荐 #画饼老板模拟器 #deepfake #赛博嘴替

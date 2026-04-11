@@ -1001,6 +1001,17 @@
       "filename": "autoresponder-bot",
       "stars": 0,
       "collected_at": "2026-04-11"
+    },
+    {
+      "name": "Vix-AI",
+      "url": "https://github.com/svila-ylym/Vix-AI",
+      "description": "VixAI 是一个基于多模型融合的智能对话程序，支持多种大模型（如 Qwen、InternLM、GLM 等），具备情感模拟、角色扮演、日程生成、审核等能力。项目采用 Flask 提供 API 服务，并支持本地及云端模型调用",
+      "description_zh": "发现一个 GitHub 仓库专门收集「能让你笑着摸鱼」的 AI 工具——老板画饼？AI 生成怼回去！换脸恶搞朋友？安排！打工人精神时光机，周末整活必备 😂",
+      "fun_angle": "这个仓库就是一座「整活 AI 工具博物馆」！91 个 Skills 全是打工人の快乐源泉——老板画饼模拟器、怼人 Bot、Deepfake 换脸、赛博女友 Bot、巫毒假机场...全是能引发「哈哈哈这也能有」的沙雕项目，天然带话题感",
+      "xhs_topic": "#ai整活 #打工人快乐源泉 #github整蛊 #ai工具推荐 #画饼老板模拟器 #deepfake #赛博嘴替",
+      "filename": "vix-ai",
+      "stars": 0,
+      "collected_at": "2026-04-11"
     }
   ]
 }
