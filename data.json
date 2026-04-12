@@ -1045,6 +1045,17 @@
       "filename": "seikaku-labo",
       "stars": 1,
       "collected_at": "2026-04-10"
+    },
+    {
+      "name": "fake-ai-response",
+      "url": "https://github.com/rowanhen/fake-ai-response",
+      "description": "Generate fake AI tool screenshots - Claude Code, ChatGPT, Cursor, Codex CLI and more",
+      "description_zh": "专门伪造 AI 对话截图的工具，可以假装 Claude Code、ChatGPT、Cursor 帮你干活了——整蛊朋友、发朋友圈钓鱼的必备神器！",
+      "fun_angle": "专门用来伪造 Claude Code、ChatGPT、Cursor 等 AI 工具对话截图的工具，可以假装自己和 AI 聊得飞起、假装解决了 bug、假装让 Claude 写出了完美代码——纯纯的整蛊神器！",
+      "xhs_topic": "#假装自己天天在调教AI #AI整蛊 #假AI对话截图 #ChatGPT聊天记录 #程序员整活 #Claude Code #小红书整活",
+      "filename": "fake-ai-response",
+      "stars": 0,
+      "collected_at": "2026-04-12"
     }
   ]
 }
