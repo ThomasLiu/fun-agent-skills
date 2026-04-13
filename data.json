@@ -1056,6 +1056,17 @@
       "filename": "fake-ai-response",
       "stars": 0,
       "collected_at": "2026-04-12"
+    },
+    {
+      "name": "telegrambotautoresponder",
+      "url": "https://github.com/Xfox1/telegrambotautoresponder",
+      "description": "A simple little framework to create an autoresponder bot for telegram.",
+      "description_zh": "救命！这个 GitHub 6 颗星的小 Bot 简直是整蛊天花板 😭 在 Telegram 设置好自动回复，假装自己是个高冷大神秒回消息，或者整蛊群友安排上——打工人摸鱼、对线友商的神仙工具！",
+      "fun_angle": "Telegram 自动回复 Bot，整蛊朋友/群友的神器！可以设置自动回复内容，假装有个bot替你回消息，或者用来整蛊群友，简直是电子整蛊天花板",
+      "xhs_topic": "#Telegram整蛊Bot #自动回复神器 #整蛊群友 #摸鱼工具 #电子斗嘴 #宝藏Bot发现",
+      "filename": "telegrambotautoresponder",
+      "stars": 6,
+      "collected_at": "2026-04-13"
     }
   ]
 }
