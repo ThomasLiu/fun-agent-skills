@@ -1067,6 +1067,28 @@
       "filename": "telegrambotautoresponder",
       "stars": 6,
       "collected_at": "2026-04-13"
+    },
+    {
+      "name": "Troll-Bot",
+      "url": "https://github.com/JadynHax/Troll-Bot",
+      "description": "",
+      "description_zh": "救命！我给服务器整了个超离谱的 Discord Bot 🤖 能向 Shrek 乞讨钱、找 Dr. Michael Morbius 求续命、问乐高砖块讨金币 🧱 Among Us 自动 SUSSY 回怼！8ball 专答 ratio/naur 😂 笑到邻居报警",
+      "fun_angle": "Discord 梗机器人，可向 Shrek/Elon Musk/Dr. Michael Morbius/乐高砖块乞讨虚拟金币，8ball 回答 ratio/naur/sorry im busy gaming ttyl，Among Us 触发自动 SUSSY 回怼",
+      "xhs_topic": "#Discord机器人 #梗文化 #沙雕机器人 #SUSSY #AmongUs #ratio #搞笑Bot",
+      "filename": "troll-bot",
+      "stars": 2,
+      "collected_at": "2026-04-13"
+    },
+    {
+      "name": "girlfriend-bot",
+      "url": "https://github.com/BrasD99/girlfriend-bot",
+      "description": "",
+      "description_zh": "给自己造的AI女友bot，黑暗时期来临时它会安慰我——2021年就计划的项目，星数只有3颗，大概是程序员都懂的「等我忙完就做」式烂尾😂",
+      "fun_angle": "自嘲式浪漫bot——给自己造了个「黑暗时期安慰剂」，还flag倒在2021年，这种「等我忙完就做」的程序员拖延症梗太真实了😂",
+      "xhs_topic": "#AI女友bot #程序员自嘲 #赛博安慰剂 #黑暗时期bot #2021年flag #极客整活",
+      "filename": "girlfriend-bot",
+      "stars": 0,
+      "collected_at": "2026-04-13"
     }
   ]
 }

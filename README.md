@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-13 | 共 97 个 Skills
+更新时间: 2026-04-14 | 共 99 个 Skills
 
 ## 📂 分类汇总
 
@@ -105,6 +105,8 @@
 | 95 | [Seikaku-Labo](https://github.com/zifox666/Seikaku-Labo) | 一个专门收录GitHub上能让人笑出腹肌的项目的合集，有老板模拟器怼你、有虚拟女友陪你聊天、有整蛊机器人专门搞破坏——正经人谁玩这个啊（褒义） | [GitHub](https://github.com/zifox666/Seikaku-Labo) | [小红书](./skills/seikaku-labo.md) |
 | 96 | [fake-ai-response](https://github.com/rowanhen/fake-ai-response) | 专门伪造 AI 对话截图的工具，可以假装 Claude Code、ChatGPT、Cursor 帮你干活了——整蛊朋友、发朋友圈钓鱼的必备神器！ | [GitHub](https://github.com/rowanhen/fake-ai-response) | [小红书](./skills/fake-ai-response.md) |
 | 97 | [telegrambotautoresponder](https://github.com/Xfox1/telegrambotautoresponder) | 救命！这个 GitHub 6 颗星的小 Bot 简直是整蛊天花板 😭 在 Telegram 设置好自动回复，假装自己是个高冷大神秒回消息，或者整蛊群友安排上——打工人摸鱼、对线友商的神仙工具！ | [GitHub](https://github.com/Xfox1/telegrambotautoresponder) | [小红书](./skills/telegrambotautoresponder.md) |
+| 98 | [Troll-Bot](https://github.com/JadynHax/Troll-Bot) | 救命！我给服务器整了个超离谱的 Discord Bot 🤖 能向 Shrek 乞讨钱、找 Dr. Michael Morbius 求续命、问乐高砖块讨金币 🧱 Among Us 自动 SUSSY 回怼！8ball 专答 ratio/naur 😂 笑到邻居报警 | [GitHub](https://github.com/JadynHax/Troll-Bot) | [小红书](./skills/troll-bot.md) |
+| 99 | [girlfriend-bot](https://github.com/BrasD99/girlfriend-bot) | 给自己造的AI女友bot，黑暗时期来临时它会安慰我——2021年就计划的项目，星数只有3颗，大概是程序员都懂的「等我忙完就做」式烂尾😂 | [GitHub](https://github.com/BrasD99/girlfriend-bot) | [小红书](./skills/girlfriend-bot.md) |
 
 ## 🎯 热门推荐
 
@@ -205,3 +207,5 @@
 - **[Seikaku-Labo](https://github.com/zifox666/Seikaku-Labo)** #GitHub有趣项目 #摸鱼神器 #打工人快乐 #赛博女友 #沙雕代码
 - **[fake-ai-response](https://github.com/rowanhen/fake-ai-response)** #假装自己天天在调教AI #AI整蛊 #假AI对话截图 #ChatGPT聊天记录 #程序员整活 #Claude Code #小红书整活
 - **[telegrambotautoresponder](https://github.com/Xfox1/telegrambotautoresponder)** #Telegram整蛊Bot #自动回复神器 #整蛊群友 #摸鱼工具 #电子斗嘴 #宝藏Bot发现
+- **[Troll-Bot](https://github.com/JadynHax/Troll-Bot)** #Discord机器人 #梗文化 #沙雕机器人 #SUSSY #AmongUs #ratio #搞笑Bot
+- **[girlfriend-bot](https://github.com/BrasD99/girlfriend-bot)** #AI女友bot #程序员自嘲 #赛博安慰剂 #黑暗时期bot #2021年flag #极客整活
