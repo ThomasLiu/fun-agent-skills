@@ -2,7 +2,7 @@
 
 > 有趣的 Agent Skills 收集，专注有梗、有话题性的内容素材
 
-更新时间: 2026-04-15 | 共 99 个 Skills
+更新时间: 2026-04-15 | 共 101 个 Skills
 
 ## 📂 分类汇总
 
@@ -107,6 +107,8 @@
 | 97 | [telegrambotautoresponder](https://github.com/Xfox1/telegrambotautoresponder) | 救命！这个 GitHub 6 颗星的小 Bot 简直是整蛊天花板 😭 在 Telegram 设置好自动回复，假装自己是个高冷大神秒回消息，或者整蛊群友安排上——打工人摸鱼、对线友商的神仙工具！ | [GitHub](https://github.com/Xfox1/telegrambotautoresponder) | [小红书](./skills/telegrambotautoresponder.md) |
 | 98 | [Troll-Bot](https://github.com/JadynHax/Troll-Bot) | 救命！我给服务器整了个超离谱的 Discord Bot 🤖 能向 Shrek 乞讨钱、找 Dr. Michael Morbius 求续命、问乐高砖块讨金币 🧱 Among Us 自动 SUSSY 回怼！8ball 专答 ratio/naur 😂 笑到邻居报警 | [GitHub](https://github.com/JadynHax/Troll-Bot) | [小红书](./skills/troll-bot.md) |
 | 99 | [girlfriend-bot](https://github.com/BrasD99/girlfriend-bot) | 给自己造的AI女友bot，黑暗时期来临时它会安慰我——2021年就计划的项目，星数只有3颗，大概是程序员都懂的「等我忙完就做」式烂尾😂 | [GitHub](https://github.com/BrasD99/girlfriend-bot) | [小红书](./skills/girlfriend-bot.md) |
+| 100 | [DungeonBossSimulator](https://github.com/teoks0199/DungeonBossSimulator) | NUS新加坡国立大学Orbital 2023学生项目 - 地牢Boss模拟器，你来当Boss守关卡！名字就很有梗，反向操作系列 | [GitHub](https://github.com/teoks0199/DungeonBossSimulator) | [小红书](./skills/dungeonbosssimulator.md) |
+| 101 | [freedata-bot](https://github.com/SpudGunMan/freedata-bot) | GitHub整活技能大合集！99个有梗AI工具，老板画饼？AI怼回去！恶搞朋友？Deepfake换脸！寂寞了还有赛博女友陪你唠——正经人谁收藏这个啊（褒义）😂 | [GitHub](https://github.com/SpudGunMan/freedata-bot) | [小红书](./skills/freedata-bot.md) |
 
 ## 🎯 热门推荐
 
@@ -209,3 +211,5 @@
 - **[telegrambotautoresponder](https://github.com/Xfox1/telegrambotautoresponder)** #Telegram整蛊Bot #自动回复神器 #整蛊群友 #摸鱼工具 #电子斗嘴 #宝藏Bot发现
 - **[Troll-Bot](https://github.com/JadynHax/Troll-Bot)** #Discord机器人 #梗文化 #沙雕机器人 #SUSSY #AmongUs #ratio #搞笑Bot
 - **[girlfriend-bot](https://github.com/BrasD99/girlfriend-bot)** #AI女友bot #程序员自嘲 #赛博安慰剂 #黑暗时期bot #2021年flag #极客整活
+- **[DungeonBossSimulator](https://github.com/teoks0199/DungeonBossSimulator)** #地牢boss模拟器 #NUS新加坡国立 #Orbital2023 #学生项目 #游戏开发 #反英雄设定 #梗
+- **[freedata-bot](https://github.com/SpudGunMan/freedata-bot)** #GitHub整活 #打工人摸鱼神器 #沙雕开源项目 #程序员整活 #AI恶搞 #赛博女友 #老板画饼怼回去

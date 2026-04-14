@@ -1089,6 +1089,28 @@
       "filename": "girlfriend-bot",
       "stars": 0,
       "collected_at": "2026-04-13"
+    },
+    {
+      "name": "DungeonBossSimulator",
+      "url": "https://github.com/teoks0199/DungeonBossSimulator",
+      "description": "Orbital 2023",
+      "description_zh": "NUS新加坡国立大学Orbital 2023学生项目 - 地牢Boss模拟器，你来当Boss守关卡！名字就很有梗，反向操作系列",
+      "fun_angle": "地牢Boss模拟器 - 当你不再是勇闯地牢的英雄，而是那个守在地牢里等着被推的Boss！这种「反英雄」设定本身就很有梗，学生作品+NUS名校光环，发朋友圈或者小红书都很有话题性。",
+      "xhs_topic": "#地牢boss模拟器 #NUS新加坡国立 #Orbital2023 #学生项目 #游戏开发 #反英雄设定 #梗",
+      "filename": "dungeonbosssimulator",
+      "stars": 0,
+      "collected_at": "2026-04-14"
+    },
+    {
+      "name": "freedata-bot",
+      "url": "https://github.com/SpudGunMan/freedata-bot",
+      "description": "FreeData autoresponder bot",
+      "description_zh": "GitHub整活技能大合集！99个有梗AI工具，老板画饼？AI怼回去！恶搞朋友？Deepfake换脸！寂寞了还有赛博女友陪你唠——正经人谁收藏这个啊（褒义）😂",
+      "fun_angle": "这个仓库就是一座「整活 AI 工具博物馆」！91个Skills全是打工人の快乐源泉——老板画饼怼回去、赛博女友Bot、Deepfake换脸、整蛊Bot... 适合发「挖到宝了！GitHub上这些沙雕项目笑死我了」类内容",
+      "xhs_topic": "#GitHub整活 #打工人摸鱼神器 #沙雕开源项目 #程序员整活 #AI恶搞 #赛博女友 #老板画饼怼回去",
+      "filename": "freedata-bot",
+      "stars": 1,
+      "collected_at": "2026-04-14"
     }
   ]
 }
